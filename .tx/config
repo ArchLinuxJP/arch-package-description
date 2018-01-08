@@ -1,0 +1,188 @@
+[main]
+host = https://www.transifex.com
+
+[arch-package-description.0json]
+file_filter = <lang>/0.json
+host = https://www.transifex.com
+source_lang = en
+type = KEYVALUEJSON
+
+[arch-package-description.4json]
+file_filter = <lang>/4.json
+host = https://www.transifex.com
+source_lang = en
+type = KEYVALUEJSON
+
+[arch-package-description.6json]
+file_filter = <lang>/6.json
+host = https://www.transifex.com
+source_lang = en
+type = KEYVALUEJSON
+
+[arch-package-description.9json]
+file_filter = <lang>/9.json
+host = https://www.transifex.com
+source_lang = en
+type = KEYVALUEJSON
+
+[arch-package-description.ajson-2]
+file_filter = <lang>/a.json
+host = https://www.transifex.com
+source_lang = en
+type = KEYVALUEJSON
+
+[arch-package-description.bjson]
+file_filter = <lang>/b.json
+host = https://www.transifex.com
+source_lang = en
+type = KEYVALUEJSON
+
+[arch-package-description.cjson]
+file_filter = <lang>/c.json
+host = https://www.transifex.com
+source_lang = en
+type = KEYVALUEJSON
+
+[arch-package-description.djson]
+file_filter = <lang>/d.json
+host = https://www.transifex.com
+source_lang = en
+type = KEYVALUEJSON
+
+[arch-package-description.ejson]
+file_filter = <lang>/e.json
+host = https://www.transifex.com
+source_lang = en
+type = KEYVALUEJSON
+
+[arch-package-description.fjson]
+file_filter = <lang>/f.json
+host = https://www.transifex.com
+source_lang = en
+type = KEYVALUEJSON
+
+[arch-package-description.gjson]
+file_filter = <lang>/g.json
+host = https://www.transifex.com
+source_lang = en
+type = KEYVALUEJSON
+
+[arch-package-description.hjson]
+file_filter = <lang>/h.json
+host = https://www.transifex.com
+source_lang = en
+type = KEYVALUEJSON
+
+[arch-package-description.ijson]
+file_filter = <lang>/i.json
+host = https://www.transifex.com
+source_lang = en
+type = KEYVALUEJSON
+
+[arch-package-description.jjson]
+file_filter = <lang>/j.json
+host = https://www.transifex.com
+source_lang = en
+type = KEYVALUEJSON
+
+[arch-package-description.kjson]
+file_filter = <lang>/k.json
+host = https://www.transifex.com
+source_lang = en
+type = KEYVALUEJSON
+
+[arch-package-description.ljson]
+file_filter = <lang>/l.json
+host = https://www.transifex.com
+source_lang = en
+type = KEYVALUEJSON
+
+[arch-package-description.mjson]
+file_filter = <lang>/m.json
+host = https://www.transifex.com
+source_lang = en
+type = KEYVALUEJSON
+
+[arch-package-description.njson]
+file_filter = <lang>/n.json
+host = https://www.transifex.com
+source_lang = en
+type = KEYVALUEJSON
+
+[arch-package-description.ojson]
+file_filter = <lang>/o.json
+host = https://www.transifex.com
+source_lang = en
+type = KEYVALUEJSON
+
+[arch-package-description.pjson]
+file_filter = <lang>/p.json
+host = https://www.transifex.com
+source_lang = en
+type = KEYVALUEJSON
+
+[arch-package-description.qjson]
+file_filter = <lang>/q.json
+host = https://www.transifex.com
+source_lang = en
+type = KEYVALUEJSON
+
+[arch-package-description.rjson]
+file_filter = <lang>/r.json
+host = https://www.transifex.com
+source_lang = en
+type = KEYVALUEJSON
+
+[arch-package-description.sjson]
+file_filter = <lang>/s.json
+host = https://www.transifex.com
+source_lang = en
+type = KEYVALUEJSON
+
+[arch-package-description.tjson]
+file_filter = <lang>/t.json
+host = https://www.transifex.com
+source_lang = en
+type = KEYVALUEJSON
+
+[arch-package-description.ujson]
+file_filter = <lang>/u.json
+host = https://www.transifex.com
+source_lang = en
+type = KEYVALUEJSON
+
+[arch-package-description.vjson]
+file_filter = <lang>/v.json
+host = https://www.transifex.com
+source_lang = en
+type = KEYVALUEJSON
+
+[arch-package-description.wjson]
+file_filter = <lang>/w.json
+host = https://www.transifex.com
+source_lang = en
+type = KEYVALUEJSON
+
+[arch-package-description.xjson]
+file_filter = <lang>/x.json
+host = https://www.transifex.com
+source_lang = en
+type = KEYVALUEJSON
+
+[arch-package-description.yjson]
+file_filter = <lang>/y.json
+host = https://www.transifex.com
+source_lang = en
+type = KEYVALUEJSON
+
+[arch-package-description.zjson]
+file_filter = <lang>/z.json
+host = https://www.transifex.com
+source_lang = en
+type = KEYVALUEJSON
+
+[arch-package-description.uijson]
+file_filter = <lang>.json
+host = https://www.transifex.com
+source_lang = en
+type = KEYVALUEJSON

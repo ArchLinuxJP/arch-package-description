@@ -1,0 +1,10 @@
+{
+    "package-search": "Package Search",
+    "arch": "Arch",
+    "repository": "Repository",
+    "keyword": "Keywords",
+    "name": "Name",
+    "version": "Version",
+    "description": "Description",
+    "lastupdated": "Last Updated"
+}

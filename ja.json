@@ -1,0 +1,10 @@
+{
+    "package-search": "パッケージ検索",
+    "arch": "アーキテクチャ",
+    "repository": "リポジトリ",
+    "keyword": "キーワード",
+    "name": "名前",
+    "version": "バージョン",
+    "description": "説明",
+    "lastupdated": "最終更新"
+}
