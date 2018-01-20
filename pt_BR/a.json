@@ -1,7 +1,7 @@
 {
     "acl": "Utilitários de controle de acesso de listas, bibliotecas e cabeçalhos",
     "archlinux-keyring": "Chaveiro PGP do Arch Linux",
-    "argon2": "A password-hashing function (reference C implementation)",
+    "argon2": "Uma função para password hashing (referência implementação em C)",
     "attr": "Suporte de atributo estendido para biblioteca de suporte ACL.",
     "autoconf": "Uma ferramenta GNU para configurar automaticamente o código fonte",
     "automake": "Uma ferramenta GNU para criar Makefiles automaticamente",
@@ -10,7 +10,7 @@
     "aalib": "Uma biblioteca gráfica portátil para arte ASCII",
     "abiword": "Processador de texto cheio de recursos",
     "abook": "Agenda baseada em texto desenhada para uso com Mutt",
-    "accerciser": "Interactive Python accessibility explorer for the GNOME desktop",
+    "accerciser": "Explorador de acessibilidade interativo em Python para GNOME",
     "accounts-qml-module": "Expose the Online Accounts API to QML applications",
     "accountsservice": "Interface D-Bus para busca e manipulação de conta de usuário",
     "adobe-source-code-pro-fonts": "Monospaced font family for user interface and coding environments",

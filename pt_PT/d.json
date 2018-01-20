@@ -169,7 +169,7 @@
     "dina-font": "A monospace bitmap font, primarily aimed at programmers",
     "dingo": "A DNS client in Go that supports Google DNS over HTTPS",
     "displaycal": "Open Source Display Calibration and Characterization powered by Argyll CMS (Formerly known as dispcalGUI)",
-    "distcc": "A distributed C, C++, Obj C compiler",
+    "distcc": "Distributed C, C++ and Objective-C compiler",
     "distorm": "Powerful disassembler library for x86/AMD64",
     "ditaa": "Java utility to convert diagrams drawn using ascii art to bitmap",
     "djview": "Portable DjVu viewer and browser plugin",
