@@ -120,7 +120,7 @@
     "catimg": "Print images in a terminal with 256 colors support",
     "cbatticon": "Lightweight battery icon for the system tray",
     "cblrepo": "Tool to maintain a database of CABAL packages and their dependencies",
-    "ccache": "A compiler cache",
+    "ccache": "Compiler cache that speeds up recompilation by caching previous compilations",
     "ccd2iso": "Converts CCD/IMG CloneCD images to ISO format",
     "ccfits": "Object Oriented Interface to the CFITSIO Library",
     "ccgo": "Play the game of Go with gnugo or against other players on IGS",
