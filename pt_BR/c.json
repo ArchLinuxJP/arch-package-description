@@ -265,7 +265,7 @@
     "cuda": "kit de ferramentas de programação GPU da NVIDIA",
     "cudnn": "NVIDIA CUDA Deep Neural Network library",
     "cuetools": "Interpretador e  analisadores de arquivo toc e utilitários.",
-    "cuneiform": "Port de Linux de um sistema OCR desenvolvido na Rússia. Suporta mais de 20 idiomas.",
+    "cuneiform": "Linux port of an OCR system developed in Russia. Supports more than 20 languages",
     "cura": "A software solution for 3D printing aimed at RepRaps and the Ultimaker.",
     "cura-binary-data": "Binary data (firmwares and such) for cura",
     "cura-resources-materials": "Missing materials resources for Cura",
@@ -277,5 +277,9 @@
     "cvc4": "Um provador de teoremas automático",
     "cxxtest": "Unidade de testes framework para C++",
     "cython": "Extensões C pra Python",
-    "cython2": "Extensões C pra Python"
+    "cython2": "Extensões C pra Python",
+    "carla": "Audio Plugin Host",
+    "csound": "A programming language for sound rendering and signal processing.",
+    "csound-doc": "The Canonical Csound Reference Manual",
+    "csoundqt": "A frontend for Csound featuring a highlighting editor with autocomplete, interactive widgets and integrated help"
 }

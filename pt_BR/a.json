@@ -263,5 +263,6 @@
     "awesome-terminal-fonts": "fonts/icons for powerlines",
     "aws-cli": "Universal Command Line Interface for Amazon Web Services",
     "awstats": "tool that generates web, streaming, ftp and mail server statistics, graphically",
-    "axel": "Light command line download accelerator"
+    "axel": "Light command line download accelerator",
+    "aj-snapshot": "Command line utility to store/restore ALSA and/or JACK connections to/from an XML file."
 }
