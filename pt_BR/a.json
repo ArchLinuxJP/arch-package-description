@@ -103,6 +103,7 @@
     "aarch64-linux-gnu-linux-api-headers": "Kernel headers sanitized for use in userspace (aarch64-linux-gnu)",
     "abcde": "Frontend command-line utility that grabs tracks off a CD, encodes them to ogg or mp3 format, and tags them, all in one go",
     "abduco": "Tool for session {at,de}tach support which allows a process to run independently from its controlling terminal",
+    "absl-py": "Abseil Python Common Libraries",
     "abuse": "Side-scroller action game that pits you against ruthless alien killers",
     "acbuild": "App Container Image Build Command",
     "accuraterip-checksum": "A C99 commandline program to compute the AccurateRip checksum of singletrack WAV files",
