@@ -59,7 +59,6 @@
     "colord-gtk": "Additional GTK support code for colord",
     "compface": "Utils & libs to convert from/to X-Face format.",
     "composer": "Dependency Manager for PHP",
-    "compositeproto": "X11 Composite extension wire protocol",
     "conky": "Lightweight system monitor for X",
     "conntrack-tools": "Userspace tools to interact with the Netfilter connection tracking system",
     "convertlit": "An extractor/converter for .LIT eBooks",
@@ -251,6 +250,7 @@
     "cpanminus": "Get, unpack, build and install modules from CPAN",
     "cpp-hocon": "C++ port of the Typesafe Config library",
     "cppcheck": "A tool for static C/C++ code analysis",
+    "cppo": "C-style preprocessor for OCaml",
     "cpuburn": "CPU testing utilities in optimized assembler for maximum loading of CPUs",
     "cpulimit": "Limit cpu usage of a process in percentage. Actually sends SIGSTOP/SIGCONT POSIX signals to processes",
     "cpupower": "Linux kernel tool to examine and tune power saving related features of your processor",
@@ -264,6 +264,9 @@
     "cryptominisat5": "A modern, multi-threaded, feature-rich, simplifying SAT solver",
     "crystal": "The Crystal Programming Language",
     "csfml": "C bindings for sfml",
+    "csound": "A programming language for sound rendering and signal processing.",
+    "csound-doc": "A programming language for sound rendering and signal processing.",
+    "csoundqt": "A frontend for Csound featuring a highlighting editor with autocomplete, interactive widgets and integrated help",
     "ctemplate": "A library implementing a simple but powerful template language for C++",
     "ctpl": "Template engine library written in C",
     "cuda": "NVIDIA's GPU programming toolkit",
@@ -281,8 +284,5 @@
     "cvc4": "An automatic theorem prover",
     "cxxtest": "Unit testing framework for C++",
     "cython": "C-Extensions for Python",
-    "cython2": "C-Extensions for Python",
-    "csound": "A programming language for sound rendering and signal processing.",
-    "csound-doc": "A programming language for sound rendering and signal processing.",
-    "csoundqt": "A frontend for Csound featuring a highlighting editor with autocomplete, interactive widgets and integrated help"
+    "cython2": "C-Extensions for Python"
 }
