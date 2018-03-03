@@ -171,6 +171,7 @@
     "apcupsd": "Power mangement and controlling most of APC's UPS models",
     "apitrace": "Graphics API Tracing",
     "apm": "Atom package manager",
+    "apper": "An application and package manager using PackageKit",
     "appmenu-qt4": "Export Qt4 applications menus over D-Bus",
     "appstream-generator": "A fast AppStream metadata generator",
     "aqbanking": "A library for online banking and financial applications",

@@ -171,6 +171,7 @@
     "apcupsd": "大抵の APC 製 UPS モデルの電源管理と制御",
     "apitrace": "グラフィック API トレーシング",
     "apm": "Atom パッケージマネージャ",
+    "apper": "PackageKit を使用するアプリケーションとパッケージマネージャ",
     "appmenu-qt4": "Qt4 アプリケーションのメニューを D-Bus でエクスポート",
     "appstream-generator": "高速な AppStream メタデータジェネレータ",
     "aqbanking": "オンラインバンキングや金融アプリケーションのライブラリ",
