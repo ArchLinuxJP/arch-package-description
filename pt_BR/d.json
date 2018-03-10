@@ -196,7 +196,6 @@
     "dotnet-runtime": "The .NET Core runtime",
     "dotnet-sdk": "The .NET Core SDK",
     "doublecmd-gtk2": "twin-panel (commander-style) file manager (GTK)",
-    "doublecmd-qt4": "twin-panel (commander-style) file manager (Qt4)",
     "doublecmd-qt5": "twin-panel (commander-style) file manager (Qt5)",
     "dovecot": "An IMAP and POP3 server written with security primarily in mind",
     "drbd-utils": "Userland tools for Distributed Replicated Block Device",
