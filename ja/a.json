@@ -106,6 +106,7 @@
     "accuraterip-checksum": "シングルトラックの WAV ファイルの AccurateRip チェックサムを計算する C99 コマンドラインプログラム",
     "acetoneiso2": "オールインワンの ISO ツール (bin mdf nrg img daa dmg cdi b5i bwi pdi iso)",
     "ack": "多種多様な巨大なソースコードを扱うプログラマ向けの Perl ベースの grep 代替",
+    "acme-tiny": "Let's Encrypt から TLS 証明書を発行・更新するための小さなスクリプト",
     "acorn": "完全に JavaScript で書かれた小さく高速な JavaScript パーサー",
     "acpi": "バッテリーや電源、温度の情報を読み込むためのクライアント",
     "acpi_call": "/proc/acpi/call から ACPI メソッドをコールできるようにする linux カーネルモジュール",
