@@ -42,7 +42,6 @@
     "cifs-utils": "CIFS filesystem user-space tools",
     "clamav": "Anti-virus toolkit for Unix",
     "clang": "C language family frontend for LLVM",
-    "clang35": "C language family frontend for LLVM",
     "claws-mail": "A GTK+ based e-mail client.",
     "claws-mail-themes": "Claws Mail's themes",
     "clawsker": "An applet to edit Claws Mail's hidden preferences.",

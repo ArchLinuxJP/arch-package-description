@@ -180,5 +180,6 @@
     "byacc": "Berkeley reimplementation of the Unix parser generator Yacc",
     "byzanz": "Record what's happening on your desktop",
     "bzr-fastimport": "Bazaar Fast Import is a plugin providing fast loading of revision control data into Bazaar",
-    "bzrtp": "Opensource implementation of ZRTP keys exchange protocol"
+    "bzrtp": "Opensource implementation of ZRTP keys exchange protocol",
+    "buildah": "A tool which facilitates building OCI images"
 }
