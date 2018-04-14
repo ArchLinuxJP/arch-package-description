@@ -59,7 +59,9 @@
     "dvd+rw-tools": "dvd 書き込みツール",
     "dev86": "8086 コードを生成するシンプルな C コンパイラ",
     "dssi-vst": "win32 VST プラグインの DSSI アダプタ・ラッパー",
+    "d-containers": "Containers for D backed by std.experimental.allocator",
     "d-feet": "GNOME の D-Bus デバッガ",
+    "d-stdx-allocator": "Extracted std.experimental.allocator for usage via DUB",
     "dangerdeep": "潜水艦シミュレータ",
     "dangerdeep-data": "Dangerdeep (潜水艦シミュレータ) データファイル",
     "danmaq": "A small client side Qt program to play danmaku on any screen",
@@ -122,6 +124,7 @@
     "deepin-notifications": "linuxdeepin デスクトップ環境のシステム通知",
     "deepin-picker": "deepin のカラーピッカーツール",
     "deepin-polkit-agent": "Deepin Polkit エージェント",
+    "deepin-polkit-agent-ext-gnomekeyring": "GNOME keyring extension for dde-polkit-agent",
     "deepin-qml-widgets": "Deepin QML ウィジェット",
     "deepin-qt-dbus-factory": "自動生成された Qt5 dbus コードを保存するリポジトリ",
     "deepin-qt5dxcb-plugin": "DDE の Qt プラットフォームプラグイン",
@@ -177,7 +180,7 @@
     "dmenu": "Generic menu for X",
     "dmtcp": "Distributed MultiThreaded CheckPointing",
     "dns-lexicon": "Manipulate DNS records on various DNS providers in a standardized/agnostic way",
-    "dnscrypt-proxy": "A tool for securing communications between a client and a DNS resolver",
+    "dnscrypt-proxy": "A flexible DNS proxy, with support for modern encrypted DNS protocols such as DNSCrypt v2 and DNS-over-HTTP/2.",
     "dnscrypt-wrapper": "サーバーサイド dnscrypt プロキシ",
     "dnssec-tools": "libval & dnssec 管理ツール",
     "dnstracer": "Determines where a given DNS server gets its information from, and follows the chain of DNS servers",
@@ -201,6 +204,7 @@
     "doublecmd-gtk2": "ツインパネル (commander 風) のファイルマネージャ (GTK)",
     "doublecmd-qt5": "ツインパネル (commander 風) のファイルマネージャ (Qt5)",
     "dovecot": "セキュリティを重視して書かれた IMAP と POP3 サーバー",
+    "dpf-plugins": "Collection of DPF-based plugins",
     "drbd-utils": "Userland tools for Distributed Replicated Block Device",
     "drbl": "Diskless Remote Boot in Linux: manage the deployment of the GNU/Linux operating system across many clients",
     "driconf": "Direct Rendering Infrastructure のグラフィカルな設定ツール",
@@ -234,6 +238,5 @@
     "dvtm": "動的仮想端末マネージャ",
     "dwarffortress": "A single-player fantasy game in which you build a dwarven outpost or play an adventurer in a randomly generated world",
     "dwdiff": "行単位ではなく単語単位で操作する diff プログラムのフロントエンド",
-    "dzen2": "General purpose messaging, notification and menuing program for X11",
-    "dpf-plugins": "Collection of DPF-based plugins"
+    "dzen2": "General purpose messaging, notification and menuing program for X11"
 }

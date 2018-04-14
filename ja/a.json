@@ -211,6 +211,7 @@
     "arpack": "スケールの大きい固有値問題を解決するための Fortran77 サブルーチン",
     "arpwatch": "Ethernet/FDDI ステーション活動モニター",
     "arrayfire": "使いやすい API を備えた並列計算用の高性能ソフトウェアライブラリ",
+    "artyfx": "A plugin bundle of artistic real-time audio effects",
     "asar": "Electron アプリパッケージを作成",
     "ascii": "様々なバイト表記や ASCII 文字テーブルを変換するためのユーティリティ",
     "asciidoc": "簡単なドキュメントや記事、書籍、UNIX マニュアルページのためのテキストドキュメントフォーマット",

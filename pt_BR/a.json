@@ -211,6 +211,7 @@
     "arpack": "Fortran77 subroutines for solving large scale eigenvalue problems",
     "arpwatch": "Ethernet/FDDI station activity monitor",
     "arrayfire": "High performance software library for parallel computing with an easy-to-use API",
+    "artyfx": "A plugin bundle of artistic real-time audio effects",
     "asar": "Creating Electron app packages",
     "ascii": "Utility for conversion between various byte representations and the ASCII character table",
     "asciidoc": "Text document format for short documents, articles, books and UNIX man pages.",
