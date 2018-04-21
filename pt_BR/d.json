@@ -180,7 +180,7 @@
     "dmenu": "Generic menu for X",
     "dmtcp": "Distributed MultiThreaded CheckPointing",
     "dns-lexicon": "Manipulate DNS records on various DNS providers in a standardized/agnostic way",
-    "dnscrypt-proxy": "A flexible DNS proxy, with support for modern encrypted DNS protocols such as DNSCrypt v2 and DNS-over-HTTP/2.",
+    "dnscrypt-proxy": "A flexible DNS proxy, with support for modern encrypted DNS protocols such as DNSCrypt v2 and DNS-over-HTTP.",
     "dnscrypt-wrapper": "A server-side dnscrypt proxy",
     "dnssec-tools": "libval & dnssec management tools",
     "dnstracer": "Determines where a given DNS server gets its information from, and follows the chain of DNS servers",
@@ -238,5 +238,6 @@
     "dvtm": "Dynamic virtual terminal manager.",
     "dwarffortress": "A single-player fantasy game in which you build a dwarven outpost or play an adventurer in a randomly generated world",
     "dwdiff": "A front-end for the diff program that operates at the word level instead of the line level",
-    "dzen2": "General purpose messaging, notification and menuing program for X11"
+    "dzen2": "General purpose messaging, notification and menuing program for X11",
+    "din": "A sound synthesizer and musical instrument."
 }

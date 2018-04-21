@@ -254,7 +254,7 @@
     "aurphan": "Finds packages in need of maintainers, bug fixes and patches. Adopt today!",
     "autoconf-archive": "A collection of freely re-usable Autoconf macros",
     "autocutsel": "synchronizes the two copy/paste buffers mainly used by X applications",
-    "autofs": "A kernel-based automounter for Linux.",
+    "autofs": "A kernel-based automounter for Linux",
     "autojump": "A faster way to navigate your filesystem from the command line",
     "autopep8": "A tool that automatically formats Python code to conform to the PEP 8 style guide",
     "autossh": "Automatically restart SSH sessions and tunnels",

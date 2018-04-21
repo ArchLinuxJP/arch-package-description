@@ -146,7 +146,6 @@
     "bookworm": "A simple user centric eBook reader which displays multiple eBooks formats uniformly",
     "borg": "Deduplicating backup program with compression and authenticated encryption",
     "botan": "Crypto library written in C++",
-    "botan1.10": "Crypto library written in C++ - old stable branch",
     "bower": "A package manager for the web",
     "box2d": "2D rigid body simulation library for games",
     "bpython": "Fancy ncurses interface to the Python interpreter",
