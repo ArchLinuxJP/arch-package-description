@@ -152,6 +152,7 @@
     "bpython2": "Fancy ncurses interface to the Python interpreter",
     "brial": "Library for polynomials over boolean rings",
     "brise": "Rime schema repository",
+    "broadcom-wl": "Broadcom 802.11 Linux STA wireless driver",
     "broadcom-wl-dkms": "Broadcom 802.11 Linux STA wireless driver",
     "brook": "A cross-platform proxy/vpn software",
     "brotli": "Brotli compression library",
@@ -180,5 +181,6 @@
     "byzanz": "Record what's happening on your desktop",
     "bzr-fastimport": "Bazaar Fast Import is a plugin providing fast loading of revision control data into Bazaar",
     "bzrtp": "Opensource implementation of ZRTP keys exchange protocol",
+    "blop.lv2": "A port of the BLOP LADSPA plugins by Mike Rawes to LV2.",
     "buildah": "A tool which facilitates building OCI images"
 }

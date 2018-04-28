@@ -145,8 +145,6 @@
     "alex": "Lexical analyser generator for Haskell",
     "algol68g": "Algol 68 compiler and interpreter",
     "algol68g-doc": "Algol 68 compiler and interpreter",
-    "alienarena": "Multiplayer retro sci-fi deathmatch game",
-    "alienarena-data": "Multiplayer retro sci-fi deathmatch game (data files)",
     "allegro": "Portable library mainly aimed at video game and multimedia programming",
     "allegro4": "Portable library mainly aimed at video game and multimedia programming (legacy version)",
     "alleyoop": "Valgrind front-end for the GNOME environment",

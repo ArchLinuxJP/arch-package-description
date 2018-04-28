@@ -104,6 +104,7 @@
     "deepin-desktop-base": "Deepin の基本コンポーネント",
     "deepin-desktop-schemas": "GSettings deepin desktop-wide schemas",
     "deepin-dock": "Deepin デスクトップ環境 - ドックモジュール",
+    "deepin-draw": "A lightweight drawing tool for Linux Deepin",
     "deepin-editor": "Deepin のシンプルなエディタ",
     "deepin-file-manager": "Deepin ファイルマネージャ",
     "deepin-gettext-tools": "Deepin Gettext ツール",

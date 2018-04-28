@@ -104,6 +104,7 @@
     "deepin-desktop-base": "Base component for Deepin",
     "deepin-desktop-schemas": "GSettings deepin desktop-wide schemas",
     "deepin-dock": "Deepin desktop-environment - dock module",
+    "deepin-draw": "A lightweight drawing tool for Linux Deepin",
     "deepin-editor": "Simple editor for Deepin",
     "deepin-file-manager": "Deepin File Manager",
     "deepin-gettext-tools": "Deepin Gettext Tools",

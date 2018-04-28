@@ -152,6 +152,7 @@
     "bpython2": "Python インタプリタの瀟洒な ncurses インターフェイス",
     "brial": "ブール多項式環のライブラリ",
     "brise": "Rime スキーマリポジトリ",
+    "broadcom-wl": "Broadcom 802.11 Linux STA ワイヤレスドライバー",
     "broadcom-wl-dkms": "Broadcom 802.11 Linux STA ワイヤレスドライバー",
     "brook": "クロスプラットフォームのプロキシ/VPN ソフトウェア",
     "brotli": "Brotli 圧縮ライブラリ",
@@ -180,5 +181,6 @@
     "byzanz": "デスクトップ上で起こっていることを録画",
     "bzr-fastimport": "リビジョンコントロールデータを Bazaar に高速にロードするプラグイン",
     "bzrtp": "ZRTP 鍵交換プロトコルのオープンソース実装",
+    "blop.lv2": "Mike Rawes による BLOP LADSPA プラグインの LV2 ポート",
     "buildah": "OCI イメージの作成を補助するツール"
 }
