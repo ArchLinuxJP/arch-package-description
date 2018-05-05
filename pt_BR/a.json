@@ -53,7 +53,6 @@
     "apr-util": "The Apache Portable Runtime",
     "apricots": "A simple 2D flying/bombing game similar to basic side scrollers",
     "arch-install-scripts": "Scripts to aid in installing Arch Linux",
-    "archboot": "Advanced, modular arch boot/install image creation utility",
     "archiso": "Tools for creating Arch Linux live and install iso images",
     "archivetools": "Arch Linux Archive Tools",
     "archlinux-appstream-data": "Arch Linux application database for AppStream-based software centers",
