@@ -33,7 +33,6 @@
     "cfitsio": "Uma biblioteca de C e subrotinas Fortran para leitura e escrita em arquivos de dados em formato FITS (Flexible Image Transport System).",
     "check": "Um framework de teste unitário para C",
     "cheese": "Take photos and videos with your webcam, with fun graphical effects",
-    "chemical-mime-data": "Coleção de arquivos de dados para adicionar suporte para vários tipos de chemical MIME",
     "chemtool": "Um pequeno programa para desenhar estruturas químicas",
     "chmlib": "Livraria para trabalhar com arquivos de formato Microsoft ITSS/CHM",
     "chromaprint": "Biblioteca que implementa um algorítimo customizado para realizar fingerprinting de qualquer fonte de áudio",

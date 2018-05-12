@@ -33,7 +33,6 @@
     "cfitsio": "FITS (Flexible Image Transport System) データ形式のデータファイルを読み書きするための C と Fortran サブルーチンのライブラリ",
     "check": "C のユニットテストフレームワーク",
     "cheese": "楽しいグラフィカルエフェクトを使ってウェブカメラで写真や動画を撮影",
-    "chemical-mime-data": "様々な化学 MIME タイプのサポートを追加するデータファイルのコレクション",
     "chemtool": "化学構造を描画するためのコンパクトなプログラム",
     "chmlib": "Microsoft ITSS/CHM 形式のファイルを扱うためのライブラリ",
     "chromaprint": "あらゆる音源から声紋を抽出するカスタムアルゴリズムを実装するライブラリ",

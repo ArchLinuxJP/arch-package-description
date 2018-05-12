@@ -90,6 +90,7 @@
     "debootstrap": "Bootstrap a basic Debian system",
     "dee": "Model to synchronize multiple instances over DBus",
     "deepin-account-faces": "Account faces for Linux Deepin",
+    "deepin-anything": "Deepin",
     "deepin-api": "Go-lang bindings for dde-daemon",
     "deepin-boot-maker": "Tool to create a bootable usb stick quick and easy",
     "deepin-calculator": "An easy to use calculator for ordinary users",
@@ -166,6 +167,7 @@
     "diffstat": "Display a histogram of diff changes",
     "diffuse": "A graphical tool for merging and comparing text files",
     "dillo": "A small, fast graphical web browser built on FLTK",
+    "din": "A sound synthesizer and musical instrument.",
     "dina-font": "A monospace bitmap font, primarily aimed at programmers",
     "dingo": "A DNS client in Go that supports Google DNS over HTTPS",
     "disorderfs": "FUSE filesystem that introduces non-determinism",
@@ -239,6 +241,5 @@
     "dvtm": "Dynamic virtual terminal manager.",
     "dwarffortress": "A single-player fantasy game in which you build a dwarven outpost or play an adventurer in a randomly generated world",
     "dwdiff": "A front-end for the diff program that operates at the word level instead of the line level",
-    "dzen2": "General purpose messaging, notification and menuing program for X11",
-    "din": "A sound synthesizer and musical instrument."
+    "dzen2": "General purpose messaging, notification and menuing program for X11"
 }
