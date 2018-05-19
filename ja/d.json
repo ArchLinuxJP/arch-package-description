@@ -127,7 +127,6 @@
     "deepin-picker": "deepin のカラーピッカーツール",
     "deepin-polkit-agent": "Deepin Polkit エージェント",
     "deepin-polkit-agent-ext-gnomekeyring": "GNOME keyring extension for dde-polkit-agent",
-    "deepin-qml-widgets": "Deepin QML ウィジェット",
     "deepin-qt-dbus-factory": "自動生成された Qt5 dbus コードを保存するリポジトリ",
     "deepin-qt5dxcb-plugin": "DDE の Qt プラットフォームプラグイン",
     "deepin-qt5integration": "DDE の Qt プラットフォームテーマ統合プラグイン",

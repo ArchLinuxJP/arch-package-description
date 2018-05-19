@@ -127,7 +127,6 @@
     "deepin-picker": "Color picker tool for deepin",
     "deepin-polkit-agent": "Deepin Polkit Agent",
     "deepin-polkit-agent-ext-gnomekeyring": "GNOME keyring extension for dde-polkit-agent",
-    "deepin-qml-widgets": "Deepin QML widgets",
     "deepin-qt-dbus-factory": "A repository stores auto-generated Qt5 dbus code",
     "deepin-qt5dxcb-plugin": "Qt platform plugins for DDE",
     "deepin-qt5integration": "Qt platform theme integration plugins for DDE",

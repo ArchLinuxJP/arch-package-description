@@ -59,6 +59,7 @@
     "babeld": "A loop-avoiding distance-vector routing protocol",
     "babeltrace": "Command-line trace converter",
     "backuppc": "Enterprise-grade system for backing up Linux, Windows and MacOS PCs",
+    "badtouch": "Scriptable network authentication cracker",
     "badvpn": "Peer-to-peer VPN system, and NCD, a programming language for network interface configuration",
     "baka-mplayer": "A free and open source, cross-platform, libmpv based multimedia player. Qt5 build.",
     "balsa": "An e-mail client for GNOME",
@@ -171,6 +172,7 @@
     "buddy": "Binary Decision Diagram Library",
     "budgie-desktop": "Modern desktop environment from the Solus Project",
     "bugzilla": "bug tracker",
+    "buildah": "A tool which facilitates building OCI images",
     "bully": "Retrieve WPA/WPA2 passphrase from a WPS enabled access point",
     "bumblebee": "NVIDIA Optimus support for Linux through VirtualGL",
     "buoh": "Online strips comics reader for GNOME",
@@ -181,6 +183,5 @@
     "byzanz": "Record what's happening on your desktop",
     "bzr-fastimport": "Bazaar Fast Import is a plugin providing fast loading of revision control data into Bazaar",
     "bzrtp": "Opensource implementation of ZRTP keys exchange protocol",
-    "blop.lv2": "A port of the BLOP LADSPA plugins by Mike Rawes to LV2.",
-    "buildah": "A tool which facilitates building OCI images"
+    "blop.lv2": "A port of the BLOP LADSPA plugins by Mike Rawes to LV2."
 }

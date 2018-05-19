@@ -59,6 +59,7 @@
     "babeld": "ループを回避する距離ベクトル型ルーティングプロトコル",
     "babeltrace": "コマンドライントレースコンバーター",
     "backuppc": "Linux, Windows, MacOS PC をバックアップするエンタープライズグレードのシステム",
+    "badtouch": "スクリプトに組み込めるネットワーク認証クラッカー",
     "badvpn": "ピアツーピアの VPN システムとネットワークインターフェイスの設定のためのプログラミング言語 NCD",
     "baka-mplayer": "フリー・オープンソース・クロスプラットフォームの libmpv ベースのマルチメディアプレイヤー (Qt5 ビルド)",
     "balsa": "GNOME のメールクライアント",
@@ -171,6 +172,7 @@
     "buddy": "二分決定図ライブラリ",
     "budgie-desktop": "Solus Project の近代的なデスクトップ環境",
     "bugzilla": "バグトラッカー",
+    "buildah": "OCI イメージの作成を補助するツール",
     "bully": "WPS が有効なアクセスポイントから WPA/WPA2 パスフレーズを取得",
     "bumblebee": "VirtualGL による Linux の NVIDIA Optimus サポート",
     "buoh": "GNOME のオンラインコミックリーダー",
@@ -181,6 +183,5 @@
     "byzanz": "デスクトップ上で起こっていることを録画",
     "bzr-fastimport": "リビジョンコントロールデータを Bazaar に高速にロードするプラグイン",
     "bzrtp": "ZRTP 鍵交換プロトコルのオープンソース実装",
-    "blop.lv2": "Mike Rawes による BLOP LADSPA プラグインの LV2 ポート",
-    "buildah": "OCI イメージの作成を補助するツール"
+    "blop.lv2": "Mike Rawes による BLOP LADSPA プラグインの LV2 ポート"
 }
