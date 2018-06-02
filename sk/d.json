@@ -143,7 +143,6 @@
     "deepin-wallpapers-extra": "Deepin Wallpapers - Extra Package",
     "deepin-wallpapers-plasma": "Additional Deepin desktop wallpapers from Plasma",
     "deepin-wm": "Deepin Window Manager",
-    "deepin-wm-switcher": "Window manager switcher for Deepin",
     "deja-dup": "Simple backup tool, that hides the complexity of backing up the Right Way and uses duplicity as the backend",
     "delve": "A debugger for the Go programming language.",
     "dep": "Go dependency management tool",

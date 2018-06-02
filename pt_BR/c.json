@@ -161,6 +161,7 @@
     "cgoban": "SGF editor and client for connection to IGS",
     "cgrep": "A context-aware grep for source codes",
     "cgroup_event_listener": "Simple listener of cgroup events",
+    "check_api": "A gate-keeper tool for the APIs.guru API collection",
     "checkbashisms": "Debian script that checks for bashisms",
     "checksec": "Ferramenta desenhada para testar quais recursos de segurança padrão do sistema operacional Linux e pax estão sendo usados",
     "cherrytree": "Aplicação hierárquica anotações com abundante realce do texto e da sintaxe",
@@ -207,7 +208,7 @@
     "cmark-gfm": "GitHub's fork of cmark, a CommonMark parsing and rendering library and program in C",
     "cmatrix": "A curses-based scrolling 'Matrix'-like screen",
     "cmocka": "Elegant unit testing framework for C with support for mock objects",
-    "cmt": "CMT para LADSPA",
+    "cmt": "A collection of LADSPA plugins for use with software synthesis and recording packages on Linux",
     "cmus": "Feature-rich ncurses-based music player",
     "codeblocks": "Cross-platform C/C++ IDE",
     "codespell": "Corrigir erros comuns no código-fonte",
@@ -235,6 +236,7 @@
     "containerd": "An open and reliable container runtime",
     "contractor": "A desktop-wide extension service for Pantheon",
     "converseen": "Batch image converter and resizer",
+    "convolv2": "An LV2 plugin to convolve audio signals with zero latency.",
     "cool-retro-term": "A good looking terminal emulator which mimics the old cathode display",
     "coq": "Formal proof management system",
     "coq-doc": "HTML and PDF documentation for the Coq proof assistant",
@@ -249,7 +251,7 @@
     "cowpatty": "Wireless WPA/WPA2 PSK handshake cracking utility",
     "coxeter": "A library for the study of combinatorial aspects of Coxeter group theory",
     "cozy-stack": "Digital home: brings all your web services in the same private space – Stack component",
-    "cpanminus": "Obter, desempacotar, construir e instalar módulos do CPAN",
+    "cpanminus": "get, unpack, build and install modules from CPAN",
     "cpp-hocon": "C++ port of the Typesafe Config library",
     "cppcheck": "A tool for static C/C++ code analysis",
     "cppo": "C-style preprocessor for OCaml",
@@ -286,6 +288,5 @@
     "cvc4": "Um provador de teoremas automático",
     "cxxtest": "Unidade de testes framework para C++",
     "cython": "Extensões C pra Python",
-    "cython2": "Extensões C pra Python",
-    "convolv2": "An LV2 plugin to convolve audio signals with zero latency."
+    "cython2": "Extensões C pra Python"
 }

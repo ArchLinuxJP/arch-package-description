@@ -161,6 +161,7 @@
     "cgoban": "SGF エディタと IGS に接続するためのクライアント",
     "cgrep": "A context-aware grep for source codes",
     "cgroup_event_listener": "cgroup イベントのシンプルなリスナー",
+    "check_api": "A gate-keeper tool for the APIs.guru API collection",
     "checkbashisms": "bashism をチェックする Debian のスクリプト",
     "checksec": "標準の Linux OS で PaX セキュリティ機能が使われているかテストするためのツール",
     "cherrytree": "Hierarchical note taking application featuring rich text and syntax highlighting",
@@ -207,7 +208,7 @@
     "cmark-gfm": "C で書かれた CommonMark パース・レンダリングライブラリ・プログラムである cmark の GitHub によるフォーク",
     "cmatrix": "curses による 'Matrix' のようにスクロールするスクリーン",
     "cmocka": "モックオブジェクトに対応する C の洗練されたユニットテストフレームワーク",
-    "cmt": "CMT for LADSPA",
+    "cmt": "A collection of LADSPA plugins for use with software synthesis and recording packages on Linux",
     "cmus": "機能豊富な ncurses ベースの音楽プレイヤー",
     "codeblocks": "クロスプラットフォームの C/C++ IDE",
     "codespell": "ソースコードのよくあるミススペルを修正",
@@ -235,6 +236,7 @@
     "containerd": "オープンで信頼性のあるコンテナランタイム",
     "contractor": "A desktop-wide extension service for Pantheon",
     "converseen": "Batch image converter and resizer",
+    "convolv2": "遅延ゼロで音声信号を畳み込む LV2 プラグイン",
     "cool-retro-term": "昔懐かしいブラウン管ディスプレイのように表示されるターミナルエミュレータ",
     "coq": "形式的証明支援システム",
     "coq-doc": "Coq 証明アシスタントの HTML と PDF ドキュメント",
@@ -249,7 +251,7 @@
     "cowpatty": "ワイヤレス WPA/WPA2 PSK ハンドシェイククラックユーティリティ",
     "coxeter": "A library for the study of combinatorial aspects of Coxeter group theory",
     "cozy-stack": "Digital home: brings all your web services in the same private space – Stack component",
-    "cpanminus": "CPAN からモジュールを取得・解凍・ビルド・インストール",
+    "cpanminus": "get, unpack, build and install modules from CPAN",
     "cpp-hocon": "Typesafe Config ライブラリの C++ ポート",
     "cppcheck": "C/C++ のコードを静的解析するツール",
     "cppo": "C-style preprocessor for OCaml",
@@ -286,6 +288,5 @@
     "cvc4": "自動定理証明器",
     "cxxtest": "C++ のユニットテストフレームワーク",
     "cython": "Python の C 拡張",
-    "cython2": "Python の C 拡張",
-    "convolv2": "遅延ゼロで音声信号を畳み込む LV2 プラグイン"
+    "cython2": "Python の C 拡張"
 }
