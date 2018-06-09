@@ -106,11 +106,13 @@
     "bleachbit": "Deletes unneeded files to free disk space and maintain privacy",
     "blender": "A fully integrated 3D graphics creation suite",
     "bless": "High-quality, full-featured hex editor",
+    "blinksocks": "A framework for building composable proxy protocol stack.",
     "bliss-graphs": "A library for computing automorphism groups and canonical forms of graphs",
     "blobby2": "A beach ball game with blobs of goo",
     "blobwars": "Platform action game featuring a blob wih lot of weapons",
     "blobwars-data": "Platform action game featuring a blob wih lot of weapons - data files",
     "blop": "Bandlimited LADSPA Oscillator Plugins",
+    "blop.lv2": "A port of the BLOP LADSPA plugins by Mike Rawes to LV2.",
     "blosc": "A blocking, shuffling and loss-less compression library.",
     "blueberry": "Bluetooth configuration tool",
     "bluegriffon": "The next-generation Web Editor based on the rendering engine of Firefox",
@@ -182,6 +184,5 @@
     "byacc": "Berkeley reimplementation of the Unix parser generator Yacc",
     "byzanz": "Record what's happening on your desktop",
     "bzr-fastimport": "Bazaar Fast Import is a plugin providing fast loading of revision control data into Bazaar",
-    "bzrtp": "Opensource implementation of ZRTP keys exchange protocol",
-    "blop.lv2": "A port of the BLOP LADSPA plugins by Mike Rawes to LV2."
+    "bzrtp": "Opensource implementation of ZRTP keys exchange protocol"
 }
