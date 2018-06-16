@@ -111,6 +111,7 @@
     "acpi_call": "Модуль ядра линукса, позволяющий вызовы к ACPI методам через /proc/acpi/call",
     "acpi_call-dkms": "Модуль ядра линукса, позволяющий вызовы к ACPI методам через /proc/acpi/call",
     "acpi_call-lts": "Модуль ядра линукса, позволяющий вызовы к ACPI методам через /proc/acpi/call",
+    "acpica": "ACPI tools, including Intel ACPI Source Language compiler",
     "acpid": "A daemon for delivering ACPI power management events with netlink support",
     "activity-log-manager": "A graphical user interface which lets you easily control what gets logged by Zeitgeist",
     "adapta-gtk-theme": "An adaptive Gtk+ theme based on Material Design Guidelines",

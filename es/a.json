@@ -111,6 +111,7 @@
     "acpi_call": "A linux kernel module that enables calls to ACPI methods through /proc/acpi/call",
     "acpi_call-dkms": "A linux kernel module that enables calls to ACPI methods through /proc/acpi/call",
     "acpi_call-lts": "A linux kernel module that enables calls to ACPI methods through /proc/acpi/call",
+    "acpica": "ACPI tools, including Intel ACPI Source Language compiler",
     "acpid": "A daemon for delivering ACPI power management events with netlink support",
     "activity-log-manager": "A graphical user interface which lets you easily control what gets logged by Zeitgeist",
     "adapta-gtk-theme": "An adaptive Gtk+ theme based on Material Design Guidelines",

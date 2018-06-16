@@ -111,6 +111,7 @@
     "acpi_call": "/proc/acpi/call から ACPI メソッドをコールできるようにする linux カーネルモジュール",
     "acpi_call-dkms": "/proc/acpi/call から ACPI メソッドをコールできるようにする linux カーネルモジュール",
     "acpi_call-lts": "/proc/acpi/call から ACPI メソッドをコールできるようにする linux カーネルモジュール",
+    "acpica": "ACPI tools, including Intel ACPI Source Language compiler",
     "acpid": "netlink に対応している ACPI 電源管理イベントを通達するデーモン",
     "activity-log-manager": "Zetgeist によって記録されるものを簡単に制御できるグラフィカルユーザーインターフェイス",
     "adapta-gtk-theme": "マテリアルデザインガイドラインに基づいた Gtk+ アダプティブテーマ",
