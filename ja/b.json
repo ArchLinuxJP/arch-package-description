@@ -73,6 +73,7 @@
     "bash-bats": "Bash Automated Testing System",
     "bash-bats-assert": "Bats の共通アサーション",
     "bash-bats-support": "Bats テストヘルパーの補助ライブラリ",
+    "bash-language-server": "Bash language server implementation based on Tree Sitter and its grammar for Bash",
     "bashburn": "CD 書き込みシェルスクリプト",
     "bashrun": "bash ベースの x11 アプリケーションランチャー",
     "bass": "Beneath A Steel Sky は暗黒の未来を舞台にした 2D ポイントアンドクリックフィクションスリラーです",
