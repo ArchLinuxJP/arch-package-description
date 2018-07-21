@@ -43,7 +43,7 @@
     "anthy": "ひらがなのテキストをかな漢字混じりのテキストに変換する日本語入力メソッド",
     "antlr2": "構文解析器を作成するためのフレームワークを提供する言語認識ツール",
     "antlr4": "構造化テキストやバイナリファイルを読み込み・処理・実行・翻訳するためのパーサジェネレータ",
-    "aom": "Alliance for Open Media video codec",
+    "aom": "Alliance for Open Media ビデオコーデック",
     "apache": "高性能な Unix ベースの HTTP サーバー",
     "apache-ant": "java ベースのビルドツール",
     "apache-ant-doc": "Apache Ant ビルドツールのドキュメント",
