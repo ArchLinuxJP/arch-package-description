@@ -159,6 +159,7 @@
     "amb-plugins": "A set of LADSPA ambisonics plugins",
     "ams": "A real-time modular synthesizer and effect processor",
     "amsynth": "Analogue Modeling SYNTHesizer",
+    "amtk": "Actions, Menus and Toolbars Kit for GTK+ applications",
     "amule": "Клиент для ed2k p2p сетей, похожий на eMule",
     "android-file-transfer": "MTP клиент для андроид с минималистичным UI",
     "android-tools": "Android platform tools",

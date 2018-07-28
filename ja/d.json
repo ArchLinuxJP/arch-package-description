@@ -123,7 +123,7 @@
     "deepin-movie": "QtAV ベースの動画プレイヤー",
     "deepin-music": "Awesome music player with brilliant and tweakful UI Deepin-UI based.",
     "deepin-mutter": "deepin のベースウィンドウマネージャ、gnome mutter のフォーク",
-    "deepin-notifications": "linuxdeepin デスクトップ環境のシステム通知",
+    "deepin-network-utils": "DDE network utils",
     "deepin-picker": "deepin のカラーピッカーツール",
     "deepin-polkit-agent": "Deepin Polkit エージェント",
     "deepin-polkit-agent-ext-gnomekeyring": "GNOME keyring extension for dde-polkit-agent",

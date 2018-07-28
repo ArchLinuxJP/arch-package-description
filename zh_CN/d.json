@@ -123,7 +123,7 @@
     "deepin-movie": "Movie player based on QtAV",
     "deepin-music": "Awesome music player with brilliant and tweakful UI Deepin-UI based.",
     "deepin-mutter": "Base window manager for deepin, fork of gnome mutter",
-    "deepin-notifications": "System notifications for linuxdeepin desktop environment",
+    "deepin-network-utils": "DDE network utils",
     "deepin-picker": "Color picker tool for deepin",
     "deepin-polkit-agent": "Deepin Polkit Agent",
     "deepin-polkit-agent-ext-gnomekeyring": "GNOME keyring extension for dde-polkit-agent",
