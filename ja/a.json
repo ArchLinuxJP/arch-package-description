@@ -147,6 +147,7 @@
     "alex": "Haskell の字句解析器生成器",
     "algol68g": "Algol 68 コンパイラ・インタプリター",
     "algol68g-doc": "Algol 68 コンパイラ・インタプリター",
+    "aliki": "Measure Impulse Responses using a sine sweep and deconvolution",
     "allegro": "ビデオゲームやマルチメディアプログラミングのためのポータブルライブラリ",
     "allegro4": "ビデオゲームやマルチメディアプログラミングのためのポータブルライブラリ (旧バージョン)",
     "alleyoop": "GNOME 環境の Valgrind フロントエンド",
@@ -169,6 +170,7 @@
     "ansible": "徹底してシンプルな IT 自動化プラットフォーム",
     "ansible-lint": "playbook に改善の余地がないかチェック",
     "antiword": "Linux と RISC OS 用のフリーな MS Word リーダー",
+    "antlr4-runtime": "Antlr C++ runtime",
     "apache-ivy": "依存関係マネージャ",
     "apcupsd": "大抵の APC 製 UPS モデルの電源管理と制御",
     "apitrace": "グラフィック API トレーシング",
@@ -255,11 +257,13 @@
     "auditbeat": "システム上のユーザーとプロセスの活動を監査",
     "augeas": "設定ファイルをパースしてツリー状に変換する設定編集ツール",
     "aurphan": "メンテナやバグフィックス、パッチを必要としているパッケージを検索",
+    "aurpublish": "PKGBUILD management/upload framework for the Arch User Repository",
     "autoconf-archive": "再利用可能なフリーの Autoconf マクロ集",
     "autocutsel": "X アプリケーションが使用するコピーペーストバッファを同期",
     "autofs": "Linux 用のカーネルベースの自動マウントユーティリティ",
     "autojump": "コマンドラインからファイルシステムを高速に巡回",
     "autopep8": " PEP 8 スタイルガイドにあわせて Python コードを自動整形するツール",
+    "autorandr": "Auto-detect connected display hardware and load appropiate X11 setup using xrandr",
     "autossh": "SSH セッションとトンネルを自動で再起動",
     "avfs": "圧縮ファイルを閲覧できるようにする仮想ファイルシステム",
     "avldrums.lv2": "AVLinux Drumkits 専用のシンプルなドラムサンプルプレイヤープラグイン",
@@ -272,5 +276,6 @@
     "awesome-terminal-fonts": "powerline 用のフォントとアイコン",
     "aws-cli": "Amazon Web Services のユニバーサルコマンドラインインターフェイス",
     "awstats": "ウェブサーバーやストリーミングサーバー、ftp やメールサーバーの統計情報をグラフィカルに生成するツール",
-    "axel": "軽量なコマンドラインダウンロードアクセラレータ"
+    "axel": "軽量なコマンドラインダウンロードアクセラレータ",
+    "argtable": "An ANSI C library for parsing GNU style command line options with a minimum of fuss"
 }
