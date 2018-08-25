@@ -217,6 +217,7 @@
     "drumstick": "Qt5/C++ の MIDI ライブラリ",
     "drupal": "PHP ベースのコンテンツ管理プラットフォーム",
     "dscanner": "D ソースコードの十徳ナイフ",
+    "dsdcc": "Digital Speech Decoder (DSD) rewritten as a C++ library",
     "dsdp": "A free open source implementation of an interior-point method for semidefinite programming",
     "dsniff": "ネットワーク監査やペネトレーションテストのためのツールコレクション",
     "dssi": "An API for audio processing plugins & softsynths with UIs",

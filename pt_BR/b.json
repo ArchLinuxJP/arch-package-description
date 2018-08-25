@@ -146,6 +146,7 @@
     "boinc": "Berkeley Open Infrastructure for Network Computing for desktop",
     "boinc-nox": "Berkeley Open Infrastructure for Network Computing for desktop without Xorg dependencies",
     "boinctui": "Curses based fullscreen BOINC manager",
+    "bolt": "Thunderbolt 3 device manager",
     "bomberclone": "Clone of the game Atomic Bomberman",
     "bonnie++": "Based on the Bonnie hard drive benchmark by Tim Bray",
     "bookworm": "A simple user centric eBook reader which displays multiple eBooks formats uniformly",
