@@ -160,6 +160,7 @@
     "alleyoop": "Valgrind front-end for the GNOME environment",
     "alltray": "Drops any app in the tray.",
     "almanah": "Small GTK+ application to allow you to keep a diary of your life",
+    "alot": "Terminal-based MUA for the notmuch mail system",
     "alsa-tools": "Advanced tools for certain sound cards",
     "alure": "Utility library to help manage common tasks with OpenAL applications.",
     "amavisd-milter": "sendmail milter for amavisd-new using the AM.PDP protocol",
