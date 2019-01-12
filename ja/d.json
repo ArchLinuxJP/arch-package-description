@@ -92,6 +92,8 @@
     "dee": "Model to synchronize multiple instances over DBus",
     "deepin-account-faces": "Account faces for Linux Deepin",
     "deepin-anything": "Deepin Anything file search tool",
+    "deepin-anything-dkms": "Deepin Anything file search tool",
+    "deepin-anything-module": "Deepin Anything file search tool",
     "deepin-api": "Golang bindings for dde-daemon",
     "deepin-boot-maker": "ブータブルな usb スティックを簡単に作れるツール",
     "deepin-calculator": "一般ユーザー向けの使いやすい電卓",

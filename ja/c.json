@@ -180,7 +180,6 @@
     "chrpath": "ELF ファイルの rpath や runpath を変更・削除",
     "chuck": "並列・即物的なオーディオプログラミング言語",
     "cimg": "画像処理のためのオープンソース C++ ツールキット",
-    "cinelerra-cv": "プロフェッショナルな動画編集・合成環境",
     "cinnamon": "先進的な機能と伝統的なユーザーエクスペリエンスを提供する Linux デスクトップ",
     "cinnamon-control-center": "Cinnamon のコントロールセンター",
     "cinnamon-desktop": "様々な Cinnamon モジュールで使用する共通 API のライブラリ",

@@ -155,6 +155,7 @@
     "botan": "Crypto library written in C++",
     "bower": "A package manager for the web",
     "box2d": "2D rigid body simulation library for games",
+    "bpf": "BPF tools",
     "bpython": "Fancy ncurses interface to the Python interpreter",
     "bpython2": "Fancy ncurses interface to the Python interpreter",
     "brial": "Library for polynomials over boolean rings",
