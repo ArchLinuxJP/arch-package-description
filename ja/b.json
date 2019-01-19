@@ -155,7 +155,7 @@
     "botan": "C++ で書かれた暗号ライブラリ",
     "bower": "ウェブのパッケージマネージャ",
     "box2d": "ゲーム用の 2D 剛体シミュレーションライブラリ",
-    "bpf": "BPF tools",
+    "bpf": "BPF ツール",
     "bpython": "Python インタプリタの瀟洒な ncurses インターフェイス",
     "bpython2": "Python インタプリタの瀟洒な ncurses インターフェイス",
     "brial": "ブール多項式環のライブラリ",
