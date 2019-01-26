@@ -219,6 +219,7 @@
     "cmst": "A QT based GUI front end for the connman connection manager",
     "cmt": "LADSPA plugins for use with software synthesis and recording packages on Linux",
     "cmus": "Feature-rich ncurses-based music player",
+    "cobalt": "Static site generator written in Rust",
     "cockatrice": "A cross-platform virtual tabletop for multiplayer card games",
     "code": "The Open Source build of Visual Studio Code (vscode) editor",
     "codeblocks": "Cross-platform C/C++ IDE",
@@ -302,5 +303,6 @@
     "cvc4": "Um provador de teoremas automático",
     "cxxtest": "Unidade de testes framework para C++",
     "cython": "Extensões C pra Python",
-    "cython2": "Extensões C pra Python"
+    "cython2": "Extensões C pra Python",
+    "conmon": "OCI container runtime monitor"
 }

@@ -11,6 +11,7 @@
     "dmraid": "Device mapper RAID インターフェイス",
     "dnssec-anchors": "DNSSEC trust anchors for the root zone",
     "dosfstools": "DOS ファイルシステムユーティリティ",
+    "dav1d": "AV1 cross-platform decoder focused on speed and correctness",
     "davfs2": "WebDAV フォルダをマウントできるファイルシステムドライバー",
     "dbus-broker": "Linux D-Bus メッセージブローカ",
     "dbus-glib": "DBUS の GLib バインディング",
@@ -92,8 +93,8 @@
     "dee": "Model to synchronize multiple instances over DBus",
     "deepin-account-faces": "Account faces for Linux Deepin",
     "deepin-anything": "Deepin Anything file search tool",
+    "deepin-anything-arch": "Deepin Anything file search tool, kernel module for Arch kernel",
     "deepin-anything-dkms": "Deepin Anything file search tool",
-    "deepin-anything-module": "Deepin Anything file search tool",
     "deepin-api": "Golang bindings for dde-daemon",
     "deepin-boot-maker": "ブータブルな usb スティックを簡単に作れるツール",
     "deepin-calculator": "一般ユーザー向けの使いやすい電卓",
@@ -253,5 +254,8 @@
     "dvtm": "動的仮想端末マネージャ",
     "dwarffortress": "A single-player fantasy game in which you build a dwarven outpost or play an adventurer in a randomly generated world",
     "dwdiff": "行単位ではなく単語単位で操作する diff プログラムのフロントエンド",
-    "dzen2": "General purpose messaging, notification and menuing program for X11"
+    "dzen2": "General purpose messaging, notification and menuing program for X11",
+    "dbeaver-plugin-bouncycastle": "Bouncy Castle library for DBeaver plugin for SSHv2 tunnels",
+    "dbeaver-plugin-sshj": "DBeaver plugin for SSHv2 tunnels with Bouncy Castle algorithm",
+    "dbeaver-plugin-sshj-lib": "SSHv2 library for Java for DBeaver plugin for SSHv2 tunnels"
 }
