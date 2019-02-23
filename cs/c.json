@@ -200,6 +200,7 @@
     "clementine": "A modern music player and library organizer",
     "clinfo": "A simple OpenCL application that enumerates all available platform and device properties",
     "clingo": "Grounding tools for (disjunctive) logic programs",
+    "clipgrab": "A video downloader and converter for YouTube, Veoh, DailyMotion, MyVideo, ...",
     "clipmenu": "Clipboard management using dmenu",
     "clipnotify": "Polling-free clipboard notifier",
     "cliquer": "A set of C routines for finding cliques in an arbitrary weighted graph",
@@ -219,6 +220,7 @@
     "cmst": "A QT based GUI front end for the connman connection manager",
     "cmt": "LADSPA plugins for use with software synthesis and recording packages on Linux",
     "cmus": "Feature-rich ncurses-based music player",
+    "cni-plugins": "Some standard networking plugins, maintained by the CNI team",
     "cobalt": "Static site generator written in Rust",
     "cockatrice": "A cross-platform virtual tabletop for multiplayer card games",
     "code": "The Open Source build of Visual Studio Code (vscode) editor",
@@ -242,6 +244,7 @@
     "conflict": "filename conflict listing",
     "confuse": "C-library for parsing configuration files",
     "conky-manager": "GUI for managing Conky config files with options to browse and edit themes",
+    "conmon": "OCI container runtime monitor",
     "connman": "Intel's modular network connection manager",
     "consul": "A tool for service discovery, monitoring and configuration.",
     "consul-template": "Template rendering, notifier, and supervisor for HashiCorp Consul and Vault data",
@@ -303,6 +306,5 @@
     "cvc4": "An automatic theorem prover",
     "cxxtest": "Unit testing framework for C++",
     "cython": "C-Extensions for Python",
-    "cython2": "C-Extensions for Python",
-    "conmon": "OCI container runtime monitor"
+    "cython2": "C-Extensions for Python"
 }

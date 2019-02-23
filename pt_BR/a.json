@@ -104,7 +104,6 @@
     "abduco": "Tool for session {at,de}tach support which allows a process to run independently from its controlling terminal",
     "absl-py": "Abseil Python Common Libraries",
     "abuse": "Side-scroller action game that pits you against ruthless alien killers",
-    "acbuild": "App Container Image Build Command",
     "accuraterip-checksum": "A C99 commandline program to compute the AccurateRip checksum of singletrack WAV files",
     "acetoneiso2": "An all in one ISO tool (bin mdf nrg img daa dmg cdi b5i bwi pdi iso)",
     "ack": "A Perl-based grep replacement, aimed at programmers with large trees of heterogeneous source code",
