@@ -127,7 +127,6 @@
     "ccgo": "Play the game of Go with gnugo or against other players on IGS",
     "ccid": "A generic USB Chip/Smart Card Interface Devices driver",
     "cclive": "Commandline downloader for popular video websites.",
-    "ccrypt": "A command-line utility for encrypting and decrypting files and streams",
     "ccze": "Robust and modular log colorizer with many plugins",
     "cd-discid": "A backend utility to get CDDB discid information from a CD-ROM disc",
     "cdargs": "Replacement for 'cd' that includes bookmarks/browsing for faster navigation",
