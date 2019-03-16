@@ -169,6 +169,7 @@
     "amavisd-milter": "sendmail milter for amavisd-new using the AM.PDP protocol",
     "amavisd-new": "High-performance interface between mailer (MTA) and content checkers",
     "amb-plugins": "A set of LADSPA ambisonics plugins",
+    "ambdec": "An Ambisonic decoder for first and second order",
     "ams": "A real-time modular synthesizer and effect processor",
     "ams-lv2": "A port of the internal modules found in Alsa Modular Synth",
     "amsynth": "Analogue Modeling SYNTHesizer",
