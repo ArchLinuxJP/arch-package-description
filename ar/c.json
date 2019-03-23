@@ -182,6 +182,7 @@
     "chrootuid": "Runs a command in a restricted environment.",
     "chrpath": "Change or delete the rpath or runpath in ELF files",
     "chuck": "Concurrent, on-the-fly audio programming language",
+    "ciano": "Multimedia file converter focused on simplicity",
     "cimg": "Open-source C++ toolkit for image processing",
     "cinnamon": "Linux desktop which provides advanced innovative features and a traditional user experience",
     "cinnamon-control-center": "The Control Center for Cinnamon",
