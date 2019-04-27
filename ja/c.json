@@ -100,7 +100,7 @@
     "caja-xattr-tags": "xattrs に保存されたタグを表示するための Caja 拡張",
     "calc": "任意精度のコンソール電卓",
     "calcurse": "テキストベースの手帳",
-    "calf": "LV2/DSSI/LADSPA プラグインスイート・スタンドアロン Jack ホスト",
+    "calf": "LV2 plug-in suite and standalone Jack host",
     "calibre": "電子書籍管理アプリケーション",
     "camlp4": "Caml プリプロセッサ・プリティプリンタ",
     "camlp5": "OCaml のプリプロセッサプリティプリンタ",

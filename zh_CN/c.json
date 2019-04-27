@@ -100,7 +100,7 @@
     "caja-xattr-tags": "A Caja extension to see tags stored on xattrs",
     "calc": "Arbitrary precision console calculator",
     "calcurse": "A text-based personal organizer.",
-    "calf": "LV2/DSSI/LADSPA plug-in suite and standalone Jack host",
+    "calf": "LV2 plug-in suite and standalone Jack host",
     "calibre": "Ebook management application",
     "camlp4": "Caml preprocessor and pretty-printer",
     "camlp5": "A preprocessor-pretty-printer of OCaml.",

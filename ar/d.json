@@ -145,6 +145,7 @@
     "deepin-wallpapers": "Default wallpapers for DDE",
     "deepin-wallpapers-plasma": "Additional Deepin desktop wallpapers from Plasma",
     "deepin-wm": "Deepin Window Manager",
+    "dehydrated": "letsencrypt/acme client implemented as a shell-script – just add water",
     "deja-dup": "Simple backup tool, that hides the complexity of backing up the Right Way and uses duplicity as the backend",
     "delve": "A debugger for the Go programming language.",
     "dep": "Go dependency management tool",
