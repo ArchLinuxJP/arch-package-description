@@ -186,7 +186,6 @@
     "apparmor": "Linux Security Module (LSM) による強制アクセス制御 (MAC)",
     "apper": "PackageKit を使用するアプリケーションとパッケージマネージャ",
     "appmenu-gtk-module": "アプリケーションメニュー GTK+ モジュール",
-    "appmenu-qt4": "Qt4 アプリケーションのメニューを D-Bus でエクスポート",
     "appstream-generator": "高速な AppStream メタデータジェネレータ",
     "aqbanking": "オンラインバンキングや金融アプリケーションのライブラリ",
     "arandr": "XRandR 1.2 のシンプルなビジュアルフロントエンド",
