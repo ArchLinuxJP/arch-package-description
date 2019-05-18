@@ -192,7 +192,7 @@
     "dmg2img": "A CLI tool to uncompress Apple's compressed DMG files to the HFS+ IMG format",
     "dmtcp": "Distributed MultiThreaded CheckPointing",
     "dns-lexicon": "Manipulate DNS records on various DNS providers in a standardized/agnostic way",
-    "dnscrypt-proxy": "DNS proxy, supporting encrypted DNS protocols such as DNSCrypt v2 and DNS-over-HTTP",
+    "dnscrypt-proxy": "DNS proxy, supporting encrypted DNS protocols such as DNSCrypt v2 and DNS-over-HTTPS",
     "dnscrypt-wrapper": "サーバーサイド dnscrypt プロキシ",
     "dnssec-tools": "libval & dnssec 管理ツール",
     "dnstracer": "Determines where a given DNS server gets its information from, and follows the chain of DNS servers",
