@@ -305,5 +305,7 @@
     "cvc4": "自動定理証明器",
     "cxxtest": "C++ のユニットテストフレームワーク",
     "cython": "Python の C 拡張",
-    "cython2": "Python の C 拡張"
+    "cython2": "Python の C 拡張",
+    "caffe2": "A new lightweight, modular, and scalable deep learning framework (cpu only)",
+    "caffe2-cuda": "A new lightweight, modular, and scalable deep learning framework (with cuda support)"
 }
