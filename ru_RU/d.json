@@ -54,6 +54,7 @@
     "double-conversion": "Binary-decimal and decimal-binary routines for IEEE doubles",
     "doxygen": "Documentation system for C++, C, Java, IDL and PHP",
     "doxygen-docs": "Developer documentation for doxygen",
+    "dracut": "An event driven initramfs infrastructure",
     "dragon": "A multimedia player where the focus is on simplicity, instead of features",
     "drkonqi": "The KDE crash handler",
     "dvd+rw-tools": "dvd burning tools",
