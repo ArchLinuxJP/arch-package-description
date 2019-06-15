@@ -170,6 +170,7 @@
     "check_api": "A gate-keeper tool for the APIs.guru API collection",
     "checkbashisms": "Debian script that checks for bashisms",
     "checksec": "Ferramenta desenhada para testar quais recursos de segurança padrão do sistema operacional Linux e pax estão sendo usados",
+    "chewing-editor": "Cross platform chewing user phrase editor",
     "chicken": "Feature rich R5RS Scheme compiler and interpreter",
     "chinese-calendar": "Chinese traditional calendar for Ubuntu Kylin",
     "chntpw": "Offline NT Password Editor - reset passwords in a Windows NT SAM user database file",
@@ -305,7 +306,5 @@
     "cvc4": "Um provador de teoremas automático",
     "cxxtest": "Unidade de testes framework para C++",
     "cython": "Extensões C pra Python",
-    "cython2": "Extensões C pra Python",
-    "caffe2": "A new lightweight, modular, and scalable deep learning framework (cpu only)",
-    "caffe2-cuda": "A new lightweight, modular, and scalable deep learning framework (with cuda support)"
+    "cython2": "Extensões C pra Python"
 }

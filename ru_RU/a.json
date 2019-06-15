@@ -132,6 +132,7 @@
     "adobe-source-han-serif-kr-fonts": "Adobe Source Han Serif Subset OTF - Korean OpenType/CFF fonts",
     "adobe-source-han-serif-otc-fonts": "Adobe Source Han Serif - Pan-CJK OpenType/CFF Collection fonts",
     "adobe-source-han-serif-tw-fonts": "Adobe Source Han Serif Subset OTF - Traditional Chinese OpenType/CFF fonts",
+    "adrdox": "Documentation generator for D",
     "adriconf": "GUI tool to configure Mesa drivers by setting options and writing them to the standard drirc file",
     "advancecomp": "Recompression utilities for .zip .png .mng and .gz files using the 7-zip algorithm",
     "aegisub": "A general-purpose subtitle editor with ASS/SSA support",

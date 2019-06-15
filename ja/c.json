@@ -170,6 +170,7 @@
     "check_api": "A gate-keeper tool for the APIs.guru API collection",
     "checkbashisms": "bashism をチェックする Debian のスクリプト",
     "checksec": "標準の Linux OS で PaX セキュリティ機能が使われているかテストするためのツール",
+    "chewing-editor": "Cross platform chewing user phrase editor",
     "chicken": "機能豊富な R5RS Scheme コンパイラ・インタプリタ",
     "chinese-calendar": "Ubuntu Kylin の中国暦カレンダー",
     "chntpw": "オフライン NT パスワードエディタ - Windows NT SAM ユーザーデータベースファイルのパスワードをリセット",
@@ -305,7 +306,5 @@
     "cvc4": "自動定理証明器",
     "cxxtest": "C++ のユニットテストフレームワーク",
     "cython": "Python の C 拡張",
-    "cython2": "Python の C 拡張",
-    "caffe2": "A new lightweight, modular, and scalable deep learning framework (cpu only)",
-    "caffe2-cuda": "A new lightweight, modular, and scalable deep learning framework (with cuda support)"
+    "cython2": "Python の C 拡張"
 }
