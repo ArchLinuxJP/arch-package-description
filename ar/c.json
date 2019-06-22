@@ -171,6 +171,7 @@
     "checkbashisms": "Debian script that checks for bashisms",
     "checksec": "Tool designed to test which standard Linux OS and PaX security features are being used",
     "chewing-editor": "Cross platform chewing user phrase editor",
+    "chezmoi": "Multi-machine dotfile management system",
     "chicken": "Feature rich R5RS Scheme compiler and interpreter",
     "chinese-calendar": "Chinese traditional calendar for Ubuntu Kylin",
     "chntpw": "Offline NT Password Editor - reset passwords in a Windows NT SAM user database file",
