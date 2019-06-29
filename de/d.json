@@ -220,6 +220,7 @@
     "dovecot": "An IMAP and POP3 server written with security primarily in mind",
     "dpf-plugins": "Collection of DPF-based plugins",
     "dragonfly-reverb": "A free hall-style reverb based on freeverb3 algorithms",
+    "drawing": "Drawing application for the GNOME desktop",
     "drbl": "Diskless Remote Boot in Linux: manage the deployment of the GNU/Linux operating system across many clients",
     "dropbear": "Lightweight SSH server",
     "dropbear-scp": "Lightweight application for copying files over SSH",
