@@ -175,6 +175,7 @@
     "bs1770gain": "A loudness scanner compliant with ITU-R BS.1770.",
     "bsd-games": "Linux port of the collection of BSD command line games",
     "bsdiff": "bsdiff and bspatch are tools for building and applying patches to binary files.",
+    "bslizr": "LV2 audio effect plugin for sequenced slicing of stereo audio input signals",
     "bspwm": "Tiling window manager based on binary space partitioning",
     "bt747": "The swiss army knife for MTK GPS dataloggers",
     "btfs": "A bittorrent filesystem based on FUSE",

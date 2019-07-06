@@ -120,6 +120,7 @@
     "activity-log-manager": "A graphical user interface which lets you easily control what gets logged by Zeitgeist",
     "adapta-gtk-theme": "An adaptive Gtk+ theme based on Material Design Guidelines",
     "adapta-kde": "Adapta theme for KDE Plasma 5",
+    "adlplug": "FM synthesizer for ADLMIDI with OPL3 chip emulation",
     "adns": "An asyncronous replacement resolver library",
     "adobe-source-han-sans-cn-fonts": "Adobe Source Han Sans Subset OTF - Simplified Chinese OpenType/CFF fonts",
     "adobe-source-han-sans-hk-fonts": "Adobe Source Han Sans Subset OTF - Traditional Chinese (Hong Kong) OpenType/CFF fonts",
