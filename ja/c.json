@@ -263,6 +263,7 @@
     "cordova": "Cordova コマンドラインインターフェイスツール",
     "corkscrew": "HTTP プロキシで SSH をトンネリングするためのツール",
     "corrade": "C++11/C++14 マルチプラットフォームユーティリティライブラリ",
+    "coturn": "Open-source implementation of TURN and STUN server",
     "couchdb": "JSON を使って MapReduce 方式で問い合わせ・索引化できるドキュメント指向データベース",
     "cowfortune": "フォーチュンクッキーを開けてくれる牛さん (と仲間たち)",
     "cowpatty": "ワイヤレス WPA/WPA2 PSK ハンドシェイククラックユーティリティ",

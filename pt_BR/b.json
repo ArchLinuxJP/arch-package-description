@@ -56,6 +56,7 @@
     "backuppc": "Enterprise-grade system for backing up Linux, Windows and MacOS PCs",
     "badtouch": "Scriptable network authentication cracker",
     "badvpn": "Peer-to-peer VPN system, and NCD, a programming language for network interface configuration",
+    "baidupcs-go": "Terminal utility for Baidu Network Disk",
     "baka-mplayer": "A free and open source, cross-platform, libmpv based multimedia player. Qt5 build.",
     "balsa": "An e-mail client for GNOME",
     "bam": "A fast and flexible build system using Lua",
