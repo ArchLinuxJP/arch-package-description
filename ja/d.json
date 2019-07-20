@@ -59,6 +59,7 @@
     "drkonqi": "KDE クラッシュハンドラ",
     "dvd+rw-tools": "dvd 書き込みツール",
     "dev86": "8086 コードを生成するシンプルな C コンパイラ",
+    "docbook5-xml": "a complete rewrite of the well-known DocBook 4 XML schema (DTD, Relax NG, W3C schema) for Docbook 5.X",
     "d-containers": "std.experimental.allocator による D のコンテナ",
     "d-feet": "GNOME の D-Bus デバッガ",
     "d-mir-core": "Base software building blocks and conventions for libmir",

@@ -59,6 +59,7 @@
     "drkonqi": "The KDE crash handler",
     "dvd+rw-tools": "dvd burning tools",
     "dev86": "Simple C compiler to generate 8086 code",
+    "docbook5-xml": "a complete rewrite of the well-known DocBook 4 XML schema (DTD, Relax NG, W3C schema) for Docbook 5.X",
     "d-containers": "Containers for D backed by std.experimental.allocator",
     "d-feet": "D-Bus debugger for GNOME",
     "d-mir-core": "Base software building blocks and conventions for libmir",
