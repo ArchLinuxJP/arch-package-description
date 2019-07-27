@@ -179,6 +179,7 @@
     "din": "A sound synthesizer and musical instrument.",
     "dina-font": "プログラマ向けの等幅ビットマップフォント",
     "diskus": "'du -sh' のミニマルで高速な代替",
+    "disomaster": "A libisoburn wrapper class for Qt",
     "disorderfs": "非決定性が組み入れられた FUSE ファイルシステム",
     "displaycal": "Open Source Display Calibration and Characterization powered by Argyll CMS (Formerly known as dispcalGUI)",
     "distcc": "分散型の C, C++, Objective-C コンパイラ",

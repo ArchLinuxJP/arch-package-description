@@ -139,6 +139,7 @@
     "cellwriter": "A grid-entry natural handwriting input panel.",
     "ceph": "Distributed, fault-tolerant storage platform delivering object, block, and file system",
     "ceph-libs": "Distributed, fault-tolerant storage platform delivering object, block, and file system",
+    "cerbere": "The Pantheon Watchdog",
     "cern-vdt": "A vectorised math library from CERN",
     "certbot": "A tool to automatically receive and install X.509 certificates to enable TLS on servers. The client will interoperate with the Let’s Encrypt CA which will be issuing browser-trusted certificates for free.",
     "certbot-apache": "Apache plugin for Let’s Encrypt client",
