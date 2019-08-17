@@ -93,6 +93,7 @@
     "benzene": "A program for the efficient generation of all nonisomorphic fusenes and benzenoids with a given number of faces",
     "bettercap": "Swiss army knife for network attacks and monitoring",
     "bettercap-caplets": "Bettercap scripts (caplets) and proxy modules",
+    "betterdiscordctl": "Utility for managing BetterDiscord on Linux",
     "bfgminer": "Bitcoin miner featuring overclocking, monitoring, fan speed control and remote management. For FPGA/GPU/CPU Bitcoin mining.",
     "biber": "A Unicode-capable BibTeX replacement for biblatex users",
     "bibletime": "Bible study tool",
