@@ -107,6 +107,7 @@
     "accuraterip-checksum": "A C99 commandline program to compute the AccurateRip checksum of singletrack WAV files",
     "acetoneiso2": "An all in one ISO tool (bin mdf nrg img daa dmg cdi b5i bwi pdi iso)",
     "ack": "A Perl-based grep replacement, aimed at programmers with large trees of heterogeneous source code",
+    "acme": "Assembler for the 6502, 6510, 65c02 and 65816 processors",
     "acme-tiny": "A tiny script to issue and renew TLS certs from Let's Encrypt",
     "acme.sh": "An ACME Shell script, an acme client alternative to certbot",
     "acorn": "A tiny, fast JavaScript parser, written completely in JavaScript.",

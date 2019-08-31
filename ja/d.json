@@ -183,7 +183,7 @@
     "disomaster": "A libisoburn wrapper class for Qt",
     "disorderfs": "非決定性が組み入れられた FUSE ファイルシステム",
     "displaycal": "Open Source Display Calibration and Characterization powered by Argyll CMS (Formerly known as dispcalGUI)",
-    "distcc": "分散型の C, C++, Objective-C コンパイラ",
+    "distcc": "Distributed compilation service for C, C++ and Objective-C",
     "distorm": "x86/AMD64 の強力な逆アセンブラライブラリ",
     "ditaa": "アスキーアートで書かれた図形をビットマップに変換するユーティリティ",
     "djview": "ポータブルな DjVu ビューア・ブラウザプラグイン",
