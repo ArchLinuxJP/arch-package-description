@@ -136,6 +136,7 @@
     "cdemu-client": "Cliente de linha de comando simples para controlar cdemu-daemon",
     "cdemu-daemon": "CD/DVD-ROM device emulator daemon",
     "cdrtools": "Original cdrtools supporting CD, DVD and BluRay burning",
+    "celluloid": "Simple GTK+ frontend for mpv",
     "cellwriter": "A grid-entry natural handwriting input panel.",
     "ceph": "Distributed, fault-tolerant storage platform delivering object, block, and file system",
     "ceph-libs": "Distributed, fault-tolerant storage platform delivering object, block, and file system",
