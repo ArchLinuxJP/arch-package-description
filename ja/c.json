@@ -279,7 +279,6 @@
     "cpanminus": "CPAN からモジュールを取得・解凍・ビルド・インストール",
     "cpp-hocon": "Typesafe Config ライブラリの C++ ポート",
     "cppcheck": "C/C++ のコードを静的解析するツール",
-    "cppo": "OCaml の C スタイルプリプロセッサ",
     "cpuburn": "CPU の負担を最大化するよう最適化されたアセンブラの CPU テストユーティリティ",
     "cpulimit": "プロセスの cpu 使用量をパーセンテージで制限して、プロセスに SIGSTOP/SIGCONT POSIX シグナルを送信",
     "cpupower": "プロセッサの省電力関連機能を確認・調整する Linux カーネルツール",

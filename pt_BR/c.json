@@ -279,7 +279,6 @@
     "cpanminus": "get, unpack, build and install modules from CPAN",
     "cpp-hocon": "C++ port of the Typesafe Config library",
     "cppcheck": "A tool for static C/C++ code analysis",
-    "cppo": "C-style preprocessor for OCaml",
     "cpuburn": "Utilitários de teste de CPU em assembler otimizado para o carregamento máximo de CPUs",
     "cpulimit": "Limit cpu usage of a process in percentage. Actually sends SIGSTOP/SIGCONT POSIX signals to processes",
     "cpupower": "Linux kernel tool to examine and tune power saving related features of your processor",
