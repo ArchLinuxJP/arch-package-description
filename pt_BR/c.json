@@ -314,5 +314,6 @@
     "cvc4": "Um provador de teoremas automático",
     "cxxtest": "Unidade de testes framework para C++",
     "cython": "Extensões C pra Python",
-    "cython2": "Extensões C pra Python"
+    "cython2": "Extensões C pra Python",
+    "ceph-mgr": "Distributed, fault-tolerant storage platform delivering object, block, and file system"
 }

@@ -50,6 +50,8 @@
     "bullet-docs": "Documentation for bullet",
     "bzflag": "Multiplayer 3D tank battle game",
     "bzr": "A decentralized revision control system (bazaar)",
+    "boost1.69": "Free peer-reviewed portable C++ source libraries - development headers",
+    "boost1.69-libs": "Free peer-reviewed portable C++ source libraries - runtime libraries",
     "babe": "A tiny music collection manager",
     "babel-cli": "A compiler for writing next generation JavaScript",
     "babeld": "A loop-avoiding distance-vector routing protocol",

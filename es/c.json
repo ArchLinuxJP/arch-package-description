@@ -314,5 +314,6 @@
     "cvc4": "An automatic theorem prover",
     "cxxtest": "Unit testing framework for C++",
     "cython": "C-Extensions for Python",
-    "cython2": "C-Extensions for Python"
+    "cython2": "C-Extensions for Python",
+    "ceph-mgr": "Distributed, fault-tolerant storage platform delivering object, block, and file system"
 }

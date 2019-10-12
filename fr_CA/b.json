@@ -50,6 +50,8 @@
     "bullet-docs": "Documentation de bullet",
     "bzflag": "Jeu multijoueur 3D de bataille de blindés",
     "bzr": "Programme de gestion de versions décentralisé (bazaar)",
+    "boost1.69": "Bibliothèques C++ portables, libres et soumises à l’évaluation par les pairs − fichiers d’entête",
+    "boost1.69-libs": "Bibliothèques C++ portables, libres et soumises à l’évaluation par les pairs − bibliothèques runtime",
     "babe": "A tiny music collection manager",
     "babel-cli": "A compiler for writing next generation JavaScript",
     "babeld": "A loop-avoiding distance-vector routing protocol",
