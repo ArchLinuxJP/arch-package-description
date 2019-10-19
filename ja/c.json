@@ -140,6 +140,7 @@
     "cellwriter": "グリッド線が入った手書き入力パネル",
     "ceph": "オブジェクト・ブロック・ファイルシステムを配信する分散型で耐障害性を備えたストレージプラットフォーム",
     "ceph-libs": "オブジェクト・ブロック・ファイルシステムを配信する分散型で耐障害性を備えたストレージプラットフォーム",
+    "ceph-mgr": "オブジェクト・ブロック・ファイルシステムを配信する分散型で耐障害性を備えたストレージプラットフォーム",
     "cerbere": "Pantheon ウォッチドッグ",
     "cereal": "C++11 library for serialization",
     "cern-vdt": "CERN のベクトル化数学ライブラリ",
@@ -204,6 +205,7 @@
     "classpath": "Sun のプロプライエタリなコア Java クラスライブラリのフリーな代替",
     "cldr-emoji-annotation": "CLDR の絵文字アノテーションファイル",
     "clementine": "近代的な音楽プレイヤー・ライブラリオーガナイザ",
+    "clevis": "Automated Encryption Framework",
     "clinfo": "あらゆるプラットフォームとデバイスのプロパティを列挙するシンプルな OpenCL アプリケーション",
     "clipgrab": "YouTube, Veoh, DailyMotion, MyVideo などの動画ダウンローダ・コンバータ",
     "clipmenu": "dmenu を使用するクリップボード管理ツール",
@@ -314,6 +316,5 @@
     "cvc4": "自動定理証明器",
     "cxxtest": "C++ のユニットテストフレームワーク",
     "cython": "Python の C 拡張",
-    "cython2": "Python の C 拡張",
-    "ceph-mgr": "オブジェクト・ブロック・ファイルシステムを配信する分散型で耐障害性を備えたストレージプラットフォーム"
+    "cython2": "Python の C 拡張"
 }

@@ -147,6 +147,7 @@
     "deepin-wallpapers": "DDE のデフォルト壁紙",
     "deepin-wallpapers-plasma": "Plasma 由来の Deepin デスクトップ追加壁紙",
     "deepin-wm": "Deepin ウィンドウマネージャ",
+    "deheader": "Find and optionally remove unneeded includes in C or C++ source files",
     "dehydrated": "letsencrypt/acme client implemented as a shell-script – just add water",
     "deja-dup": "Simple backup tool, that hides the complexity of backing up the Right Way and uses duplicity as the backend",
     "delve": "Go プログラミング言語のデバッガー",
