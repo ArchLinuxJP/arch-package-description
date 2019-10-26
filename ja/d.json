@@ -249,6 +249,7 @@
     "dumb-a4": "IT, XM, S3M and MOD player library (for Allegro 4)",
     "dune": "OCaml の組み換え可能なビルドシステム (旧名 jbuilder)",
     "dunst": "カスタマイズができる軽量な通知デーモン",
+    "duperemove": "Btrfs extent deduplication utility",
     "duplicity": "A utility for encrypted, bandwidth-efficient backups using the rsync algorithm.",
     "dvdauthor": "DVD オーサリングツール",
     "dvdbackup": "コマンドラインから DVD 動画をリッピングするツール",

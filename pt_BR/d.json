@@ -249,6 +249,7 @@
     "dumb-a4": "IT, XM, S3M and MOD player library (for Allegro 4)",
     "dune": "A composable build system for OCaml (formerly jbuilder)",
     "dunst": "Customizable and lightweight notification-daemon",
+    "duperemove": "Btrfs extent deduplication utility",
     "duplicity": "A utility for encrypted, bandwidth-efficient backups using the rsync algorithm.",
     "dvdauthor": "DVD authoring tools",
     "dvdbackup": "Tool to rip video DVDs from the command line",
