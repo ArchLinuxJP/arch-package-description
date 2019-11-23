@@ -290,6 +290,7 @@
     "crash": "Linux カーネルのクラッシュダンプを解析するツール",
     "create_ap": "NAT/ブリッジ接続のソフトウェアアクセスポイントを作成するシェルスクリプト",
     "critter": "Critical Mass (aka Critter) is an SDL/OpenGL space shoot'em up game",
+    "croc": "Easily and securely send things from one computer to another.",
     "cryfs": "クラウド向けの暗号ファイルシステム",
     "crypto++": "A free C++ class library of cryptographic schemes",
     "cryptol": "The Language of Cryptography",

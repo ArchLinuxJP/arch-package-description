@@ -203,6 +203,7 @@
     "arch-wiki-lite": "html を省いた wiki。コンソールで検索・閲覧しやすく容量は 1/9。",
     "archey3": "ロゴやシステム情報などを出力",
     "archlinux-contrib": "Arch Linux で使われている contrib スクリプト集",
+    "archlinux-repro": "Tools to reproduce Arch Linux packages",
     "archlinux-wallpaper": "様々な Arch Linux ブランドの壁紙",
     "archlinux-xdg-menu": "xdg ファイルからウィンドウマネージャのメニューを自動生成",
     "arcus": "Ultimaker ソフトウェアの内部コンポーネントの通信ライブラリ",

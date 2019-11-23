@@ -203,6 +203,7 @@
     "arch-wiki-lite": "Le wiki sans html. Poids divisé par neuf, recherche facile et consultable sur la console.",
     "archey3": "Affiche un logo et diverses informations système",
     "archlinux-contrib": "Collection of contrib scripts used in Arch Linux",
+    "archlinux-repro": "Tools to reproduce Arch Linux packages",
     "archlinux-wallpaper": "A selection of Arch Linux branded wallpapers",
     "archlinux-xdg-menu": "automatic generate WM menu from xdg files",
     "arcus": "Communication library between internal components for Ultimaker software",
