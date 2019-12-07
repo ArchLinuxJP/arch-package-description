@@ -290,7 +290,11 @@
     "avrdude": "AVR マイクロコントローラの ROM と EEPROM の中身をダウンロード・アップロード・操作",
     "awesome": "設定自在なフレームワークウィンドウマネージャ",
     "awesome-terminal-fonts": "powerline 用のフォントとアイコン",
+    "aws-c-common": "Core c99 package for AWS SDK for C. Includes cross-platform primitives, configuration, data structures, and error handling.",
+    "aws-c-event-stream": "C99 implementation of the vnd.amazon.eventstream content-type",
+    "aws-checksums": "Cross-Platform HW accelerated CRC32c and CRC32 with fallback to efficient SW implementations.",
     "aws-cli": "Amazon Web Services のユニバーサルコマンドラインインターフェイス",
+    "aws-sdk-cpp": "AWS SDK for C++",
     "awstats": "ウェブサーバーやストリーミングサーバー、ftp やメールサーバーの統計情報をグラフィカルに生成するツール",
     "axel": "軽量なコマンドラインダウンロードアクセラレータ"
 }

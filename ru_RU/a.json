@@ -290,7 +290,11 @@
     "avrdude": "Download/upload/manipulate the ROM and EEPROM contents of AVR microcontrollers",
     "awesome": "Highly configurable framework window manager",
     "awesome-terminal-fonts": "fonts/icons for powerlines",
+    "aws-c-common": "Core c99 package for AWS SDK for C. Includes cross-platform primitives, configuration, data structures, and error handling.",
+    "aws-c-event-stream": "C99 implementation of the vnd.amazon.eventstream content-type",
+    "aws-checksums": "Cross-Platform HW accelerated CRC32c and CRC32 with fallback to efficient SW implementations.",
     "aws-cli": "Universal Command Line Interface for Amazon Web Services",
+    "aws-sdk-cpp": "AWS SDK for C++",
     "awstats": "tool that generates web, streaming, ftp and mail server statistics, graphically",
     "axel": "Light command line download accelerator"
 }
