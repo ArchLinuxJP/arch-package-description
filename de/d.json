@@ -169,6 +169,7 @@
     "dhex": "An ncurses-based hexeditor with a diff mode",
     "dia": "A GTK+ based diagram creation program",
     "dictd": "Online dictionary client and server",
+    "diesel-cli": "CLI for the Diesel crate",
     "diet-ng": "Generic compile-time template system based on an XML-like structure for D",
     "dietlibc": "a libc optimized for small size",
     "diff-so-fancy": "Good-looking diffs with diff-highlight and more",

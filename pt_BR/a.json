@@ -37,6 +37,8 @@
     "alsa-lib": "Uma implementação alternativa de suporte de som do Linux",
     "alsa-oss": "OSS compatibility library",
     "alsa-plugins": "Extra alsa plugins",
+    "alsa-topology-conf": "ALSA topology configuration files",
+    "alsa-ucm-conf": "ALSA Use Case Manager configuration (and topologies)",
     "alsa-utils": "Uma implementação alternativa de suporte de som do Linux",
     "amdvlk": "AMD's standalone Vulkan driver",
     "amtk": "Actions, Menus and Toolbars Kit for GTK+ applications",
