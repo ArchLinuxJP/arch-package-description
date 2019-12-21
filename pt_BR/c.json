@@ -120,7 +120,9 @@
     "caprine": "Unofficial Facebook Messenger app",
     "caps": "The LADSPA C* Audio Plugin Suite",
     "capstone": "Lightweight multi-platform, multi-architecture disassembly framework",
+    "cargo-audit": "Audit Cargo.lock for crates with security vulnerabilities",
     "cargo-crev": "Scalable, social, Code REView and recommendation system that we desperately need",
+    "cargo-fuzz": "Command line helpers for fuzzing rust",
     "cargo-outdated": "A cargo subcommand for displaying when Rust dependencies are out of date",
     "cargo-tree": "Cargo subcommand that visualizes a crate's dependency graph in a tree-like format",
     "carla": "Audio Plugin Host",
@@ -323,6 +325,7 @@
     "cuyo": "Quebra cabeças estilo Tetris para até dois jogadores.",
     "cvc4": "Um provador de teoremas automático",
     "cxxtest": "Unidade de testes framework para C++",
+    "cycfx2prog": "Light command line download accelerator",
     "cython": "Extensões C pra Python",
     "cython2": "Extensões C pra Python"
 }

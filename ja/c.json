@@ -120,7 +120,9 @@
     "caprine": "非公式 Facebook メッセンジャーアプリ",
     "caps": "LADSPA C* Audio Plugin Suite",
     "capstone": "軽量・マルチプラットフォーム・マルチアーキテクチャの逆アセンブルフレームワーク",
+    "cargo-audit": "Audit Cargo.lock for crates with security vulnerabilities",
     "cargo-crev": "Scalable, social, Code REView and recommendation system that we desperately need",
+    "cargo-fuzz": "Command line helpers for fuzzing rust",
     "cargo-outdated": "A cargo subcommand for displaying when Rust dependencies are out of date",
     "cargo-tree": "Cargo subcommand that visualizes a crate's dependency graph in a tree-like format",
     "carla": "オーディオプラグインホスト",
@@ -323,6 +325,7 @@
     "cuyo": "Tetris-style puzzle game for up to two players with a twist",
     "cvc4": "自動定理証明器",
     "cxxtest": "C++ のユニットテストフレームワーク",
+    "cycfx2prog": "軽量なコマンドラインダウンロードアクセラレータ",
     "cython": "Python の C 拡張",
     "cython2": "Python の C 拡張"
 }

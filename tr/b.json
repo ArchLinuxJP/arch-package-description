@@ -55,6 +55,7 @@
     "bzr": "A decentralized revision control system (bazaar)",
     "babe": "A tiny music collection manager",
     "babel-cli": "A compiler for writing next generation JavaScript",
+    "babel-core": "A compiler for writing next generation JavaScript",
     "babeld": "A loop-avoiding distance-vector routing protocol",
     "babeltrace": "Command-line trace converter",
     "backuppc": "Enterprise-grade system for backing up Linux, Windows and MacOS PCs",
