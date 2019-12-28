@@ -190,7 +190,6 @@
     "ditaa": "Utility for converting ASCII art diagrams into bitmaps",
     "djview": "Portable DjVu viewer and browser plugin",
     "dkfilter": "Domain key filter",
-    "dkimproxy": "An SMTP-proxy that signs and/or verifies emails, using the Mail::DKIM module.",
     "dmd": "The D programming language reference compiler",
     "dmd-docs": "Documentation and sample code for D programming language",
     "dmenu": "Generic menu for X",
@@ -259,5 +258,7 @@
     "dvtm": "Dynamic virtual terminal manager.",
     "dwarffortress": "A single-player fantasy game in which you build a dwarven outpost or play an adventurer in a randomly generated world",
     "dwdiff": "A front-end for the diff program that operates at the word level instead of the line level",
-    "dzen2": "General purpose messaging, notification and menuing program for X11"
+    "dzen2": "General purpose messaging, notification and menuing program for X11",
+    "dotnet-runtime-2.2": "The .NET Core runtime",
+    "dotnet-sdk-2.2": "The .NET Core SDK"
 }

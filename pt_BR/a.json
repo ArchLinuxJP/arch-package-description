@@ -298,5 +298,6 @@
     "aws-cli": "Universal Command Line Interface for Amazon Web Services",
     "aws-sdk-cpp": "AWS SDK for C++",
     "awstats": "tool that generates web, streaming, ftp and mail server statistics, graphically",
-    "axel": "Light command line download accelerator"
+    "axel": "Light command line download accelerator",
+    "aspnet-runtime-2.2": "The ASP.NET Core runtime"
 }

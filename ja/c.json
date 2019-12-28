@@ -129,6 +129,7 @@
     "castget": "Command-line based RSS enclosure downloader primarily intended for downloading of podcasts",
     "cataclysm-dda": "ポストアポカリプスのローグライク",
     "cataclysm-dda-tiles": "グラフィカルなポストアポカリプスのローグライク",
+    "catatonit": "A container init that is so simple it's effectively brain-dead.",
     "catch2": "Modern, C++-native, header-only, test framework for unit-tests, TDD and BDD",
     "catdoc": "Microsoft Word, Excel, PowerPoint, RTF ファイルをテキストに変換",
     "catfish": "多目的ファイル検索ツール",

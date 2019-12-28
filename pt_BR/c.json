@@ -129,6 +129,7 @@
     "castget": "Command-line based RSS enclosure downloader primarily intended for downloading of podcasts",
     "cataclysm-dda": "A post-apocalyptic roguelike.",
     "cataclysm-dda-tiles": "A graphical post-apocalyptic roguelike.",
+    "catatonit": "A container init that is so simple it's effectively brain-dead.",
     "catch2": "Modern, C++-native, header-only, test framework for unit-tests, TDD and BDD",
     "catdoc": "A convertor for Microsoft Word, Excel, PowerPoint and RTF Files to text",
     "catfish": "Ferramenta de busca de arquivos versátil",

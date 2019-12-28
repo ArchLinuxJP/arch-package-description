@@ -190,7 +190,6 @@
     "ditaa": "アスキーアートで書かれた図形をビットマップに変換するユーティリティ",
     "djview": "ポータブルな DjVu ビューア・ブラウザプラグイン",
     "dkfilter": "Domain key filter",
-    "dkimproxy": "Mail::DKIM モジュールを使ってメールに署名・検証する SMTP プロキシ",
     "dmd": "D プログラミング言語のリファレンスコンパイラ",
     "dmd-docs": "D プログラミング言語のドキュメントとサンプルコード",
     "dmenu": "Generic menu for X",
@@ -259,5 +258,7 @@
     "dvtm": "動的仮想端末マネージャ",
     "dwarffortress": "A single-player fantasy game in which you build a dwarven outpost or play an adventurer in a randomly generated world",
     "dwdiff": "行単位ではなく単語単位で操作する diff プログラムのフロントエンド",
-    "dzen2": "General purpose messaging, notification and menuing program for X11"
+    "dzen2": "General purpose messaging, notification and menuing program for X11",
+    "dotnet-runtime-2.2": ".NET Core ランタイム",
+    "dotnet-sdk-2.2": ".NET Core SDK"
 }
