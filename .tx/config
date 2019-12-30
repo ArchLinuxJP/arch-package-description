@@ -7,6 +7,12 @@ host = https://www.transifex.com
 source_lang = en
 type = KEYVALUEJSON
 
+[arch-package-description.3json]
+file_filter = <lang>/3.json
+host = https://www.transifex.com
+source_lang = en
+type = KEYVALUEJSON
+
 [arch-package-description.4json]
 file_filter = <lang>/4.json
 host = https://www.transifex.com
