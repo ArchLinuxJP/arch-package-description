@@ -89,6 +89,7 @@
     "cabextract": "A program to extract Microsoft cabinet (.CAB) files",
     "cacti": "Network graphing solution using RRDTool",
     "cadaver": "Command-line WebDAV client for Unix",
+    "caddy": "HTTP/2 Web Server with Automatic HTTPS",
     "cadence": "JACK toolbox for audio production.",
     "cage": "A kiosk compositor for Wayland",
     "cairo-dock": "Light eye-candy fully themable animated dock",
