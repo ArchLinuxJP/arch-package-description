@@ -67,6 +67,7 @@
     "bam": "A fast and flexible build system using Lua",
     "bamf": "Application matching framework",
     "bandit": "Python security linter from OpenStack Security",
+    "bandwhich": "Terminal bandwidth utilization tool",
     "banner": "Print large banners to ASCII terminals",
     "bar": "A script for showing progress bars.",
     "barcode": "A tool to convert text strings to printed bars",

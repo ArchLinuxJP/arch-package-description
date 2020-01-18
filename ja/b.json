@@ -67,6 +67,7 @@
     "bam": "Lua を使用する高速で柔軟なビルドシステム",
     "bamf": "アプリケーションマッチングフレームワーク",
     "bandit": "OpenStack Security の Python セキュリティ linter",
+    "bandwhich": "Terminal bandwidth utilization tool",
     "banner": "ASCII ターミナルに巨大なバナーを出力",
     "bar": "プログレスバーを表示するためのスクリプト",
     "barcode": "テキスト文字列を印刷バーに変換するツール",
