@@ -308,7 +308,7 @@
     "csfml": "Ligações C para SFML",
     "csound": "A programming language for sound rendering and signal processing.",
     "csound-doc": "A programming language for sound rendering and signal processing.",
-    "csoundqt": "Csound frontend with highlighting editor, autocomplete, interactive widgets and integrated help",
+    "csoundqt": "A frontend for Csound",
     "ctemplate": "Uma biblioteca de implementação de um modelo de linguagem simples, mas poderosa para C ++",
     "ctpl": "Biblioteca de modelo de motor escrito em C",
     "cuda": "kit de ferramentas de programação GPU da NVIDIA",

@@ -308,7 +308,7 @@
     "csfml": "sfml の C バインディング",
     "csound": "音声合成・信号処理のためのプログラミング言語",
     "csound-doc": "音声合成・信号処理のためのプログラミング言語",
-    "csoundqt": "Csound frontend with highlighting editor, autocomplete, interactive widgets and integrated help",
+    "csoundqt": "A frontend for Csound",
     "ctemplate": "C++ 用のシンプルながら強力なテンプレートエンジンが実装されたライブラリ",
     "ctpl": "C で書かれたテンプレートエンジンライブラリ",
     "cuda": "NVIDIA の GPU プログラミングツールキット",

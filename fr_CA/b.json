@@ -173,6 +173,7 @@
     "broadcom-wl": "Broadcom 802.11 Linux STA wireless driver",
     "broadcom-wl-dkms": "Broadcom 802.11 Linux STA wireless driver",
     "brook": "Logiciel de proxy et vpn multiplateforme",
+    "broot": "Fuzzy Search + tree + cd",
     "brotli": "Bibliothèque de compression",
     "brotli-testdata": "Bibliothèque de compression",
     "brotli06": "Bibliothèque de compression − ancienne version 0.6.x",

@@ -308,7 +308,7 @@
     "csfml": "C bindings for sfml",
     "csound": "A programming language for sound rendering and signal processing.",
     "csound-doc": "A programming language for sound rendering and signal processing.",
-    "csoundqt": "Csound frontend with highlighting editor, autocomplete, interactive widgets and integrated help",
+    "csoundqt": "A frontend for Csound",
     "ctemplate": "A library implementing a simple but powerful template language for C++",
     "ctpl": "Template engine library written in C",
     "cuda": "NVIDIA's GPU programming toolkit",
