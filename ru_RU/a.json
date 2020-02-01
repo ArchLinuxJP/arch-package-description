@@ -33,10 +33,10 @@
     "akregator": "A Feed Reader by KDE",
     "alacarte": "Редактор меню для gnome",
     "alertmanager": "Service which handles alerts sent by client applications such as the Prometheus server",
-    "alsa-firmware": "ALSA firmware package",
+    "alsa-firmware": "Firmware binaries for laoder programs in alsa-tools and hotplug firmware loader",
     "alsa-lib": "Альтернативная реализация поддержки звука в Linux",
     "alsa-oss": "OSS compatibility library",
-    "alsa-plugins": "Дополнительные плагины для alsa",
+    "alsa-plugins": "Additional ALSA plugins",
     "alsa-topology-conf": "ALSA topology configuration files",
     "alsa-ucm-conf": "ALSA Use Case Manager configuration (and topologies)",
     "alsa-utils": "Альтернативная реализация поддержки звука в Linux",
@@ -255,6 +255,7 @@
     "aspell-sv": "Swedish dictionary for aspell",
     "aspell-uk": "Ukrainian dictionary for aspell",
     "asplib": "Achim's Signal Processing LIBrary",
+    "aspnet-runtime-2.2": "The ASP.NET Core runtime",
     "aspnet-runtime": "The ASP.NET Core runtime",
     "assaultcube": "A realistic team oriented multiplayer FPS based on the Cube engine",
     "astromenace": "Hardcore 3D space shooter with spaceship upgrade possibilities",
@@ -298,6 +299,5 @@
     "aws-cli": "Universal Command Line Interface for Amazon Web Services",
     "aws-sdk-cpp": "AWS SDK for C++",
     "awstats": "tool that generates web, streaming, ftp and mail server statistics, graphically",
-    "axel": "Light command line download accelerator",
-    "aspnet-runtime-2.2": "The ASP.NET Core runtime"
+    "axel": "Light command line download accelerator"
 }

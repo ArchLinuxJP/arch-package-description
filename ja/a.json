@@ -33,10 +33,10 @@
     "akregator": "KDE のフィードリーダー",
     "alacarte": "gnome のメニューエディタ",
     "alertmanager": "Prometheus サーバーなどのクライアントアプリケーションから送信されるアラートを処理するサービス",
-    "alsa-firmware": "ALSA ファームウェアパッケージ",
+    "alsa-firmware": "Firmware binaries for laoder programs in alsa-tools and hotplug firmware loader",
     "alsa-lib": "Linux のサウンドサポートのもうひとつの実装",
     "alsa-oss": "OSS 互換ライブラリ",
-    "alsa-plugins": "alsa 追加プラグイン",
+    "alsa-plugins": "Additional ALSA plugins",
     "alsa-topology-conf": "ALSA トポロジー設定ファイル",
     "alsa-ucm-conf": "ALSA Use Case Manager 設定 (とトポロジー)",
     "alsa-utils": "Linux のサウンドサポートのもうひとつの実装",
@@ -255,6 +255,7 @@
     "aspell-sv": "aspell のスウェーデン語辞書",
     "aspell-uk": "aspell のウクライナ語辞書",
     "asplib": "Achim's Signal Processing LIBrary",
+    "aspnet-runtime-2.2": "ASP.NET Core ランタイム",
     "aspnet-runtime": "ASP.NET Core ランタイム",
     "assaultcube": "Cube エンジンベースのリアリスティックなチーム協力型マルチプレイ FPS",
     "astromenace": "宇宙船をアップグレードすることができるハードコアな 3D スペースシューター",
@@ -298,6 +299,5 @@
     "aws-cli": "Amazon Web Services のユニバーサルコマンドラインインターフェイス",
     "aws-sdk-cpp": "C++ の AWS SDK",
     "awstats": "ウェブサーバーやストリーミングサーバー、ftp やメールサーバーの統計情報をグラフィカルに生成するツール",
-    "axel": "軽量なコマンドラインダウンロードアクセラレータ",
-    "aspnet-runtime-2.2": "ASP.NET Core ランタイム"
+    "axel": "軽量なコマンドラインダウンロードアクセラレータ"
 }
