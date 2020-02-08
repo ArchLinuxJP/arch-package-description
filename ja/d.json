@@ -179,6 +179,7 @@
     "dillo": "FLTK で作られた小型・高速なグラフィカルウェブブラウザ",
     "din": "A sound synthesizer and musical instrument.",
     "dina-font": "プログラマ向けの等幅ビットマップフォント",
+    "dino": "Modern XMPP (Jabber) chat client written in Vala",
     "discord": "無料・セキュアなゲーマー用のオールインワン音声・テキストチャット",
     "diskus": "'du -sh' のミニマルで高速な代替",
     "disomaster": "A libisoburn wrapper class for Qt",
@@ -216,13 +217,16 @@
     "dosemu": "DOS エミュレータ",
     "dot2tex": "Graphviz を LaTeX に変換",
     "dotnet-host": ".NET Core コマンドラインインターフェイスの汎用ドライバー",
+    "dotnet-runtime-2.2": ".NET Core ランタイム",
     "dotnet-runtime": ".NET Core ランタイム",
+    "dotnet-sdk-2.2": ".NET Core SDK",
     "dotnet-sdk": ".NET Core SDK",
     "doublecmd-gtk2": "twin-panel (commander-style) file manager (GTK2)",
     "doublecmd-qt5": "ツインパネル (commander 風) のファイルマネージャ (Qt5)",
     "dovecot": "セキュリティを重視して書かれた IMAP と POP3 サーバー",
     "dpf-plugins": "DPF ベースのプラグイン集",
     "dpkg": "Debian パッケージマネージャツール",
+    "dqlite": "Distributed SQLite",
     "dragonfly-reverb": "A concert hall reverb and a room reverb",
     "drawing": "GNOME デスクトップのお絵描きアプリケーション",
     "drbl": "Diskless Remote Boot in Linux: manage the deployment of the GNU/Linux operating system across many clients",
@@ -257,7 +261,5 @@
     "dvtm": "動的仮想端末マネージャ",
     "dwarffortress": "A single-player fantasy game in which you build a dwarven outpost or play an adventurer in a randomly generated world",
     "dwdiff": "行単位ではなく単語単位で操作する diff プログラムのフロントエンド",
-    "dzen2": "General purpose messaging, notification and menuing program for X11",
-    "dotnet-runtime-2.2": ".NET Core ランタイム",
-    "dotnet-sdk-2.2": ".NET Core SDK"
+    "dzen2": "General purpose messaging, notification and menuing program for X11"
 }

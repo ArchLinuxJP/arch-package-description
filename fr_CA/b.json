@@ -94,7 +94,7 @@
     "beaver": "Beaver is an Early AdVanced EditoR.",
     "beets": "Gestionnaire flexible de bibliothèque musicale et de tags",
     "beignet": "Implémentation OpenCL open-source pour les processeurs graphiques intégrés Intel IvyBridge et Haswell",
-    "bemenu": "Bibliothèque de menu dynamique et son client associé inspirée de dmenu avec prise en charge des compositeurs wayland",
+    "bemenu": "Dynamic menu library and client program inspired by dmenu with support for wlroots-based wayland compositors",
     "benzene": "Programme pour générer efficacement tous les fulvènes et benzénoïdes non isomorphes à nombre de faces donné",
     "bettercap": "Couteau suisse pour la surveillance et les attaques réseau",
     "bettercap-caplets": "Scripts pour Bettercap (caplets) et modules de proxy",

@@ -143,7 +143,6 @@
     "cclive": "Commandline downloader for popular video websites.",
     "ccze": "Robust and modular log colorizer with many plugins",
     "cd-discid": "A backend utility to get CDDB discid information from a CD-ROM disc",
-    "cddb_get": "Obtém informações CDDB para um CD de áudio.",
     "cddlib": "C library implementing Doudble Description Method for convex polyhedra",
     "cdemu-client": "Cliente de linha de comando simples para controlar cdemu-daemon",
     "cdemu-daemon": "CD/DVD-ROM device emulator daemon",

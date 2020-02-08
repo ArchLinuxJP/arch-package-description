@@ -179,6 +179,7 @@
     "dillo": "A small, fast graphical web browser built on FLTK",
     "din": "A sound synthesizer and musical instrument.",
     "dina-font": "A monospace bitmap font, primarily aimed at programmers",
+    "dino": "Modern XMPP (Jabber) chat client written in Vala",
     "discord": "All-in-one voice and text chat for gamers that's free and secure.",
     "diskus": "Minimal, fast alternative to 'du -sh'",
     "disomaster": "A libisoburn wrapper class for Qt",
@@ -216,13 +217,16 @@
     "dosemu": "DOS emulator",
     "dot2tex": "Graphviz to LaTeX converter",
     "dotnet-host": "A generic driver for the .NET Core Command Line Interface",
+    "dotnet-runtime-2.2": "The .NET Core runtime",
     "dotnet-runtime": "The .NET Core runtime",
+    "dotnet-sdk-2.2": "The .NET Core SDK",
     "dotnet-sdk": "The .NET Core SDK",
     "doublecmd-gtk2": "twin-panel (commander-style) file manager (GTK2)",
     "doublecmd-qt5": "twin-panel (commander-style) file manager (Qt5)",
     "dovecot": "An IMAP and POP3 server written with security primarily in mind",
     "dpf-plugins": "Collection of DPF-based plugins",
     "dpkg": "The Debian Package Manager tools",
+    "dqlite": "Distributed SQLite",
     "dragonfly-reverb": "A concert hall reverb and a room reverb",
     "drawing": "Drawing application for the GNOME desktop",
     "drbl": "Diskless Remote Boot in Linux: manage the deployment of the GNU/Linux operating system across many clients",
@@ -257,7 +261,5 @@
     "dvtm": "Dynamic virtual terminal manager.",
     "dwarffortress": "A single-player fantasy game in which you build a dwarven outpost or play an adventurer in a randomly generated world",
     "dwdiff": "A front-end for the diff program that operates at the word level instead of the line level",
-    "dzen2": "General purpose messaging, notification and menuing program for X11",
-    "dotnet-runtime-2.2": "The .NET Core runtime",
-    "dotnet-sdk-2.2": "The .NET Core SDK"
+    "dzen2": "General purpose messaging, notification and menuing program for X11"
 }

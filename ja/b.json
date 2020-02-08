@@ -94,7 +94,7 @@
     "beaver": "先駆的なエディタ",
     "beets": "柔軟な音楽ライブラリマネージャ・タグエディタ",
     "beignet": "Intel IvyBridge & Haswell iGPU のオープンソース OpenCL 実装",
-    "bemenu": "dmenu に似ている wayland コンポジタをサポートする動的なメニューライブラリ・クライアントプログラム",
+    "bemenu": "Dynamic menu library and client program inspired by dmenu with support for wlroots-based wayland compositors",
     "benzene": "任意面の非同型フセン・ベンゼノイドを効率的に生成するプログラム",
     "bettercap": "ネットワーク攻撃や監視のための十徳ナイフ",
     "bettercap-caplets": "Bettercap スクリプト (カプレット) とプロキシモジュール",

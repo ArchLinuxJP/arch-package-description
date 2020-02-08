@@ -39,7 +39,7 @@
     "alsa-plugins": "Additional ALSA plugins",
     "alsa-topology-conf": "ALSA トポロジー設定ファイル",
     "alsa-ucm-conf": "ALSA Use Case Manager 設定 (とトポロジー)",
-    "alsa-utils": "Linux のサウンドサポートのもうひとつの実装",
+    "alsa-utils": "Advanced Linux Sound Architecture - Utilities",
     "amdvlk": "AMD のスタンドアロン Vulkan ドライバー",
     "amtk": "GTK+ アプリケーションのアクション・メニュー・ツールバーキット",
     "analitza": "プログラムに数学機能を追加するライブラリ",
