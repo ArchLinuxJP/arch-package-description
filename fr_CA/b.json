@@ -53,12 +53,12 @@
     "bullet": "Bibliothèque de dynamique des solides indéformables et de détection de collisions 3D pour les jeux et l’animation",
     "bullet-docs": "Documentation de bullet",
     "bzflag": "Jeu multijoueur 3D de bataille de blindés",
-    "bzr": "Programme de gestion de versions décentralisé (bazaar)",
     "babe": "A tiny music collection manager",
     "babel-cli": "A compiler for writing next generation JavaScript",
     "babel-core": "A compiler for writing next generation JavaScript",
     "babeld": "A loop-avoiding distance-vector routing protocol",
     "babeltrace": "Command-line trace converter",
+    "babeltrace2": "Command-line trace converter (V2)",
     "backuppc": "Enterprise-grade system for backing up Linux, Windows and MacOS PCs",
     "badtouch": "Scriptable network authentication cracker",
     "badvpn": "Peer-to-peer VPN system, and NCD, a programming language for network interface configuration",
@@ -211,6 +211,5 @@
     "bwm-ng": "A small and simple console-based live bandwidth monitor",
     "byacc": "Réimplémentation par Berkeley du générateur d’analyseur syntaxique Yacc d’Unix",
     "byzanz": "Enregistre ce qui se passe sur votre bureau",
-    "bzr-fastimport": "Bazaar Fast Import is a plugin providing fast loading of revision control data into Bazaar",
     "bzrtp": "Implémentation open-source du protocole d’échange de clefs ZRTP"
 }

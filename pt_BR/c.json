@@ -142,6 +142,7 @@
     "ccfits": "Object Oriented Interface to the CFITSIO Library",
     "ccid": "A generic USB Chip/Smart Card Interface Devices driver",
     "cclive": "Commandline downloader for popular video websites.",
+    "ccls": "C/C++/ObjC language server supporting cross references, hierarchies, completion and semantic highlighting",
     "ccze": "Robust and modular log colorizer with many plugins",
     "cd-discid": "A backend utility to get CDDB discid information from a CD-ROM disc",
     "cddlib": "C library implementing Doudble Description Method for convex polyhedra",
@@ -176,6 +177,8 @@
     "cgal": "Computational Geometry Algorithms Library",
     "cgdb": "Curses-based interface to the GNU Debugger",
     "cgit": "A web interface for git written in plain C",
+    "cgit-archweb": "A web interface for git written in plain C (archweb branch)",
+    "cgit-aurweb": "A web interface for git written in plain C (aurweb branch)",
     "cgmanager": "Another daemon for managing control groups",
     "cgminer": "Multi-threaded multi-pool GPU, FPGA and ASIC miner for bitcoin",
     "cgns": "Standard for recording and recovering computer data associated with the numerical solution of fluid dynamics equations",
@@ -328,7 +331,7 @@
     "cuyo": "Quebra cabeças estilo Tetris para até dois jogadores.",
     "cvc4": "Um provador de teoremas automático",
     "cxxtest": "Unidade de testes framework para C++",
-    "cycfx2prog": "Light command line download accelerator",
+    "cycfx2prog": "CycFX2Prog is a small and useful tool to program the FX2 and do basic enpoint communication for testing purposes",
     "cython": "Extensões C pra Python",
     "cython2": "Extensões C pra Python"
 }

@@ -53,12 +53,12 @@
     "bullet": "ゲームやアニメーションのための 3D 衝突判定・剛体力学ライブラリ",
     "bullet-docs": "bullet のドキュメント",
     "bzflag": "マルチプレイの 3D 戦車バトルゲーム",
-    "bzr": "分散型リビジョン管理システム (bazaar)",
     "babe": "コンパクトなミュージックコレクションマネージャ",
     "babel-cli": "次世代の JavaScript を書くためのコンパイラ",
     "babel-core": "次世代の JavaScript を書くためのコンパイラ",
     "babeld": "ループを回避する距離ベクトル型ルーティングプロトコル",
     "babeltrace": "コマンドライントレースコンバーター",
+    "babeltrace2": "Command-line trace converter (V2)",
     "backuppc": "Linux, Windows, MacOS PC をバックアップするエンタープライズグレードのシステム",
     "badtouch": "スクリプトに組み込めるネットワーク認証クラッカー",
     "badvpn": "ピアツーピアの VPN システムとネットワークインターフェイスの設定のためのプログラミング言語 NCD",
@@ -211,6 +211,5 @@
     "bwm-ng": "小さくシンプルなコンソールベースのライブ帯域幅モニター",
     "byacc": "Unix のパーサージェネレータ Yacc の Berkeley による再実装",
     "byzanz": "デスクトップ上で起こっていることを録画",
-    "bzr-fastimport": "リビジョンコントロールデータを Bazaar に高速にロードするプラグイン",
     "bzrtp": "ZRTP 鍵交換プロトコルのオープンソース実装"
 }

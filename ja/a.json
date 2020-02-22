@@ -188,6 +188,7 @@
     "ansible-lint": "playbook に改善の余地がないかチェック",
     "antiword": "Linux と RISC OS 用のフリーな MS Word リーダー",
     "antlr4-runtime": "Antlr C++ ランタイム",
+    "anything-sync-daemon": "Symlinks and syncs user specified dirs to RAM",
     "apcupsd": "大抵の APC 製 UPS モデルの電源管理と制御",
     "apitrace": "グラフィック API トレーシング",
     "apm": "Atom パッケージマネージャ",

@@ -188,6 +188,7 @@
     "ansible-lint": "Checks playbooks for practices and behaviour that could potentially be improved.",
     "antiword": "Lecteur MS Word libre pour Linux et RISC OS",
     "antlr4-runtime": "Antlr C++ runtime",
+    "anything-sync-daemon": "Symlinks and syncs user specified dirs to RAM",
     "apcupsd": "Power mangement and controlling most of APC's UPS models",
     "apitrace": "Graphics API Tracing",
     "apm": "Gestionnaire de paquets Atom",
