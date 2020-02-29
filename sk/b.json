@@ -167,7 +167,6 @@
     "box2d": "2D rigid body simulation library for games",
     "bpf": "BPF tools",
     "bpython": "Fancy ncurses interface to the Python interpreter",
-    "bpython2": "Fancy ncurses interface to the Python interpreter",
     "brial": "Library for polynomials over boolean rings",
     "brightnessctl": "Lightweight brightness control tool",
     "brise": "Rime schema repository",
