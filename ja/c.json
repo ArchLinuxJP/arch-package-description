@@ -196,6 +196,7 @@
     "chntpw": "オフライン NT パスワードエディタ - Windows NT SAM ユーザーデータベースファイルのパスワードをリセット",
     "choqok": "A micro-blogging client by the KDE community",
     "chromium-bsu": "高速な縦スクロールシューティングゲーム",
+    "chrono-date": "A date and time library based on the C++11/14/17 <chrono> header",
     "chrony": "軽量な NTP クライアントとサーバー",
     "chrootuid": "制限環境でコマンドを実行",
     "chrpath": "ELF ファイルの rpath や runpath を変更・削除",

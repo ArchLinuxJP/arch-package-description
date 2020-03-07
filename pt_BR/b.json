@@ -38,8 +38,6 @@
     "bomber": "A single player arcade game",
     "boost": "Free peer-reviewed portable C++ source libraries - development headers",
     "boost-libs": "Free peer-reviewed portable C++ source libraries - runtime libraries",
-    "boost1.69": "Free peer-reviewed portable C++ source libraries - development headers",
-    "boost1.69-libs": "Free peer-reviewed portable C++ source libraries - runtime libraries",
     "bovo": "A Gomoku like game for two players",
     "brasero": "CD/DVD mastering tool",
     "breeze": "Artwork, styles and assets for the Breeze visual style for the Plasma Desktop",
@@ -209,6 +207,7 @@
     "busybox": "Utilities for rescue and embedded systems",
     "bwm-ng": "A small and simple console-based live bandwidth monitor",
     "byacc": "Berkeley reimplementation of the Unix parser generator Yacc",
+    "byobu": "Enhanced tmux",
     "byzanz": "Record what's happening on your desktop",
     "bzrtp": "Opensource implementation of ZRTP keys exchange protocol"
 }

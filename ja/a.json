@@ -299,5 +299,6 @@
     "aws-cli": "Amazon Web Services のユニバーサルコマンドラインインターフェイス",
     "aws-sdk-cpp": "C++ の AWS SDK",
     "awstats": "ウェブサーバーやストリーミングサーバー、ftp やメールサーバーの統計情報をグラフィカルに生成するツール",
+    "awxkit": "cli client and python library for ansible awx (tower)",
     "axel": "軽量なコマンドラインダウンロードアクセラレータ"
 }

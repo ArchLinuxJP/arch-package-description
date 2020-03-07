@@ -38,8 +38,6 @@
     "bomber": "Jeu d’arcade solo",
     "boost": "Bibliothèques C++ portables, libres et soumises à l’évaluation par les pairs − fichiers d’entête",
     "boost-libs": "Bibliothèques C++ portables, libres et soumises à l’évaluation par les pairs − bibliothèques runtime",
-    "boost1.69": "Bibliothèques C++ portables, libres et soumises à l’évaluation par les pairs − fichiers d’entête",
-    "boost1.69-libs": "Bibliothèques C++ portables, libres et soumises à l’évaluation par les pairs − bibliothèques runtime",
     "bovo": "Jeu à la Gomoku se jouant à deux",
     "brasero": "CD/DVD mastering tool",
     "breeze": "Artwork, styles and assets for the Breeze visual style for the Plasma Desktop",
@@ -209,6 +207,7 @@
     "busybox": "Utilities for rescue and embedded systems",
     "bwm-ng": "A small and simple console-based live bandwidth monitor",
     "byacc": "Réimplémentation par Berkeley du générateur d’analyseur syntaxique Yacc d’Unix",
+    "byobu": "Enhanced tmux",
     "byzanz": "Enregistre ce qui se passe sur votre bureau",
     "bzrtp": "Implémentation open-source du protocole d’échange de clefs ZRTP"
 }
