@@ -217,6 +217,7 @@
     "cksfv": "SFV (Simple File Verification) Checker",
     "clamtk": "Easy to use, light-weight, on-demand virus scanner for Linux systems",
     "clanlib": "A multi-platform game development library.",
+    "clash": "A rule based proxy in Go",
     "clasp": "Answer set solver",
     "classpath": "A free replacement for Sun's proprietary core Java class libraries.",
     "cldr-emoji-annotation": "Emoji annotation files in CLDR",
