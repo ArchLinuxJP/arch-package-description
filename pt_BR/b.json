@@ -167,7 +167,6 @@
     "bpython": "Fancy ncurses interface to the Python interpreter",
     "brial": "Library for polynomials over boolean rings",
     "brightnessctl": "Lightweight brightness control tool",
-    "brise": "Rime schema repository",
     "broadcom-wl": "Broadcom 802.11 Linux STA wireless driver",
     "broadcom-wl-dkms": "Broadcom 802.11 Linux STA wireless driver",
     "brook": "A cross-platform proxy/vpn software",
@@ -208,6 +207,7 @@
     "bwm-ng": "A small and simple console-based live bandwidth monitor",
     "byacc": "Berkeley reimplementation of the Unix parser generator Yacc",
     "byobu": "Enhanced tmux",
+    "byuu": "A multi-system emulator focused on performance, features, and ease of use",
     "byzanz": "Record what's happening on your desktop",
     "bzrtp": "Opensource implementation of ZRTP keys exchange protocol"
 }

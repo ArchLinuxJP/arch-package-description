@@ -179,7 +179,7 @@
     "diffoscope": "ファイルやアーカイブ、ディレクトリを詳しく比較するためのツール",
     "diffpdf": "pdf ファイルの差分を視覚的・文章的に比較",
     "diffstat": "差分変更のヒストグラムを表示",
-    "diffuse": "テキストファイルをマージ・比較するためのグラフィカルなツール",
+    "diffuse": "Graphical tool for merging and comparing text files",
     "dillo": "FLTK で作られた小型・高速なグラフィカルウェブブラウザ",
     "din": "A sound synthesizer and musical instrument.",
     "dina-font": "プログラマ向けの等幅ビットマップフォント",

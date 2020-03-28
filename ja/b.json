@@ -167,7 +167,6 @@
     "bpython": "Python インタプリタの瀟洒な ncurses インターフェイス",
     "brial": "ブール多項式環のライブラリ",
     "brightnessctl": "軽量な輝度制御ツール",
-    "brise": "Rime スキーマリポジトリ",
     "broadcom-wl": "Broadcom 802.11 Linux STA ワイヤレスドライバー",
     "broadcom-wl-dkms": "Broadcom 802.11 Linux STA ワイヤレスドライバー",
     "brook": "クロスプラットフォームのプロキシ/VPN ソフトウェア",
@@ -208,6 +207,7 @@
     "bwm-ng": "小さくシンプルなコンソールベースのライブ帯域幅モニター",
     "byacc": "Unix のパーサージェネレータ Yacc の Berkeley による再実装",
     "byobu": "Enhanced tmux",
+    "byuu": "A multi-system emulator focused on performance, features, and ease of use",
     "byzanz": "デスクトップ上で起こっていることを録画",
     "bzrtp": "ZRTP 鍵交換プロトコルのオープンソース実装"
 }
