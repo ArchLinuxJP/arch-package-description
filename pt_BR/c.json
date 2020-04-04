@@ -233,6 +233,7 @@
     "clojure": "Lisp dialect for the JVM",
     "clonezilla": "partição ncurses e de imagem de disco / programa de clonagem",
     "cloud-init": "The standard for customising cloud instances",
+    "cloud-utils": "Useful set of utilities for interacting with a cloud",
     "clthreads": "C++ wrapper library around the POSIX threads API",
     "clusterssh": "Controlar múltiplas janelas de terminal abertas com conexões para hosts específicos e um console de administração",
     "clxclient": "C++ wrapper library around the X Window System API",
