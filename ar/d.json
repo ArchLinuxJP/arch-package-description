@@ -249,6 +249,7 @@
     "dtkwidget": "Deepin graphical user interface library",
     "dtkwm": "Deepin Tool Kit Wm",
     "dtools": "Ancilliary tools for the D programming language",
+    "dua-cli": "A tool to conveniently learn about the disk usage of directories, fast!",
     "dub": "Developer package manager for D programming language",
     "duktape": "Embeddable Javascript engine",
     "dumb": "IT, XM, S3M and MOD player library",
