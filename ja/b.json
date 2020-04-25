@@ -86,6 +86,7 @@
     "bbswitch": "Optimus ノートパソコンで専用グラフィックカードを切り替えられるようにするカーネルモジュール",
     "bbswitch-dkms": "Optimus ノートパソコンで専用グラフィックを切り替えられるようにするカーネルモジュール",
     "bcg729": "ITU G.729 Annex A/B 音声コーデックのエンコーダーとデコーダー",
+    "bchoppr": "An audio stream chopping LV2 plugin",
     "bchunk": "*.raw *.bin ファイルを ISO ファイルに変換するツール",
     "bctoolbox": "音声・動画ストリームを作成・実行するための C で書かれたライブラリ",
     "bcunit": "C でユニットテストを記述・管理・実行するための軽量システム",

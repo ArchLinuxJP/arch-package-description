@@ -86,6 +86,7 @@
     "bbswitch": "Kernel module allowing to switch dedicated graphics card on Optimus laptops",
     "bbswitch-dkms": "Kernel module allowing to switch dedicated graphics card on Optimus laptops",
     "bcg729": "Encoder and decoder of the ITU G.729 Annex A/B speech codec",
+    "bchoppr": "An audio stream chopping LV2 plugin",
     "bchunk": "A Tool to Convert *.raw *.bin files to an ISO file",
     "bctoolbox": "A library written in C that allows you to create and run audio and video streams",
     "bcunit": "Lightweight system for writing, administering, and running unit tests in C",

@@ -86,6 +86,7 @@
     "bbswitch": "Module de noyau permettant le basculement entre carte graphiques dédiées sur les ordinateurs portables Optimus",
     "bbswitch-dkms": "Module de noyau permettant le basculement entre carte graphiques dédiées sur les ordinateurs portables Optimus",
     "bcg729": "Encodeur et décodeur du codec optimisé pour la parole G.729 Annex A/B de l’UIT",
+    "bchoppr": "An audio stream chopping LV2 plugin",
     "bchunk": "Outil de conversion de fichiers *.raw *.bin en ISO",
     "bctoolbox": "A library written in C that allows you to create and run audio and video streams",
     "bcunit": "Système léger pour l’écriture, l’administration et la mise en œuvre de test unitaires en C",
