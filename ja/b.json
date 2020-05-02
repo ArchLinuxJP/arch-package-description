@@ -77,6 +77,7 @@
     "bash-language-server": "Tree Sitter と Bash の文法ベースの Bash 言語サーバー実装",
     "bashburn": "CD 書き込みシェルスクリプト",
     "bashrun": "bash ベースの x11 アプリケーションランチャー",
+    "bashtop": "Linux resource monitor",
     "bass": "Beneath A Steel Sky は暗黒の未来を舞台にした 2D ポイントアンドクリックフィクションスリラーです",
     "bat": "シンタックスハイライトと git の統合を備えた Cat クローン",
     "batctl": "B.A.T.M.A.N. の高度な制御・管理ツール",

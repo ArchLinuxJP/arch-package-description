@@ -77,6 +77,7 @@
     "bash-language-server": "Bash language server implementation based on Tree Sitter and its grammar for Bash",
     "bashburn": "CD burning shell script",
     "bashrun": "An x11 application launcher based on bash",
+    "bashtop": "Linux resource monitor",
     "bass": "Beneath A Steel Sky is a 2D point-and-click science fiction thriller set in a bleak vision of the future",
     "bat": "Cat clone with syntax highlighting and git integration",
     "batctl": "B.A.T.M.A.N. advanced control and management tool",
