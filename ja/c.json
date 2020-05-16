@@ -66,6 +66,7 @@
     "conntrack-tools": "Netfilter 接続追跡ツールを扱うためのユーザースペースツール",
     "convertlit": ".LIT 形式の電子書籍を展開・変換するツール",
     "convmv": "ファイルシステムのエンコーディングを変換するためのツール",
+    "coordgen": "Schrodinger-developed 2D Coordinate Generation",
     "cowsay": "何でも喋れる牛さん (と仲間たち)",
     "cpio": "cpio や tar アーカイブからファイルをコピーするツール",
     "cppcodec": "base64, base64url, base32, base32hex, hex をエンコード・デコードするヘッダーのみの C++11 ライブラリ",

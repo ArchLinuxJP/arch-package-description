@@ -112,6 +112,7 @@
     "acetoneiso2": "Outil ISO tout-en-un (bin mdf nrg img daa dmg cdi b5i bwi pdi iso)",
     "ack": "Remplacement pour grep basé sur Perl destiné aux programmeurs ayant de grands arbres de code source hétérogène",
     "acme": "Assembleur pour les processeurs 6502, 6510, 65c02 et 65816",
+    "acme-redirect": "Minimal http daemon that answers acme challenges and redirects everything else to https",
     "acme-tiny": "Petit script l’émission ou le renouvellement de certificats TLS de Let’s Encrypt",
     "acme.sh": "An ACME Shell script, an acme client alternative to certbot",
     "acorn": "Analyseur syntaxique JavaScript compact et rapide, écrit intégralement en Javascript",

@@ -66,6 +66,7 @@
     "conntrack-tools": "Outils en userspace pour interagir avec le système de suivi de connexions Netfilter",
     "convertlit": "Extracteur/convertisseur pour les ebooks .LIT",
     "convmv": "Outil de conversion des encodages sur les systèmes de fichiers",
+    "coordgen": "Schrodinger-developed 2D Coordinate Generation",
     "cowsay": "Vache parlante programmable (et quelques autres créatures)",
     "cpio": "Outil de copie de fichiers dans ou depuis une archive cpio ou tar",
     "cppcodec": "Header-only C++11 library to encode/decode base64, base64url, base32, base32hex and hex",

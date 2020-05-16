@@ -112,6 +112,7 @@
     "acetoneiso2": "オールインワンの ISO ツール (bin mdf nrg img daa dmg cdi b5i bwi pdi iso)",
     "ack": "多種多様な巨大なソースコードを扱うプログラマ向けの Perl ベースの grep 代替",
     "acme": "6502, 6510, 65c02, 65816 プロセッサのアセンブラ",
+    "acme-redirect": "Minimal http daemon that answers acme challenges and redirects everything else to https",
     "acme-tiny": "Let's Encrypt から TLS 証明書を発行・更新するための小さなスクリプト",
     "acme.sh": "ACME シェルスクリプト、certbot の acme クライアン代替",
     "acorn": "完全に JavaScript で書かれた小さく高速な JavaScript パーサー",
