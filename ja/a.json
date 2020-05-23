@@ -176,6 +176,7 @@
     "amb-plugins": "LADSPA アンビソニックスプラグインセット",
     "ambdec": "一次および二次用 Ambisonic デコーダー",
     "ambix": "Ambisonic VST, LV2 plug-ins with variable order for use in Digital Audio Workstations",
+    "ammonite": "A cleanroom re-implementation of the Scala REPL from first principles.",
     "ams": "リアルタイムのモジュール式シンセサイザ・エフェクトプロセッサ",
     "ams-lv2": "Alsa Modular Synth で使われている内部モジュールの移植",
     "amsynth": "バーチャルアナログ音源",
