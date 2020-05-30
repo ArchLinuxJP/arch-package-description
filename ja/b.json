@@ -70,6 +70,8 @@
     "banner": "ASCII ターミナルに巨大なバナーを出力",
     "barcode": "テキスト文字列を印刷バーに変換するツール",
     "barrage": "エフェクトが豪華な暴力的ポイントアンドクリックシューティングゲーム",
+    "barrier": "Open-source KVM software based on Synergy (GUI)",
+    "barrier-headless": "Open-source KVM software based on Synergy (client and server CLI binaries)",
     "bash-bats": "Bash Automated Testing System",
     "bash-bats-assert": "Bats の共通アサーション",
     "bash-bats-support": "Bats テストヘルパーの補助ライブラリ",

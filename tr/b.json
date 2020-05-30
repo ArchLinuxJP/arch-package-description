@@ -70,6 +70,8 @@
     "banner": "Print large banners to ASCII terminals",
     "barcode": "A tool to convert text strings to printed bars",
     "barrage": "A violent point-and-click shooting game with nice effects",
+    "barrier": "Open-source KVM software based on Synergy (GUI)",
+    "barrier-headless": "Open-source KVM software based on Synergy (client and server CLI binaries)",
     "bash-bats": "Bash Automated Testing System",
     "bash-bats-assert": "Common assertions for Bats",
     "bash-bats-support": "Supporting library for Bats test helpers",

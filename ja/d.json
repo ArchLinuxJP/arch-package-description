@@ -132,6 +132,7 @@
     "deepin-qt-dbus-factory": "A repository stores auto-generated Qt5 dbus code (libdframeworkdbus)",
     "deepin-qt5dxcb-plugin": "DDE の Qt プラットフォームプラグイン",
     "deepin-qt5integration": "DDE の Qt プラットフォームテーマ統合プラグイン",
+    "deepin-reader": "A simple PDF reader, supporting bookmarks, highlights and annotations",
     "deepin-screen-recorder": "Deepin スクリーンレコーダー",
     "deepin-screensaver": "Deepin スクリーンセーバービューア・ツール",
     "deepin-screensaver-pp": "Optional PP screensaver resource for deepin screensaver",
