@@ -287,6 +287,7 @@
     "autorandr": "Auto-detect connected display hardware and load appropiate X11 setup using xrandr",
     "autossh": "Automatically restart SSH sessions and tunnels",
     "avfs": "Virtual filesystem that allows browsing compressed files",
+    "avisynthplus": "An improved version of the AviSynth frameserver",
     "avldrums.lv2": "A simple Drum Sample Player Plugin, dedicated to the AVLinux Drumkits",
     "avr-binutils": "A set of programs to assemble and manipulate binary and object files for the AVR architecture",
     "avr-gcc": "The GNU AVR Compiler Collection",
