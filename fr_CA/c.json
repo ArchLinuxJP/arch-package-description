@@ -127,7 +127,6 @@
     "cargo-edit": "Managing cargo dependencies from the command line",
     "cargo-fuzz": "Command line helpers for fuzzing rust",
     "cargo-outdated": "A cargo subcommand for displaying when Rust dependencies are out of date",
-    "cargo-tree": "Cargo subcommand that visualizes a crate's dependency graph in a tree-like format",
     "cargo-watch": "Utility for Cargo to compile projects when sources change",
     "carla": "Audio Plugin Host",
     "castget": "Command-line based RSS enclosure downloader primarily intended for downloading of podcasts",

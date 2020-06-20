@@ -127,7 +127,6 @@
     "cargo-edit": "Managing cargo dependencies from the command line",
     "cargo-fuzz": "rust をファジングするためのコマンドラインヘルパー",
     "cargo-outdated": "Rust の依存ライブラリが古くなったときに表示する cargo サブコマンド",
-    "cargo-tree": "crate の依存グラフを tree ライクな形式で表示する Cargo サブコマンド",
     "cargo-watch": "Utility for Cargo to compile projects when sources change",
     "carla": "オーディオプラグインホスト",
     "castget": "ポッドキャストのダウンロードに最適化されたコマンドラインベースの RSS エンクロージャダウンローダ",
