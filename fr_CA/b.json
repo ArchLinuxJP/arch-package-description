@@ -111,6 +111,7 @@
     "bin86": "Assembleur et chargeur complet pour 8086",
     "binaryen": "Bibliothèque C++ d’infrastructure compilateur et d’outillage pour WebAssembly",
     "binwalk": "Outil de recherche de fichiers contenus dans une image binaire donnée",
+    "birdfont": "Font editor which can generate fonts in TTF, EOT and SVG formats",
     "bitcoin-cli": "Bitcoin est une monnaie numérique basée sur un réseau pair à pair − client RPC",
     "bitcoin-daemon": "Bitcoin est une monnaie numérique basée sur un réseau pair à pair − daemon",
     "bitcoin-qt": "Bitcoin est une monnaie numérique basée sur un réseau pair à pair − Qt",

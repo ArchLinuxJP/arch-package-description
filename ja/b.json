@@ -111,6 +111,7 @@
     "bin86": "完全な 8086 アセンブラ・ローダー",
     "binaryen": "C++ による WebAssembly のコンパイラインフラストラクチャとツールチェインライブラリ",
     "binwalk": "バイナリイメージに埋め込まれているファイルを検索するためのツール",
+    "birdfont": "Font editor which can generate fonts in TTF, EOT and SVG formats",
     "bitcoin-cli": "ピアツーピアネットワークによる電子貨幣 - RPC クライアント",
     "bitcoin-daemon": "ピアツーピアネットワークによる電子貨幣 - デーモン",
     "bitcoin-qt": "ピアツーピアネットワークによる電子貨幣 - Qt",
