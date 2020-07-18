@@ -147,7 +147,7 @@
     "ccls": "C/C++/ObjC language server supporting cross references, hierarchies, completion and semantic highlighting",
     "ccze": "多数のプラグインが存在する堅牢でモジュール式のログカラー化ツール",
     "cd-discid": "CD-ROM ディスクから CDDB discid 情報を取得するバックエンドユーティリティ",
-    "cddlib": "凸多面体の二重記述法を実装する C ライブラリ",
+    "cddlib": "C library implementing Double Description Method for convex polyhedra",
     "cdemu-client": "cdemu デーモンを制御するシンプルなコマンドラインクライアント",
     "cdemu-daemon": "CD/DVD-ROM デバイスエミュレータデーモン",
     "cdrtools": "CD, DVD, BluRay の書き込みをサポートするオリジナルの cdrtools",

@@ -221,6 +221,7 @@
     "arduino-ctags": "完全な C++ ctags のための ctags と anjuta-tags の混合",
     "arduino-docs": "Arduino IDE リファレンスドキュメント",
     "argbash": "Bash 引数解析コードジェネレータ",
+    "argocd-cli": "Declarative continuous deployment for Kubernetes command line utility",
     "argtable": "GNU スタイルのコマンドラインオプションをできるかぎり簡単にパースする ANSI C ライブラリ",
     "argyllcms": "様々な測色計ハードウェアに対応している ICC 準拠のカラー管理システム",
     "aria2": "HTTP(S), FTP, BitTorrent, Metalink に対応しているダウンロードユーティリティ",

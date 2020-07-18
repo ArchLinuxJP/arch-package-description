@@ -147,7 +147,7 @@
     "ccls": "C/C++/ObjC language server supporting cross references, hierarchies, completion and semantic highlighting",
     "ccze": "Robust and modular log colorizer with many plugins",
     "cd-discid": "A backend utility to get CDDB discid information from a CD-ROM disc",
-    "cddlib": "C library implementing Doudble Description Method for convex polyhedra",
+    "cddlib": "C library implementing Double Description Method for convex polyhedra",
     "cdemu-client": "Cliente de linha de comando simples para controlar cdemu-daemon",
     "cdemu-daemon": "CD/DVD-ROM device emulator daemon",
     "cdrtools": "Original cdrtools supporting CD, DVD and BluRay burning",

@@ -221,6 +221,7 @@
     "arduino-ctags": "A mix of ctags and anjuta-tags for the perfect C++ ctags",
     "arduino-docs": "Arduino IDE reference documentation",
     "argbash": "Bash argument parsing code generator",
+    "argocd-cli": "Declarative continuous deployment for Kubernetes command line utility",
     "argtable": "An ANSI C library for parsing GNU style command line options with a minimum of fuss",
     "argyllcms": "Système de gestion de couleurs compatible ICC avec prise en charge de différents appareils colorimétriques",
     "aria2": "Utilitaire de téléchargement prenant en charge HTTP(S), FTP, BitTorrent et Metalink",
