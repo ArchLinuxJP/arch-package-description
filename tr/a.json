@@ -1,6 +1,6 @@
 {
     "acl": "erişim kontrol liste araçları,kütüphane ve üstbilgileri",
-    "amd-ucode": " AMD CPU lar için mikrokod güncelleme dosyaları",
+    "amd-ucode": "Microcode update image for AMD CPUs",
     "archlinux-keyring": "Arch Linux PGP keyring",
     "argon2": "A password-hashing function (reference C implementation)",
     "attr": "Extended attribute support library for ACL support",

@@ -1,6 +1,6 @@
 {
     "acl": "アクセス制御リストのユーティリティ・ライブラリ・ヘッダー",
-    "amd-ucode": "AMD CPU のマイクロコード更新ファイル",
+    "amd-ucode": "Microcode update image for AMD CPUs",
     "archlinux-keyring": "Arch Linux PGP キーリング",
     "argon2": "パスワードハッシュ関数 (リファレンス C 実装)",
     "attr": "ACL の拡張属性サポートライブラリ",

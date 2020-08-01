@@ -304,6 +304,7 @@
     "cpanminus": "get, unpack, build and install modules from CPAN",
     "cpp-hocon": "C++ port of the Typesafe Config library",
     "cppcheck": "A tool for static C/C++ code analysis",
+    "cpptoml": "A header-only library for parsing TOML",
     "cpuburn": "CPU testing utilities in optimized assembler for maximum loading of CPUs",
     "cpulimit": "Limit cpu usage of a process in percentage. Actually sends SIGSTOP/SIGCONT POSIX signals to processes",
     "cpupower": "Linux kernel tool to examine and tune power saving related features of your processor",
