@@ -233,6 +233,7 @@
     "dotnet-host": ".NET Core コマンドラインインターフェイスの汎用ドライバー",
     "dotnet-runtime": ".NET Core ランタイム",
     "dotnet-sdk": ".NET Core SDK",
+    "dotnet-targeting-pack": "The .NET Core targeting pack",
     "doublecmd-gtk2": "twin-panel (commander-style) file manager (GTK2)",
     "doublecmd-qt5": "ツインパネル (commander 風) のファイルマネージャ (Qt5)",
     "dovecot": "セキュリティを重視して書かれた IMAP と POP3 サーバー",
