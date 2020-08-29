@@ -19,7 +19,7 @@
     "beep": "高度な PC スピーカーのビープ音発生プログラム",
     "bftpd": "小型で設定が簡単な FTP サーバー",
     "bigloo": "高速な schemeコンパイラ",
-    "bind": "ISC DNS サーバー",
+    "bind": "A complete, highly portable implementation of the DNS protocol",
     "bird": "RIP, OSPF, BGP, MPLS, BFD, Babbel ルーティングデーモン",
     "black-hole-solver": "'Golf' ソリティア、'Black Hole' ソリティア、'All in a Row' ソリティアなど一人遊びのトランプゲームのソルバーと統計",
     "blas": "Basic Linear Algebra Subprograms",

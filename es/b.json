@@ -19,7 +19,7 @@
     "beep": "Advanced PC speaker beeping program",
     "bftpd": "Small, easy-to-configure FTP server",
     "bigloo": "Fast scheme compiler",
-    "bind": "The ISC DNS Server",
+    "bind": "A complete, highly portable implementation of the DNS protocol",
     "bird": "RIP, OSPF, BGP, MPLS, BFD, Babbel routing daemon",
     "black-hole-solver": "Solvers and statistics for 'Golf' solitaire, 'Black Hole' solitaire, 'All in a Row' solitaire and related card patience games.",
     "blas": "Basic Linear Algebra Subprograms",

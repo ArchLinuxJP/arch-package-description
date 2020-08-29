@@ -157,6 +157,7 @@
     "dehydrated": "letsencrypt/acme client implemented as a shell-script – just add water",
     "deja-dup": "Simple backup tool, that hides the complexity of backing up the Right Way and uses duplicity as the backend",
     "delve": "A debugger for the Go programming language.",
+    "deno": "A secure runtime for JavaScript and TypeScript",
     "dep": "Go dependency management tool",
     "desmume": "Nintendo DS emulator",
     "deteriorate-lv2": "A set of plugins to deteriorate the sound quality of a live input",
