@@ -16,7 +16,7 @@
     "accounts-qml-module": "QML アプリケーションのオンラインアカウント API バインディング",
     "accountsservice": "ユーザーアカウントを問い合わせたり操作するための D-Bus インターフェイス",
     "adobe-source-code-pro-fonts": "ユーザーインターフェイスやコーディング環境に向いている等幅フォントファミリー",
-    "adobe-source-sans-pro-fonts": "ユーザーインターフェイス環境に向いているゴシック体フォントファミリー",
+    "adobe-source-sans-pro-fonts": "Sans-serif font family for user interface environments",
     "adobe-source-serif-pro-fonts": "Source Sans Pro を補完するためにデザインされた幅広いテキスト環境に適したセリフ体",
     "adwaita-icon-theme": "GNOME の標準アイコン",
     "aiksaurus": "クロスプラットフォーム、オープンソースの類語辞典",

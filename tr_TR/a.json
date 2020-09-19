@@ -16,7 +16,7 @@
     "accounts-qml-module": "Expose the Online Accounts API to QML applications",
     "accountsservice": "D-Bus interface for user account query and manipulation",
     "adobe-source-code-pro-fonts": "Monospaced font family for user interface and coding environments",
-    "adobe-source-sans-pro-fonts": "Sans serif font family for user interface environments",
+    "adobe-source-sans-pro-fonts": "Sans-serif font family for user interface environments",
     "adobe-source-serif-pro-fonts": "Serif typeface for setting text. Designed to complement Source Sans Pro",
     "adwaita-icon-theme": "GNOME standard icons",
     "aiksaurus": "A cross-platform, open-source thesaurus",
