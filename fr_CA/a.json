@@ -104,6 +104,7 @@
     "aarch64-linux-gnu-gdb": "Débogueur GNU pour la cible ARM64",
     "aarch64-linux-gnu-glibc": "Bibliothèque C GNU pour la cible ARM64",
     "aarch64-linux-gnu-linux-api-headers": "Kernel headers sanitized for use in userspace (aarch64-linux-gnu)",
+    "abc": "System for Sequential Logic Synthesis and Formal Verification",
     "abcde": "Frontend command-line utility that grabs tracks off a CD, encodes them to ogg or mp3 format, and tags them, all in one go",
     "abduco": "Tool for session {at,de}tach support which allows a process to run independently from its controlling terminal",
     "abletonlink": "Synchronizes musical beat, tempo, and phase across multiple applications",
@@ -206,6 +207,7 @@
     "arc-icon-theme": "Arc icon theme. Official releases only.",
     "arc-solid-gtk-theme": "Thème plat pour GTK 3, GTK 2 et Gnome-Shell (sans transparence)",
     "arch-audit": "An utility like pkg-audit based on Arch CVE Monitoring Team data",
+    "arch-hs": "Generating PKGBUILD for hackage packages.",
     "arch-wiki-docs": "Pages du Arch Wiki optimisées pour la navigation hors ligne",
     "arch-wiki-lite": "Le wiki sans html. Poids divisé par neuf, recherche facile et consultable sur la console.",
     "archey3": "Affiche un logo et diverses informations système",
@@ -303,6 +305,7 @@
     "aws-checksums": "Cross-Platform HW accelerated CRC32c and CRC32 with fallback to efficient SW implementations.",
     "aws-cli": "Universal Command Line Interface for Amazon Web Services",
     "aws-sdk-cpp": "AWS SDK for C++",
+    "aws-vault": "Vault for securely storing and accessing AWS credentials in development environments",
     "awstats": "tool that generates web, streaming, ftp and mail server statistics, graphically",
     "awxkit": "cli client and python library for ansible awx (tower)",
     "axel": "Accélérateur de téléchargement léger en ligne de commande"

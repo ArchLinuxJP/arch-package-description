@@ -104,6 +104,7 @@
     "aarch64-linux-gnu-gdb": "ARM64 ターゲットの GNU デバッガ",
     "aarch64-linux-gnu-glibc": "GNU C ライブラリ ARM64 ターゲット",
     "aarch64-linux-gnu-linux-api-headers": "ユーザー空間で使うためにサニタイズされたカーネルヘッダー (aarch64-linux-gnu)",
+    "abc": "System for Sequential Logic Synthesis and Formal Verification",
     "abcde": "一度に CD からトラックを抽出して ogg または mp3 形式にエンコードし、タグを設定するフロントエンドコマンドラインユーティリティ",
     "abduco": "セッションをアタッチ・デタッチして制御ターミナルから独立してプロセスを実行するためのツール",
     "abletonlink": "Synchronizes musical beat, tempo, and phase across multiple applications",
@@ -206,6 +207,7 @@
     "arc-icon-theme": "Arc アイコンテーマ (公式リリースのみ)",
     "arc-solid-gtk-theme": "GTK 3, GTK 2, Gnome-Shell のフラットテーマ (透過を使用しない)",
     "arch-audit": "Arch CVE Monitoring Team のデータに基づく pkg-audit のようなユーティリティ",
+    "arch-hs": "Generating PKGBUILD for hackage packages.",
     "arch-wiki-docs": "オフライン閲覧用に最適化した Arch Wiki ページ集",
     "arch-wiki-lite": "html を省いた wiki。コンソールで検索・閲覧しやすく容量は 1/9。",
     "archey3": "ロゴやシステム情報などを出力",
@@ -303,6 +305,7 @@
     "aws-checksums": "ソフトウェア実装へのフォールバックを含むクロスプラットフォームのハードウェア支援 CRC32c と CRC32",
     "aws-cli": "Amazon Web Services のユニバーサルコマンドラインインターフェイス",
     "aws-sdk-cpp": "C++ の AWS SDK",
+    "aws-vault": "Vault for securely storing and accessing AWS credentials in development environments",
     "awstats": "ウェブサーバーやストリーミングサーバー、ftp やメールサーバーの統計情報をグラフィカルに生成するツール",
     "awxkit": "cli client and python library for ansible awx (tower)",
     "axel": "軽量なコマンドラインダウンロードアクセラレータ"
