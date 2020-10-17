@@ -33,6 +33,7 @@
     "akregator": "A Feed Reader by KDE",
     "alacarte": "Редактор меню для gnome",
     "alertmanager": "Service which handles alerts sent by client applications such as the Prometheus server",
+    "alsa-card-profiles": "ALSA card profiles shared by PulseAudio",
     "alsa-firmware": "Firmware binaries for laoder programs in alsa-tools and hotplug firmware loader",
     "alsa-lib": "Альтернативная реализация поддержки звука в Linux",
     "alsa-oss": "OSS compatibility library",
