@@ -296,7 +296,7 @@
     "corkscrew": "HTTP プロキシで SSH をトンネリングするためのツール",
     "corrade": "C++11/C++14 マルチプラットフォームユーティリティライブラリ",
     "coturn": "Open-source implementation of TURN and STUN server",
-    "couchdb": "JSON を使って MapReduce 方式で問い合わせ・索引化できるドキュメント指向データベース",
+    "couchdb": "Document-oriented database that can be queried and indexed in a MapReduce fashion using JSON",
     "cowfortune": "フォーチュンクッキーを開けてくれる牛さん (と仲間たち)",
     "cowpatty": "ワイヤレス WPA/WPA2 PSK ハンドシェイククラックユーティリティ",
     "coxeter": "A library for the study of combinatorial aspects of Coxeter group theory",

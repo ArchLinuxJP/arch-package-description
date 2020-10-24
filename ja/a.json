@@ -209,7 +209,7 @@
     "arc-icon-theme": "Arc アイコンテーマ (公式リリースのみ)",
     "arc-solid-gtk-theme": "GTK 3, GTK 2, Gnome-Shell のフラットテーマ (透過を使用しない)",
     "arch-audit": "Arch CVE Monitoring Team のデータに基づく pkg-audit のようなユーティリティ",
-    "arch-hs": "Generating PKGBUILD for hackage packages.",
+    "arch-hs": "Distribute hackage packages to archlinux",
     "arch-wiki-docs": "オフライン閲覧用に最適化した Arch Wiki ページ集",
     "arch-wiki-lite": "html を省いた wiki。コンソールで検索・閲覧しやすく容量は 1/9。",
     "archey3": "ロゴやシステム情報などを出力",

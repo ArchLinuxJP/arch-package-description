@@ -209,7 +209,7 @@
     "arc-icon-theme": "Arc icon theme. Official releases only.",
     "arc-solid-gtk-theme": "A flat theme for GTK 3, GTK 2 and Gnome-Shell (without transparency)",
     "arch-audit": "An utility like pkg-audit based on Arch CVE Monitoring Team data",
-    "arch-hs": "Generating PKGBUILD for hackage packages.",
+    "arch-hs": "Distribute hackage packages to archlinux",
     "arch-wiki-docs": "Pages from Arch Wiki optimized for offline browsing",
     "arch-wiki-lite": "The wiki without html. 1/9 as big, easily searched and viewable on console.",
     "archey3": "Output a logo and various system information",
