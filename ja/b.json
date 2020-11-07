@@ -161,6 +161,7 @@
     "bmake": "NetBSD make ビルドツールのポータブル版",
     "bmon": "ポータブルな帯域幅モニター・レート推定器",
     "bmusb": "BlackMagic の Intensity Shuttle と UltraStudio SDI USB3 カードのフリーなドライバー",
+    "bnfc": "A compiler front-end generator.",
     "bochs": "GUI デバッガが付属するポータブルな x86 PC エミュレーションソフトウェアパッケージ",
     "boinc": "Berkeley Open Infrastructure for Network Computing (デスクトップ向け)",
     "boinc-nox": "Berkeley Open Infrastructure for Network Computing (Xorg に依存しないデスクトップ向け)",

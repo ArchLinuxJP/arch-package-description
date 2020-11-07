@@ -161,6 +161,7 @@
     "bmake": "Portable version of the NetBSD make build tool",
     "bmon": "Portable bandwidth monitor and rate estimator",
     "bmusb": "a free driver for BlackMagic's Intensity Shuttle andUltraStudio SDI USB3 cards",
+    "bnfc": "A compiler front-end generator.",
     "bochs": "A portable x86 PC emulation software package, including GUI debugger",
     "boinc": "Berkeley Open Infrastructure for Network Computing for desktop",
     "boinc-nox": "Berkeley Open Infrastructure for Network Computing for desktop without Xorg dependencies",
