@@ -124,6 +124,7 @@
     "cargo-edit": "Managing cargo dependencies from the command line",
     "cargo-fuzz": "Command line helpers for fuzzing rust",
     "cargo-outdated": "A cargo subcommand for displaying when Rust dependencies are out of date",
+    "cargo-release": "Cargo subcommand \"release\": everything about releasing a rust crate",
     "cargo-tarpaulin": "Tool to analyse test coverage of cargo projects",
     "cargo-watch": "Utility for Cargo to compile projects when sources change",
     "carla": "Audio Plugin Host",

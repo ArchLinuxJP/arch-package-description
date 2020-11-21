@@ -69,6 +69,7 @@
     "archlinux-menus": "Arch Linux の XDG 準拠メニュー",
     "archlinux-themes-slim": "SLiM ログインマネージャの Arch Linux テーマ",
     "aribb24": "JIS 8ビット文字のデコードと MPEG-TS ストリームのパースを行う ARIB STD-B24 のライブラリ",
+    "aribb25": "Library for ARIB STD-B25, decoding JIS 8 bit characters and parsing MPEG-TS stream",
     "ark": "圧縮ツール",
     "arptables": "ARP フィルタリングユーティリティ",
     "artikulate": "ネイティブスピーカーの音声を聞いて発音を改善",

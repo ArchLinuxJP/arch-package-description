@@ -69,6 +69,7 @@
     "archlinux-menus": "Arch Linux specific XDG-compliant menu",
     "archlinux-themes-slim": "Arch Linux branded themes for the SLiM login manager",
     "aribb24": "Library for ARIB STD-B24, decoding JIS 8 bit characters and parsing MPEG-TS stream",
+    "aribb25": "Library for ARIB STD-B25, decoding JIS 8 bit characters and parsing MPEG-TS stream",
     "ark": "Ferramenta de arquivamento",
     "arptables": "ARP filtering utility",
     "artikulate": "Improve your pronunciation by listening to native speakers",
