@@ -8,7 +8,7 @@
     "cronie": "特定の時刻に指定したプログラムを実行するデーモンと関連ツール",
     "cryptsetup": "dm-crypt を使ってブロックデバイスを透過的に暗号化するためのユーザースペース設定ツール",
     "curl": "URL 検索ユーティリティ・ライブラリ",
-    "c-ares": "DNS 要求と名前解決を非同期に実行する C ライブラリ",
+    "c-ares": "A C library for asynchronous DNS requests",
     "c-client": "Imap クライアントライブラリ",
     "cairo": "複数の出力デバイスをサポートする 2D グラフィックライブラリ",
     "cairo-perl": "cairo の Perl ラッパー",

@@ -8,7 +8,7 @@
     "cronie": "Daemon que executa programas especificados em horários programados e ferramentas relacionadas ",
     "cryptsetup": "ferramenta de configuração do espaço de usuário para criptografia transparente dos dispositivos de bloco usando dm-crypt",
     "curl": "Um utilitário de recuperação de URL e uma biblioteca",
-    "c-ares": "biblioteca C que executa as solicitações de DNS e o nome resolve de forma assíncrona",
+    "c-ares": "A C library for asynchronous DNS requests",
     "c-client": "biblioteca cliente IMAP",
     "cairo": "2D graphics library with support for multiple output devices",
     "cairo-perl": "Pacotes Perl para cairo",
