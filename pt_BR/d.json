@@ -227,6 +227,7 @@
     "docopt": "Command line arguments parser for C++11 and later",
     "doctl": "The official command line interface for the DigitalOcean API",
     "docx2txt": "Recovers text from DOCX files, with good formatting.",
+    "dog": "Command-line DNS client like dig",
     "doge": "doge meme motd script",
     "dokuwiki": "Simple to use and highly versatile Open Source wiki software",
     "dolphin-emu": "A Gamecube / Wii / Triforce emulator",
