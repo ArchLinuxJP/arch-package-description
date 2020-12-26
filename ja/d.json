@@ -145,6 +145,7 @@
     "deepin-session-ui": "Deepin デスクトップ環境 - セッション UI モジュール",
     "deepin-shortcut-viewer": "Deepin ショートカットビューア",
     "deepin-sound-theme": "Deepin サウンドテーマ",
+    "deepin-store": "Third party app store for DDE built with DTK",
     "deepin-system-monitor": "ユーザーフレンドリーなシステムモニター",
     "deepin-terminal": "Deepin のデフォルトのターミナルエミュレータ",
     "deepin-terminal-old": "Default terminal emulation application for Deepin, the old version",

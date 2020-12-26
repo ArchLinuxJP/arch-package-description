@@ -145,6 +145,7 @@
     "deepin-session-ui": "Deepin desktop-environment - Session UI module",
     "deepin-shortcut-viewer": "Deepin Shortcut Viewer",
     "deepin-sound-theme": "Deepin sound theme",
+    "deepin-store": "Third party app store for DDE built with DTK",
     "deepin-system-monitor": "A more user-friendly system monitor",
     "deepin-terminal": "Default terminal emulation application for Deepin",
     "deepin-terminal-old": "Default terminal emulation application for Deepin, the old version",

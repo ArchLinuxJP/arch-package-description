@@ -179,6 +179,7 @@
     "bpf": "BPF tools",
     "bpftrace": "High-level tracing language for Linux eBPF",
     "bpython": "Fancy ncurses interface to the Python interpreter",
+    "bpytop": "Resource monitor that shows usage and stats for processor, memory, disks, network and processes",
     "brial": "Library for polynomials over boolean rings",
     "brightnessctl": "Lightweight brightness control tool",
     "broadcom-wl": "Broadcom 802.11 Linux STA wireless driver",
