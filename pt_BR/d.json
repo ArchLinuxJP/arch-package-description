@@ -218,7 +218,7 @@
     "dmtcp": "Distributed MultiThreaded CheckPointing",
     "dns-lexicon": "Manipulate DNS records on various DNS providers in a standardized/agnostic way",
     "dns-over-https": "Client and server software to query DNS over HTTPS, using Google DNS-over-HTTPS protocol",
-    "dnscrypt-proxy": "DNS proxy, supporting encrypted DNS protocols such as DNSCrypt v2 and DNS-over-HTTPS",
+    "dnscrypt-proxy": "A flexible DNS proxy, with support for encrypted DNS protocols",
     "dnscrypt-wrapper": "A server-side dnscrypt proxy",
     "dnssec-tools": "libval & dnssec management tools",
     "dnstracer": "Determines where a given DNS server gets its information from, and follows the chain of DNS servers",
