@@ -62,6 +62,7 @@
     "apr-util": "The Apache Portable Runtime",
     "apricots": "A simple 2D flying/bombing game similar to basic side scrollers",
     "arch-install-scripts": "Scripts d’assistance à l’installation d’Arch Linux",
+    "arch-rebuild-order": "CLI tool to determine the rebuild order of provided package(s)",
     "arch-signoff": "Sign off Arch Linux testing packages",
     "archboot": "Advanced, modular arch boot/install image creation utility",
     "archiso": "Outils pour la création d’images iso d’installation ou live Arch Linux",

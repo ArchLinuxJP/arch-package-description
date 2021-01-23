@@ -62,6 +62,7 @@
     "apr-util": "Apache ポータブルランタイム",
     "apricots": "オーソドックスな横スクロールゲームに似ているシンプルな 2D 飛行・爆撃ゲーム",
     "arch-install-scripts": "Arch Linux のインストールを補助するスクリプト",
+    "arch-rebuild-order": "CLI tool to determine the rebuild order of provided package(s)",
     "arch-signoff": "Arch Linux testing パッケージのサインオフ",
     "archboot": "先進的でモジュール方式の arch ブート・インストールイメージ作成ユーティリティ",
     "archiso": "Arch Linux のライブ・インストール ISO イメージを作成するためのツール",
