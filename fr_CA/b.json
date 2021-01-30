@@ -161,6 +161,7 @@
     "bluez-tools": "Suite d’outils pour la gestion des périphériques Bluetooth pour Linux",
     "blur-effect": "Off-screen image blurring utility using OpenGL ES 3.0",
     "bmake": "Version portable de l’outil de construction make de NetBSD",
+    "bmkdep": "NetBSD mkdep: construct Makefile dependency list",
     "bmon": "Portable bandwidth monitor and rate estimator",
     "bmusb": "a free driver for BlackMagic's Intensity Shuttle andUltraStudio SDI USB3 cards",
     "bnfc": "A compiler front-end generator.",

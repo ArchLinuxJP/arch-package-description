@@ -59,6 +59,7 @@
     "dracut": "イベント駆動の initramfs インフラストラクチャ",
     "dragon": "A multimedia player where the focus is on simplicity, instead of features",
     "drkonqi": "KDE クラッシュハンドラ",
+    "dump_syms": "Symbol dumper for Firefox",
     "dvd+rw-tools": "dvd 書き込みツール",
     "d-containers": "std.experimental.allocator による D のコンテナ",
     "d-feet": "GNOME の D-Bus デバッガ",
