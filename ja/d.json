@@ -68,6 +68,7 @@
     "danmaq": "画面上で弾幕を再生する小さなクライアントサイド Qt プログラム",
     "dante": "SOCKS v4 と v5 準拠プロキシサーバー・クライアント",
     "darcs": "分散型・対話式のスマートなリビジョン管理システム",
+    "dark-reader": "Inverts brightness of web pages and aims to reduce eyestrain while browsing the web (unpacked webextension)",
     "darkhttpd": "小型でセキュアな静的ウェブサーバー",
     "darkstat": "Network statistics gatherer (packet sniffer)",
     "darktable": "Utility to organize and develop raw images",

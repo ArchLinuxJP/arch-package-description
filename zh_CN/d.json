@@ -68,6 +68,7 @@
     "danmaq": "A small client side Qt program to play danmaku on any screen",
     "dante": "SOCKS v4 and v5 compatible proxy server and client",
     "darcs": "A distributed, interactive, smart revision control system",
+    "dark-reader": "Inverts brightness of web pages and aims to reduce eyestrain while browsing the web (unpacked webextension)",
     "darkhttpd": "A small and secure static webserver",
     "darkstat": "Network statistics gatherer (packet sniffer)",
     "darktable": "Utility to organize and develop raw images",
