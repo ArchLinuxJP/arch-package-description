@@ -161,7 +161,6 @@
     "airspy": "Host code for Airspy SDR.",
     "aj-snapshot": "Command line utility to store/restore ALSA and/or JACK connections to/from an XML file",
     "alacritty": "A cross-platform, GPU-accelerated terminal emulator",
-    "albert": "A sophisticated standalone keyboard launcher.",
     "alembic": "A open framework for storing and sharing scene data",
     "alex": "Lexical analyser generator for Haskell",
     "alglib": "A cross-platform numerical analysis and data processing library - Free Version",
