@@ -12,6 +12,7 @@
     "dnssec-anchors": "DNSSEC trust anchors for the root zone",
     "dosfstools": "DOS filesystem utilities",
     "dav1d": "AV1 cross-platform decoder focused on speed and correctness",
+    "dav1d-doc": "AV1 cross-platform decoder focused on speed and correctness (documentation)",
     "davfs2": "File system driver that allows you to mount a WebDAV folder",
     "dbus-broker": "Linux D-Bus Message Broker",
     "dbus-glib": "GLib bindings for DBUS",
