@@ -125,6 +125,7 @@
     "bitwarden_rs": "Unofficial Bitwarden compatible server written in Rust",
     "bitwarden_rs-web": "Bitwarden web vault with the patches to make it work with bitwarden_rs",
     "blackbox": "X11 用のウィンドウマネージャ",
+    "blackmagic": "In application debugger for ARM Cortex microcontrollers",
     "bladerf": "bladeRF SDR のドライバー、ユーザー空間、fpga、ファームウェア",
     "bleachbit": "不必要なファイルを削除してディスク容量を増やしてプライバシーを保護",
     "blender": "完全な統合 3D グラフィック作成スイート",

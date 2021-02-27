@@ -360,5 +360,6 @@
     "cycfx2prog": "CycFX2Prog is a small and useful tool to program the FX2 and do basic enpoint communication for testing purposes",
     "cython": "C-Extensions for Python",
     "cython2": "C-Extensions for Python",
+    "caddy": "Fast web server with automatic HTTPS",
     "choria-io": "Go based server to host Choria agents, networks, federations and discovery"
 }
