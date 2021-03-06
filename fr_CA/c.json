@@ -88,6 +88,7 @@
     "cabextract": "A program to extract Microsoft cabinet (.CAB) files",
     "cacti": "Network graphing solution using RRDTool",
     "cadaver": "Command-line WebDAV client for Unix",
+    "caddy": "Fast web server with automatic HTTPS",
     "cadence": "JACK toolbox for audio production.",
     "cage": "A kiosk compositor for Wayland",
     "cairo-dock": "Light eye-candy fully themable animated dock",
@@ -179,7 +180,7 @@
     "certbot-dns-sakuracloud": "Sakura Cloud DNS Authenticator plugin for Certbot",
     "certbot-nginx": "Nginx plugin for Let’s Encrypt client",
     "cgal": "Computational Geometry Algorithms Library",
-    "cgasm": "x86 Assembly documentation in the form of a CLI tool",
+    "cgasm": "CLI tool for browsing documentation for x86 Assembly",
     "cgdb": "Curses-based interface to the GNU Debugger",
     "cgit": "A web interface for git written in plain C",
     "cgit-archweb": "A web interface for git written in plain C (archweb branch)",
@@ -360,6 +361,5 @@
     "cycfx2prog": "CycFX2Prog is a small and useful tool to program the FX2 and do basic enpoint communication for testing purposes",
     "cython": "C-Extensions for Python",
     "cython2": "C-Extensions for Python",
-    "caddy": "Fast web server with automatic HTTPS",
     "choria-io": "Go based server to host Choria agents, networks, federations and discovery"
 }

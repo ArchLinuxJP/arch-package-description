@@ -55,6 +55,7 @@
     "bullet": "Bibliothèque de dynamique des solides indéformables et de détection de collisions 3D pour les jeux et l’animation",
     "bullet-docs": "Documentation de bullet",
     "bzflag": "Jeu multijoueur 3D de bataille de blindés",
+    "b4": "Helper utility to work with patches made available via a public-inbox archive like lore.kernel.org.",
     "babel-cli": "A compiler for writing next generation JavaScript",
     "babel-core": "A compiler for writing next generation JavaScript",
     "babeld": "A loop-avoiding distance-vector routing protocol",

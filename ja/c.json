@@ -88,6 +88,7 @@
     "cabextract": "Microsoft cabinet (.CAB) ファイルを解凍するプログラム",
     "cacti": "RRDTool を使用するネットワークグラフ化ソリューション",
     "cadaver": "Unix 用のコマンドライン WebDAV クライアント",
+    "caddy": "Fast web server with automatic HTTPS",
     "cadence": "音声制作のための JACK ツールボックス",
     "cage": "Wayland のキオスクコンポジタ",
     "cairo-dock": "軽量でテーマを適用できる視覚効果アニメーションドック",
@@ -179,7 +180,7 @@
     "certbot-dns-sakuracloud": "Certbot のさくらのクラウド DNS Authenticator プラグイン",
     "certbot-nginx": "Let’s Encrypt クライアントの Nginx プラグイン",
     "cgal": "Computational Geometry Algorithms Library",
-    "cgasm": "x86 Assembly documentation in the form of a CLI tool",
+    "cgasm": "CLI tool for browsing documentation for x86 Assembly",
     "cgdb": "GNU デバッガの Curses ベースのインターフェイス",
     "cgit": "C だけで書かれた git のウェブインターフェイス",
     "cgit-archweb": "A web interface for git written in plain C (archweb branch)",
@@ -360,6 +361,5 @@
     "cycfx2prog": "CycFX2Prog is a small and useful tool to program the FX2 and do basic enpoint communication for testing purposes",
     "cython": "Python の C 拡張",
     "cython2": "Python の C 拡張",
-    "caddy": "Fast web server with automatic HTTPS",
     "choria-io": "Go based server to host Choria agents, networks, federations and discovery"
 }
