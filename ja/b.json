@@ -228,5 +228,6 @@
     "byobu": "Enhanced tmux",
     "byuu": "A multi-system emulator focused on performance, features, and ease of use",
     "byzanz": "デスクトップ上で起こっていることを録画",
-    "bzrtp": "ZRTP 鍵交換プロトコルのオープンソース実装"
+    "bzrtp": "ZRTP 鍵交換プロトコルのオープンソース実装",
+    "buildbot-common": "Contributed scripts for Buildbot"
 }

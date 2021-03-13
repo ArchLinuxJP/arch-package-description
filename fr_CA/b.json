@@ -228,5 +228,6 @@
     "byobu": "Enhanced tmux",
     "byuu": "A multi-system emulator focused on performance, features, and ease of use",
     "byzanz": "Enregistre ce qui se passe sur votre bureau",
-    "bzrtp": "Implémentation open-source du protocole d’échange de clefs ZRTP"
+    "bzrtp": "Implémentation open-source du protocole d’échange de clefs ZRTP",
+    "buildbot-common": "Contributed scripts for Buildbot"
 }
