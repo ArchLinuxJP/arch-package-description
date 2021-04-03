@@ -20,7 +20,7 @@
     "bftpd": "小型で設定が簡単な FTP サーバー",
     "bigloo": "高速な schemeコンパイラ",
     "bind": "A complete, highly portable implementation of the DNS protocol",
-    "bird": "RIP, OSPF, BGP, MPLS, BFD, Babbel ルーティングデーモン",
+    "bird": "RIP, OSPF, BGP, MPLS, BFD, Babel routing daemon",
     "black-hole-solver": "'Golf' ソリティア、'Black Hole' ソリティア、'All in a Row' ソリティアなど一人遊びのトランプゲームのソルバーと統計",
     "blas": "Basic Linear Algebra Subprograms",
     "blinken": "記憶力鍛錬ゲーム",
@@ -54,7 +54,6 @@
     "bubblewrap-suid": "非特権サンドボックスツール (setuid 派生)",
     "bullet": "ゲームやアニメーションのための 3D 衝突判定・剛体力学ライブラリ",
     "bullet-docs": "bullet のドキュメント",
-    "bzflag": "マルチプレイの 3D 戦車バトルゲーム",
     "b4": "Helper utility to work with patches made available via a public-inbox archive like lore.kernel.org.",
     "babel-cli": "次世代の JavaScript を書くためのコンパイラ",
     "babel-core": "次世代の JavaScript を書くためのコンパイラ",
@@ -217,6 +216,7 @@
     "buho": "Task and note keeper",
     "buildah": "OCI イメージの作成を補助するツール",
     "buildbot": "継続的インテグレーションフレームワーク",
+    "buildbot-common": "Contributed scripts for Buildbot",
     "buildbot-docs": "Buildbot docs",
     "buildbot-worker": "Buildbot ワーカーデーモン",
     "bully": "WPS が有効なアクセスポイントから WPA/WPA2 パスフレーズを取得",
@@ -228,6 +228,6 @@
     "byobu": "Enhanced tmux",
     "byuu": "A multi-system emulator focused on performance, features, and ease of use",
     "byzanz": "デスクトップ上で起こっていることを録画",
-    "bzrtp": "ZRTP 鍵交換プロトコルのオープンソース実装",
-    "buildbot-common": "Contributed scripts for Buildbot"
+    "bzflag": "マルチプレイの 3D 戦車バトルゲーム",
+    "bzrtp": "ZRTP 鍵交換プロトコルのオープンソース実装"
 }

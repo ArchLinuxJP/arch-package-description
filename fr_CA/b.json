@@ -20,7 +20,7 @@
     "bftpd": "Small, easy-to-configure FTP server",
     "bigloo": "Fast scheme compiler",
     "bind": "A complete, highly portable implementation of the DNS protocol",
-    "bird": "RIP, OSPF, BGP, MPLS, BFD, Babbel routing daemon",
+    "bird": "RIP, OSPF, BGP, MPLS, BFD, Babel routing daemon",
     "black-hole-solver": "Solvers and statistics for 'Golf' solitaire, 'Black Hole' solitaire, 'All in a Row' solitaire and related card patience games.",
     "blas": "Basic Linear Algebra Subprograms",
     "blinken": "Jeu de travail de la mémoire",
@@ -54,7 +54,6 @@
     "bubblewrap-suid": "Unprivileged sandboxing tool (setuid variant)",
     "bullet": "Bibliothèque de dynamique des solides indéformables et de détection de collisions 3D pour les jeux et l’animation",
     "bullet-docs": "Documentation de bullet",
-    "bzflag": "Jeu multijoueur 3D de bataille de blindés",
     "b4": "Helper utility to work with patches made available via a public-inbox archive like lore.kernel.org.",
     "babel-cli": "A compiler for writing next generation JavaScript",
     "babel-core": "A compiler for writing next generation JavaScript",
@@ -217,6 +216,7 @@
     "buho": "Task and note keeper",
     "buildah": "A tool which facilitates building OCI images",
     "buildbot": "The Continuous Integration Framework",
+    "buildbot-common": "Contributed scripts for Buildbot",
     "buildbot-docs": "Buildbot docs",
     "buildbot-worker": "Buildbot worker daemon",
     "bully": "Retrieve WPA/WPA2 passphrase from a WPS enabled access point",
@@ -228,6 +228,6 @@
     "byobu": "Enhanced tmux",
     "byuu": "A multi-system emulator focused on performance, features, and ease of use",
     "byzanz": "Enregistre ce qui se passe sur votre bureau",
-    "bzrtp": "Implémentation open-source du protocole d’échange de clefs ZRTP",
-    "buildbot-common": "Contributed scripts for Buildbot"
+    "bzflag": "Jeu multijoueur 3D de bataille de blindés",
+    "bzrtp": "Implémentation open-source du protocole d’échange de clefs ZRTP"
 }
