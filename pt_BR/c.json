@@ -85,6 +85,7 @@
     "c-xsc": "A C++ class library",
     "c2hs": "Ferramenta C->Haskell FFI que provê algum tipo de segurança em cross-language",
     "cabal-install": "A interface de linha de comando para Cabal e Hackage",
+    "cabal-plan": "Library and utility for processing cabal's plan.json file",
     "cabextract": "Um programa para extrair arquivos do tipo Microsoft cabinet (.CAB)",
     "cacti": "Network graphing solution using RRDTool",
     "cadaver": "Cliente WebDAV em linha de comando para UNIX",
