@@ -156,7 +156,6 @@
     "deepin-system-monitor": "A more user-friendly system monitor",
     "deepin-terminal": "Default terminal emulation application for Deepin",
     "deepin-terminal-gtk": "Default terminal emulation application for Deepin, the old gtk version",
-    "deepin-terminal-old": "Default terminal emulation application for Deepin, the old version",
     "deepin-topbar": "This is topbar for Deepin",
     "deepin-turbo": "A daemon that helps to launch applications faster",
     "deepin-voice-note": "A lightweight memo tool to make text notes and voice recordings",
@@ -295,5 +294,6 @@
     "dvtm": "Dynamic virtual terminal manager.",
     "dwarffortress": "A single-player fantasy game in which you build a dwarven outpost or play an adventurer in a randomly generated world",
     "dwdiff": "A front-end for the diff program that operates at the word level instead of the line level",
-    "dzen2": "General purpose messaging, notification and menuing program for X11"
+    "dzen2": "General purpose messaging, notification and menuing program for X11",
+    "dtkcommon": "DTK common files"
 }
