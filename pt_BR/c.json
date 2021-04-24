@@ -260,7 +260,7 @@
     "cobalt": "Static site generator written in Rust",
     "cockatrice": "A cross-platform virtual tabletop for multiplayer card games",
     "cockpit": "A systemd web based user interface for Linux servers",
-    "cockpit-machines": "Cockpit components for managing virtual machines.",
+    "cockpit-machines": "Cockpit UI for virtual machines",
     "cockpit-pcp": "Cockpit support for reading PCP metrics and loading PCP archives",
     "cockpit-podman": "Cockpit UI for podman containers",
     "code": "The Open Source build of Visual Studio Code (vscode) editor",
