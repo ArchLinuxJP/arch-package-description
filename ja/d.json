@@ -140,6 +140,7 @@
     "deepin-polkit-agent": "Deepin Polkit エージェント",
     "deepin-polkit-agent-ext-gnomekeyring": "dde-polkit-agent の GNOME keyring 拡張",
     "deepin-printer": "Printer configuration project for DDE",
+    "deepin-pw-check": "Tool to verify the validity of the password",
     "deepin-qt-dbus-factory": "A repository stores auto-generated Qt5 dbus code (libdframeworkdbus)",
     "deepin-qt5integration": "DDE の Qt プラットフォームテーマ統合プラグイン",
     "deepin-qt5platform-plugins": "DDE の Qt プラットフォームプラグイン",
