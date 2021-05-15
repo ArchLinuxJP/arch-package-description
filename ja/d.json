@@ -194,7 +194,6 @@
     "dia": "GTK+ ベースのダイアグラム作成プログラム",
     "dictd": "オンライン辞書クライアント・サーバー",
     "diesel-cli": "CLI for the Diesel crate",
-    "diet-ng": "Generic compile-time template system based on an XML-like structure for D",
     "dietlibc": "サイズが小さくなるように最適化された libc",
     "diff-so-fancy": "Good-looking diffs with diff-highlight and more",
     "diffoscope": "ファイルやアーカイブ、ディレクトリを詳しく比較するためのツール",
@@ -276,6 +275,7 @@
     "dssi": "An API for audio processing plugins & softsynths with UIs",
     "dstat": "多用途リソース統計ツール",
     "dtc": "デバイスツリーコンパイラ",
+    "dtkcommon": "DTK common files",
     "dtkcore": "DTK コアモジュール",
     "dtkgui": "Deepin Toolkit, gui module for DDE look and feel",
     "dtkwidget": "Deepin グラフィカルユーザーインターフェイスライブラリ",
@@ -296,6 +296,5 @@
     "dvtm": "動的仮想端末マネージャ",
     "dwarffortress": "A single-player fantasy game in which you build a dwarven outpost or play an adventurer in a randomly generated world",
     "dwdiff": "行単位ではなく単語単位で操作する diff プログラムのフロントエンド",
-    "dzen2": "General purpose messaging, notification and menuing program for X11",
-    "dtkcommon": "DTK common files"
+    "dzen2": "General purpose messaging, notification and menuing program for X11"
 }

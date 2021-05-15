@@ -194,7 +194,6 @@
     "dia": "A GTK+ based diagram creation program",
     "dictd": "Online dictionary client and server",
     "diesel-cli": "CLI for the Diesel crate",
-    "diet-ng": "Generic compile-time template system based on an XML-like structure for D",
     "dietlibc": "a libc optimized for small size",
     "diff-so-fancy": "Good-looking diffs with diff-highlight and more",
     "diffoscope": "Tool for in-depth comparison of files, archives, and directories",
@@ -276,6 +275,7 @@
     "dssi": "An API for audio processing plugins & softsynths with UIs",
     "dstat": "A versatile resource statistics tool",
     "dtc": "Device Tree Compiler",
+    "dtkcommon": "DTK common files",
     "dtkcore": "DTK core modules",
     "dtkgui": "Deepin Toolkit, gui module for DDE look and feel",
     "dtkwidget": "Deepin graphical user interface library",
@@ -296,6 +296,5 @@
     "dvtm": "Dynamic virtual terminal manager.",
     "dwarffortress": "A single-player fantasy game in which you build a dwarven outpost or play an adventurer in a randomly generated world",
     "dwdiff": "A front-end for the diff program that operates at the word level instead of the line level",
-    "dzen2": "General purpose messaging, notification and menuing program for X11",
-    "dtkcommon": "DTK common files"
+    "dzen2": "General purpose messaging, notification and menuing program for X11"
 }
