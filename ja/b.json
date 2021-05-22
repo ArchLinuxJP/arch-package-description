@@ -111,7 +111,6 @@
     "benzene": "任意面の非同型フセン・ベンゼノイドを効率的に生成するプログラム",
     "bettercap": "ネットワーク攻撃や監視のための十徳ナイフ",
     "bettercap-caplets": "Bettercap スクリプト (カプレット) とプロキシモジュール",
-    "bfgminer": "オーバークロック・モニタリング・ファン速度制御・リモート管理が出来る FPGA/GPU/CPU による Bitcoin マイニングのための Bitcoin マイナー",
     "biber": "Unicode に対応している biblatex ユーザーのための BibTeX 代替",
     "bibletime": "聖書学習ツール",
     "bin86": "完全な 8086 アセンブラ・ローダー",
@@ -122,7 +121,6 @@
     "bitcoin-daemon": "ピアツーピアネットワークによる電子貨幣 - デーモン",
     "bitcoin-qt": "ピアツーピアネットワークによる電子貨幣 - Qt",
     "bitcoin-tx": "ピアツーピアネットワークによる電子貨幣 - トランザクションツール",
-    "bitlbee": "IRC にインスタントメッセージング (XMPP, MSN, Yahoo!, AIM, ICQ, Twitter) を統合",
     "blackbox": "X11 用のウィンドウマネージャ",
     "blackmagic": "In application debugger for ARM Cortex microcontrollers",
     "bladerf": "bladeRF SDR のドライバー、ユーザー空間、fpga、ファームウェア",
@@ -229,6 +227,5 @@
     "byobu": "Enhanced tmux",
     "byuu": "A multi-system emulator focused on performance, features, and ease of use",
     "byzanz": "デスクトップ上で起こっていることを録画",
-    "bzflag": "マルチプレイの 3D 戦車バトルゲーム",
     "bzrtp": "ZRTP 鍵交換プロトコルのオープンソース実装"
 }

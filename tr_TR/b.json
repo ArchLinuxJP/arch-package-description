@@ -111,7 +111,6 @@
     "benzene": "A program for the efficient generation of all nonisomorphic fusenes and benzenoids with a given number of faces",
     "bettercap": "Swiss army knife for network attacks and monitoring",
     "bettercap-caplets": "Bettercap scripts (caplets) and proxy modules",
-    "bfgminer": "Bitcoin miner featuring overclocking, monitoring, fan speed control and remote management. For FPGA/GPU/CPU Bitcoin mining.",
     "biber": "A Unicode-capable BibTeX replacement for biblatex users",
     "bibletime": "Bible study tool",
     "bin86": "A complete 8086 assembler and loader",
@@ -122,7 +121,6 @@
     "bitcoin-daemon": "Bitcoin is a peer-to-peer network based digital currency - daemon",
     "bitcoin-qt": "Bitcoin is a peer-to-peer network based digital currency - Qt",
     "bitcoin-tx": "Bitcoin is a peer-to-peer network based digital currency - Transaction tool",
-    "bitlbee": "Brings instant messaging (XMPP, MSN, Yahoo!, AIM, ICQ, Twitter) to IRC",
     "blackbox": "A window manager for X11",
     "blackmagic": "In application debugger for ARM Cortex microcontrollers",
     "bladerf": "Driver, userspace, fpga & firmware for the bladeRF SDR.",
@@ -229,6 +227,5 @@
     "byobu": "Enhanced tmux",
     "byuu": "A multi-system emulator focused on performance, features, and ease of use",
     "byzanz": "Record what's happening on your desktop",
-    "bzflag": "Multiplayer 3D tank battle game",
     "bzrtp": "Opensource implementation of ZRTP keys exchange protocol"
 }
