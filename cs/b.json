@@ -221,6 +221,7 @@
     "bully": "Retrieve WPA/WPA2 passphrase from a WPS enabled access point",
     "bumblebee": "NVIDIA Optimus support for Linux through VirtualGL",
     "buoh": "Online strips comics reader for GNOME",
+    "bup": "Efficient backup system based on the git packfile format",
     "busybox": "Utilities for rescue and embedded systems",
     "bwm-ng": "A small and simple console-based live bandwidth monitor",
     "byacc": "Berkeley reimplementation of the Unix parser generator Yacc",

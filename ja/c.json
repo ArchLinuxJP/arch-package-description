@@ -13,6 +13,8 @@
     "cairo": "複数の出力デバイスをサポートする 2D グラフィックライブラリ",
     "cairo-perl": "cairo の Perl ラッパー",
     "cairomm": "Cairo の C++ バインディング",
+    "cairomm-1.16": "Cairo の C++ バインディング",
+    "cairomm-1.16-docs": "Cairo の C++ バインディング (ドキュメント)",
     "cairomm-docs": "Cairo の C++ バインディング (ドキュメント)",
     "calendarsupport": "カレンダーサポートライブラリ",
     "calligra": "生産的・創造的な作業のためのアプリケーションのセット",
@@ -199,6 +201,7 @@
     "chinese-calendar": "Ubuntu Kylin の中国暦カレンダー",
     "chntpw": "オフライン NT パスワードエディタ - Windows NT SAM ユーザーデータベースファイルのパスワードをリセット",
     "choqok": "A micro-blogging client by the KDE community",
+    "choria-io": "Go based server to host Choria agents, networks, federations and discovery",
     "chromium-bsu": "高速な縦スクロールシューティングゲーム",
     "chrono-date": "A date and time library based on the C++11/14/17 <chrono> header",
     "chrony": "軽量な NTP クライアントとサーバー",
@@ -225,7 +228,6 @@
     "clash": "A rule based proxy in Go",
     "clash-ghc": "CAES Language for Synchronous Hardware",
     "clasp": "解集合ソルバー",
-    "classpath": "Sun のプロプライエタリなコア Java クラスライブラリのフリーな代替",
     "clementine": "近代的な音楽プレイヤー・ライブラリオーガナイザ",
     "clevis": "自動暗号化フレームワーク",
     "clinfo": "Simple OpenCL application that enumerates all available platform and device properties",
@@ -358,6 +360,5 @@
     "cxxtest": "C++ のユニットテストフレームワーク",
     "cycfx2prog": "CycFX2Prog is a small and useful tool to program the FX2 and do basic enpoint communication for testing purposes",
     "cython": "Python の C 拡張",
-    "cython2": "Python の C 拡張",
-    "choria-io": "Go based server to host Choria agents, networks, federations and discovery"
+    "cython2": "Python の C 拡張"
 }

@@ -221,6 +221,7 @@
     "bully": "WPS が有効なアクセスポイントから WPA/WPA2 パスフレーズを取得",
     "bumblebee": "VirtualGL による Linux の NVIDIA Optimus サポート",
     "buoh": "GNOME のオンラインコミックリーダー",
+    "bup": "git の packfile フォーマットがベースの効率的なバックアップシステム",
     "busybox": "復旧用・組み込み環境のためのユーティリティ",
     "bwm-ng": "小さくシンプルなコンソールベースのライブ帯域幅モニター",
     "byacc": "Unix のパーサージェネレータ Yacc の Berkeley による再実装",

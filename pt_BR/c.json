@@ -13,6 +13,8 @@
     "cairo": "2D graphics library with support for multiple output devices",
     "cairo-perl": "Pacotes Perl para cairo",
     "cairomm": "C++ bindings for Cairo",
+    "cairomm-1.16": "C++ bindings for Cairo",
+    "cairomm-1.16-docs": "C++ bindings for Cairo (documentation)",
     "cairomm-docs": "C++ bindings for Cairo (documentation)",
     "calendarsupport": "Biblioteca de suporte a calendário",
     "calligra": "A set of applications for productivity and creative usage",
@@ -199,6 +201,7 @@
     "chinese-calendar": "Chinese traditional calendar for Ubuntu Kylin",
     "chntpw": "Offline NT Password Editor - reset passwords in a Windows NT SAM user database file",
     "choqok": "A micro-blogging client by the KDE community",
+    "choria-io": "Go based server to host Choria agents, networks, federations and discovery",
     "chromium-bsu": "A fast paced top scrolling shooter",
     "chrono-date": "A date and time library based on the C++11/14/17 <chrono> header",
     "chrony": "Lightweight NTP client and server",
@@ -225,7 +228,6 @@
     "clash": "A rule based proxy in Go",
     "clash-ghc": "CAES Language for Synchronous Hardware",
     "clasp": "Answer set solver",
-    "classpath": "A free replacement for Sun's proprietary core Java class libraries.",
     "clementine": "A modern music player and library organizer",
     "clevis": "Automated Encryption Framework",
     "clinfo": "Simple OpenCL application that enumerates all available platform and device properties",
@@ -358,6 +360,5 @@
     "cxxtest": "Unidade de testes framework para C++",
     "cycfx2prog": "CycFX2Prog is a small and useful tool to program the FX2 and do basic enpoint communication for testing purposes",
     "cython": "Extensões C pra Python",
-    "cython2": "Extensões C pra Python",
-    "choria-io": "Go based server to host Choria agents, networks, federations and discovery"
+    "cython2": "Extensões C pra Python"
 }

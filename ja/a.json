@@ -1,6 +1,6 @@
 {
     "acl": "アクセス制御リストのユーティリティ・ライブラリ・ヘッダー",
-    "amd-ucode": "AMDCPU のマイクロコード更新イメージ",
+    "amd-ucode": "AMD CPU のマイクロコード更新イメージ",
     "archlinux-keyring": "Arch Linux PGP キーリング",
     "argon2": "パスワードハッシュ関数 (リファレンス C 実装)",
     "attr": "ACL の拡張属性サポートライブラリ",
@@ -84,6 +84,8 @@
     "at-spi2-core": "D-Bus at-spi のプロトコル定義とデーモン",
     "atk": "アクセシビリティインフラストラクチャのインターフェイス定義",
     "atkmm": "ATK の C++ バインディング",
+    "atkmm-2.36": "ATK の C++ バインディング",
+    "atkmm-2.36-docs": "ATK の C++ バインディング (ドキュメント)",
     "atkmm-docs": "ATK の C++ バインディング (ドキュメント)",
     "atomix": "原子から分子を組み立てよう",
     "attica": "Open Collaboration Services API を実装する Qt ライブラリ",

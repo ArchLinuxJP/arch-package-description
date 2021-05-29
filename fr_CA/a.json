@@ -84,6 +84,8 @@
     "at-spi2-core": "Protocol definitions and daemon for D-Bus at-spi",
     "atk": "Interface definitions of accessibility infrastructure",
     "atkmm": "Bindings C++ pour ATK",
+    "atkmm-2.36": "Bindings C++ pour ATK",
+    "atkmm-2.36-docs": "Bindings C++ pour ATK (documentation)",
     "atkmm-docs": "Bindings C++ pour ATK (documentation)",
     "atomix": "Formez des molécules à partir d’atomes",
     "attica": "Qt library that implements the Open Collaboration Services API",
