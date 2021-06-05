@@ -300,6 +300,7 @@
     "augeas": "設定ファイルをパースしてツリー状に変換する設定編集ツール",
     "aurphan": "メンテナやバグフィックス、パッチを必要としているパッケージを検索",
     "aurpublish": "Arch User Repository の PKGBUILD 管理・アップロードフレームワーク",
+    "authoscope": "スクリプトに組み込めるネットワーク認証クラッカー",
     "auto-multiple-choice": "多肢選択問題 (MCQ) を作成・管理することができるソフトウェア。アンサーシートは LaTeX でフォーマットされます。",
     "autoconf-archive": "再利用可能なフリーの Autoconf マクロ集",
     "autocutsel": "X アプリケーションが使用するコピーペーストバッファを同期",

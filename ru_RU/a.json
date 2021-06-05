@@ -300,6 +300,7 @@
     "augeas": "A configuration editing tool that parses config files and transforms them into a tree",
     "aurphan": "Finds packages in need of maintainers, bug fixes and patches. Adopt today!",
     "aurpublish": "PKGBUILD management/upload framework for the Arch User Repository",
+    "authoscope": "Scriptable network authentication cracker",
     "auto-multiple-choice": "AMC is a piece of software that can help you creating and managing multiple choice questionnaires (MCQ), with automated marking. Answers sheets are formatted with LaTeX.",
     "autoconf-archive": "A collection of freely re-usable Autoconf macros",
     "autocutsel": "synchronizes the two copy/paste buffers mainly used by X applications",
