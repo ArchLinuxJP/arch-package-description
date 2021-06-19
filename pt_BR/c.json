@@ -191,7 +191,6 @@
     "cgrep": "A context-aware grep for source codes",
     "cgroup_event_listener": "Simple listener of cgroup events",
     "chafa": "Image-to-text converter supporting a wide range of symbols and palettes, transparency, animations, etc.",
-    "check_api": "A gate-keeper tool for the APIs.guru API collection",
     "checkbashisms": "Debian script that checks for bashisms",
     "checksec": "Ferramenta desenhada para testar quais recursos de segurança padrão do sistema operacional Linux e pax estão sendo usados",
     "cherrytree": "Hierarchical note-taking application",

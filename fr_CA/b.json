@@ -34,8 +34,8 @@
     "bluez-utils": "Utilitaires de développement et débogage pour la pile du protocole Bluetooth",
     "bogofilter": "Outil de filtrage de spam bayésien rapide",
     "bomber": "Jeu d’arcade solo",
-    "boost": "Bibliothèques C++ portables, libres et soumises à l’évaluation par les pairs − fichiers d’entête",
-    "boost-libs": "Bibliothèques C++ portables, libres et soumises à l’évaluation par les pairs − bibliothèques runtime",
+    "boost": "Free peer-reviewed portable C++ source libraries (development headers)",
+    "boost-libs": "Free peer-reviewed portable C++ source libraries (runtime libraries)",
     "booster": "Fast and secure initramfs generator",
     "botan": "Bibliothèque C++ de cryptographie",
     "bovo": "Jeu à la Gomoku se jouant à deux",
@@ -224,7 +224,6 @@
     "bwm-ng": "A small and simple console-based live bandwidth monitor",
     "byacc": "Réimplémentation par Berkeley du générateur d’analyseur syntaxique Yacc d’Unix",
     "byobu": "Enhanced tmux",
-    "byuu": "A multi-system emulator focused on performance, features, and ease of use",
     "byzanz": "Enregistre ce qui se passe sur votre bureau",
     "bzrtp": "Implémentation open-source du protocole d’échange de clefs ZRTP"
 }

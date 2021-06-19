@@ -34,8 +34,8 @@
     "bluez-utils": "bluetooth プロトコルスタックの開発・デバッグユーティリティ",
     "bogofilter": "高速なベイジアンフィルタツール",
     "bomber": "シングルプレイのアーケードゲーム",
-    "boost": "査読によるフリー・ポータブルな C++ ソースライブラリ - 開発ヘッダー",
-    "boost-libs": "査読によるフリー・ポータブルな C++ ソースライブラリ - ランタイムライブラリ",
+    "boost": "Free peer-reviewed portable C++ source libraries (development headers)",
+    "boost-libs": "Free peer-reviewed portable C++ source libraries (runtime libraries)",
     "booster": "Fast and secure initramfs generator",
     "botan": "C++ で書かれた暗号ライブラリ",
     "bovo": "二人で遊ぶ五目並べのようなゲーム",
@@ -224,7 +224,6 @@
     "bwm-ng": "小さくシンプルなコンソールベースのライブ帯域幅モニター",
     "byacc": "Unix のパーサージェネレータ Yacc の Berkeley による再実装",
     "byobu": "Enhanced tmux",
-    "byuu": "A multi-system emulator focused on performance, features, and ease of use",
     "byzanz": "デスクトップ上で起こっていることを録画",
     "bzrtp": "ZRTP 鍵交換プロトコルのオープンソース実装"
 }
