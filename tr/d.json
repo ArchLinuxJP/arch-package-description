@@ -254,6 +254,7 @@
     "doublecmd-qt5": "twin-panel (commander-style) file manager (Qt5)",
     "dovecot": "An IMAP and POP3 server written with security primarily in mind",
     "dovecot-fts-elastic": "Dovecot FTS plugin for elasticsearch",
+    "dovecot-fts-xapian": "Dovecot FTS plugin based on Xapian",
     "dpf-plugins": "Collection of DPF-based plugins",
     "dpkg": "The Debian Package Manager tools",
     "dqlite": "Distributed SQLite",

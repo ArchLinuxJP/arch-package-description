@@ -225,5 +225,5 @@
     "byacc": "Unix のパーサージェネレータ Yacc の Berkeley による再実装",
     "byobu": "Enhanced tmux",
     "byzanz": "デスクトップ上で起こっていることを録画",
-    "bzrtp": "ZRTP 鍵交換プロトコルのオープンソース実装"
+    "bzrtp": "Open source implementation of ZRTP keys exchange protocol"
 }

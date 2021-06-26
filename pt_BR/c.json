@@ -321,6 +321,7 @@
     "crictl": "A CLI for CRI-compatible container runtimes",
     "critest": "A benchmarking CLI for CRI-compatible container runtimes",
     "critter": "Critical Mass (aka Critter) é um espaço de filmagem SDL / OpenGL em cima jogo",
+    "criu": "Utilities to checkpoint and restore processes in userspace",
     "croc": "Easily and securely send things from one computer to another.",
     "cross": "'Zero setup' cross compilation and 'cross testing' of Rust crates",
     "crun": "A fast and lightweight fully featured OCI runtime and C library for running containers",

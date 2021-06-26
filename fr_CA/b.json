@@ -225,5 +225,5 @@
     "byacc": "Réimplémentation par Berkeley du générateur d’analyseur syntaxique Yacc d’Unix",
     "byobu": "Enhanced tmux",
     "byzanz": "Enregistre ce qui se passe sur votre bureau",
-    "bzrtp": "Implémentation open-source du protocole d’échange de clefs ZRTP"
+    "bzrtp": "Open source implementation of ZRTP keys exchange protocol"
 }
