@@ -371,5 +371,6 @@
     "cxxtest": "C++ のユニットテストフレームワーク",
     "cycfx2prog": "CycFX2Prog is a small and useful tool to program the FX2 and do basic enpoint communication for testing purposes",
     "cython": "Python の C 拡張",
-    "cython2": "Python の C 拡張"
+    "cython2": "Python の C 拡張",
+    "csound-plugins": "Extra opcodes for Csound"
 }

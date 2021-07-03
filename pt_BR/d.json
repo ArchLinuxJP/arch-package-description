@@ -212,6 +212,7 @@
     "distcc": "Distributed compilation service for C, C++ and Objective-C",
     "distorm": "Powerful disassembler library for x86/AMD64",
     "distrho-ports": "Linux audio plugins and LV2 ports",
+    "distrobuilder": "System container image builder for LXC and LXD",
     "ditaa": "Utility for converting ASCII art diagrams into bitmaps",
     "djview": "Viewer for DjVu documents",
     "dkfilter": "Domain key filter",

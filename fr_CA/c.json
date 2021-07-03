@@ -371,5 +371,6 @@
     "cxxtest": "Unit testing framework for C++",
     "cycfx2prog": "CycFX2Prog is a small and useful tool to program the FX2 and do basic enpoint communication for testing purposes",
     "cython": "C-Extensions for Python",
-    "cython2": "C-Extensions for Python"
+    "cython2": "C-Extensions for Python",
+    "csound-plugins": "Extra opcodes for Csound"
 }
