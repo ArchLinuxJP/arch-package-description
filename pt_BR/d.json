@@ -161,6 +161,7 @@
     "deepin-voice-note": "A lightweight memo tool to make text notes and voice recordings",
     "deepin-wallpapers": "Default wallpapers for DDE",
     "deepin-wallpapers-plasma": "Additional Deepin desktop wallpapers from Plasma",
+    "deepin-wayland": "DDE wayland support libraries",
     "deepin-wm": "Deepin Window Manager",
     "deheader": "Find and optionally remove unneeded includes in C or C++ source files",
     "dehydrated": "letsencrypt/acme client implemented as a shell-script – just add water",
