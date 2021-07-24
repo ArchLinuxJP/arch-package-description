@@ -41,7 +41,7 @@
     "cifs-utils": "Outils en userspace pour le système de fichiers CIFS",
     "clamav": "Boite à outils antivirus pour Unix",
     "clang": "Interface pour LLVM vers la famille de langages C",
-    "claws-mail": "Client email basé sur GTK+",
+    "claws-mail": "A GTK+ based e-mail client",
     "claws-mail-themes": "Thèmes pour Claws Mail",
     "clawsker": "An applet to edit Claws Mail's hidden preferences.",
     "clazy": "Qt oriented code checker based on clang framework",
@@ -124,6 +124,7 @@
     "cargo-crev": "Scalable, social, Code REView and recommendation system that we desperately need",
     "cargo-depgraph": "Creates dependency graphs for cargo projects using cargo metadata and graphviz",
     "cargo-edit": "Managing cargo dependencies from the command line",
+    "cargo-flamegraph": "Easy flamegraphs for Rust projects and everything else",
     "cargo-fuzz": "Command line helpers for fuzzing rust",
     "cargo-outdated": "A cargo subcommand for displaying when Rust dependencies are out of date",
     "cargo-release": "Cargo subcommand \"release\": everything about releasing a rust crate",
@@ -333,6 +334,7 @@
     "csfml": "C bindings for sfml",
     "csound": "A programming language for sound rendering and signal processing.",
     "csound-doc": "A programming language for sound rendering and signal processing.",
+    "csound-plugins": "Extra opcodes for Csound",
     "csoundqt": "A frontend for Csound",
     "ctemplate": "A library implementing a simple but powerful template language for C++",
     "ctop": "Top-like interface for container metrics",
@@ -342,6 +344,7 @@
     "cuda-tools": "NVIDIA's GPU programming toolkit (extra tools: nvvp, nsight, samples)",
     "cudd": "A package for the manipulation of Binary Decision Diagrams (BDDs) and similar structures",
     "cudnn": "NVIDIA CUDA Deep Neural Network library",
+    "cue": "Validate and define text-based and dynamic configuration",
     "cuetools": "Cue and toc file parsers and utilities",
     "cuneiform": "Linux port of an OCR system developed in Russia. Supports more than 20 languages",
     "cunit": "A Unit Testing Framework for C",
@@ -371,6 +374,5 @@
     "cxxtest": "Unit testing framework for C++",
     "cycfx2prog": "CycFX2Prog is a small and useful tool to program the FX2 and do basic enpoint communication for testing purposes",
     "cython": "C-Extensions for Python",
-    "cython2": "C-Extensions for Python",
-    "csound-plugins": "Extra opcodes for Csound"
+    "cython2": "C-Extensions for Python"
 }
