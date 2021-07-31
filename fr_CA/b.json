@@ -176,6 +176,7 @@
     "bookworm": "Lecteur d’ebooks simple et centré sur l’utilisateur affichant uniformément de multiples formats d’ebooks",
     "borg": "Deduplicating backup program with compression and authenticated encryption",
     "borgmatic": "Simple, configuration-driven backup software for servers and workstations",
+    "bottom": "A graphical process/system monitor",
     "bower": "Gestionnaire de paquets pour le web",
     "bpf": "Outils BPF",
     "bpftrace": "High-level tracing language for Linux eBPF",

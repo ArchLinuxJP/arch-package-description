@@ -176,6 +176,7 @@
     "bookworm": "複数の電子書籍フォーマットを同じように表示するシンプルなユーザー重視の電子書籍リーダー",
     "borg": "圧縮や認証付き暗号が使える重複排除バックアッププログラム",
     "borgmatic": "サーバーやワークステーション向けのシンプルで設定ベースのバックアップソフトウェア",
+    "bottom": "A graphical process/system monitor",
     "bower": "ウェブのパッケージマネージャ",
     "bpf": "BPF ツール",
     "bpftrace": "High-level tracing language for Linux eBPF",

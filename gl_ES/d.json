@@ -291,6 +291,7 @@
     "dunst": "Customizable and lightweight notification-daemon",
     "duperemove": "Btrfs extent deduplication utility",
     "duplicity": "A utility for encrypted, bandwidth-efficient backups using the rsync algorithm.",
+    "dust": "A more intuitive version of du in rust",
     "dvdauthor": "DVD authoring tools",
     "dvdbackup": "Tool to rip video DVDs from the command line",
     "dvdstyler": "DVD authoring application for the creation of professional-looking DVDs",
