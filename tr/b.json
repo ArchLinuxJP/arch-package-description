@@ -54,6 +54,7 @@
     "bubblewrap-suid": "Unprivileged sandboxing tool (setuid variant)",
     "bullet": "A 3D Collision Detection and Rigid Body Dynamics Library for games and animation",
     "bullet-docs": "Documentation for bullet",
+    "b3sum": "Command line implementation of the BLAKE3 hash function",
     "b4": "Helper utility to work with patches made available via a public-inbox archive like lore.kernel.org.",
     "babel-cli": "A compiler for writing next generation JavaScript",
     "babel-core": "A compiler for writing next generation JavaScript",

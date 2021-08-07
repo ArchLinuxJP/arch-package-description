@@ -54,6 +54,7 @@
     "bubblewrap-suid": "非特権サンドボックスツール (setuid 派生)",
     "bullet": "ゲームやアニメーションのための 3D 衝突判定・剛体力学ライブラリ",
     "bullet-docs": "bullet のドキュメント",
+    "b3sum": "Command line implementation of the BLAKE3 hash function",
     "b4": "Helper utility to work with patches made available via a public-inbox archive like lore.kernel.org.",
     "babel-cli": "次世代の JavaScript を書くためのコンパイラ",
     "babel-core": "次世代の JavaScript を書くためのコンパイラ",
