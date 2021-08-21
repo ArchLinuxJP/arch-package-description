@@ -226,6 +226,7 @@
     "arch-audit": "A utility like pkg-audit based on Arch Security Team data",
     "arch-audit-gtk": "Arch Linux Security Update Notifications",
     "arch-hs": "Distribute hackage packages to archlinux",
+    "arch-release-promotion": "Promote official releases with signatures and additional artifacts",
     "arch-repro-status": "Check the reproducibility status of your Arch Linux packages",
     "arch-wiki-docs": "Pages du Arch Wiki optimisées pour la navigation hors ligne",
     "arch-wiki-lite": "Le wiki sans html. Poids divisé par neuf, recherche facile et consultable sur la console.",
