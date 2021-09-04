@@ -193,7 +193,6 @@
     "browserpass": "Version native de Browserpass, une extension de navigateur pour zx2c4's pass (gestionnaire de mots de passe)",
     "browserpass-chromium": "Extension Chromium pour Browserpass, une extension de navigateur pour zx2c4's pass (gestionnaire de mots de passe)",
     "browserpass-firefox": "Extension Firefox pour Browserpass, une extension de navigateur pour zx2c4's pass (gestionnaire de mots de passe)",
-    "bs1770gain": "A loudness scanner compliant with ITU-R BS.1770.",
     "bsd-games": "Portage Linux de la suite de jeux en ligne de commande de BSD",
     "bsdiff": "Outils pour générer et appliquer des correctifs à des fichiers binaires",
     "bsequencer": "Multi channel MIDI step sequencer LV2 plugin with a variable matrix",

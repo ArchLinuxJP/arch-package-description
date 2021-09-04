@@ -193,7 +193,6 @@
     "browserpass": "zx2c4 の pass (パスワードマネージャ) のブラウザ拡張である Browserpass のネイティブホストアプリ",
     "browserpass-chromium": "zx2c4 の pass (パスワードマネージャ) のブラウザ拡張である Browserpass の Chromium 拡張",
     "browserpass-firefox": "zx2c4 の pass (パスワードマネージャ) のブラウザ拡張である Browserpass の Firefox 拡張",
-    "bs1770gain": "ITU-R BS.1770 準拠のラウドネススキャナ",
     "bsd-games": "BSD のコマンドラインゲームコレクションの Linux 移植",
     "bsdiff": "bsdiff と bspatch はバイナリファイルのパッチを作成・適用するためのツールです",
     "bsequencer": "Multi channel MIDI step sequencer LV2 plugin with a variable matrix",

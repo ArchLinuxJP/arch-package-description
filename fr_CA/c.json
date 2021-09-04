@@ -119,6 +119,7 @@
     "caprine": "Elegant Facebook Messenger desktop app",
     "caps": "The LADSPA C* Audio Plugin Suite",
     "capstone": "Lightweight multi-platform, multi-architecture disassembly framework",
+    "cargo-asm": "Cargo subcommand showing the assembly or llvm-ir generated for Rust code",
     "cargo-audit": "Audit Cargo.lock for crates with security vulnerabilities",
     "cargo-bloat": "Find out what takes most of the space in your executable",
     "cargo-c": "A cargo subcommand to build and install C-ABI compatibile dynamic and static libraries",
