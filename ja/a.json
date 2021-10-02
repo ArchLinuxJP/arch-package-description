@@ -61,6 +61,7 @@
     "arch-rebuild-order": "CLI tool to determine the rebuild order of provided package(s)",
     "arch-signoff": "Arch Linux testing パッケージのサインオフ",
     "archboot": "先進的でモジュール方式の arch ブート・インストールイメージ作成ユーティリティ",
+    "archboot-linux-firmware": "Firmware files for archboot creation",
     "archinstall": "Just another guided/automated Arch Linux installer with a twist",
     "archiso": "Arch Linux のライブ・インストール ISO イメージを作成するためのツール",
     "archivetools": "Arch Linux アーカイブツール",
