@@ -334,5 +334,6 @@
     "aws-vault": "Vault for securely storing and accessing AWS credentials in development environments",
     "awstats": "tool that generates web, streaming, ftp and mail server statistics, graphically",
     "awxkit": "cli client and python library for ansible awx (tower)",
-    "axel": "Accélérateur de téléchargement léger en ligne de commande"
+    "axel": "Accélérateur de téléchargement léger en ligne de commande",
+    "adios2": "The Adaptable Input/Output System version 2"
 }

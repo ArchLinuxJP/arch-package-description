@@ -204,6 +204,7 @@
     "bt747": "The swiss army knife for MTK GPS dataloggers",
     "btfs": "Fichier de système bittorrent basé sur FUSE",
     "bti": "Client console pour Twitter et identi.ca",
+    "btop": "A monitor of system resourecs, bpytop ported to C++",
     "btrfs-heatmap": "creates a visualization of how a btrfs filesystem is using the underlying disk space",
     "bucklespring": "Son de nostalgie des claviers bucklespring, samplé du Model-M de IBM",
     "buckygen": "Programme pour générer efficacement tous les fullerènes non isomorphes",

@@ -204,6 +204,7 @@
     "bt747": "MTK GPS データロガーの十得ナイフ",
     "btfs": "FUSE ベースの bittorrent ファイルシステム",
     "bti": "Twitter と identi.ca のコンソールクライアント",
+    "btop": "A monitor of system resourecs, bpytop ported to C++",
     "btrfs-heatmap": "creates a visualization of how a btrfs filesystem is using the underlying disk space",
     "bucklespring": "IBM の Model-M から採音したノスタルジックな bucklespring キーボードサウンド",
     "buckygen": "非同型フラーレンを効率的に生成するプログラム",
