@@ -79,6 +79,7 @@
     "darts": "C++ Template Library for implementation of Double-Array",
     "datamash": "Performs basic numeric,textual and statistical operations on input textual data files",
     "dateutils": "nifty command line date and time utilities; fast date calculations and conversion in the shell",
+    "datovka": "GUI application for a 'Databox' - an electronic communication interface endorsed by the Czech government",
     "dbeaver": "開発者やデータベース管理者のためのフリーのユニバーサル SQL クライアント (コミュニティエディション)",
     "dbeaver-plugin-apache-poi": "Microsoft Office ドキュメントの DBeaver ライブラリ",
     "dbeaver-plugin-batik": "SVG フォーマットの DBeaver ライブラリ",
