@@ -138,7 +138,7 @@
     "blockdiag": "テキストからブロックダイアグラム画像を生成",
     "blop": "帯域限定 LADSPA オシレータープラグイン",
     "blop.lv2": "Mike Rawes による BLOP LADSPA プラグインの LV2 ポート",
-    "blosc": "ブロッキング・シャフリング・ロスレス圧縮ライブラリ",
+    "blosc": "A blocking, shuffling and loss-less compression library",
     "blueberry": "Bluetooth 設定ツール",
     "bluefish": "経験豊富なウェブデザイナやプログラマのための強力な HTML エディタ",
     "bluegriffon": "Firefox のレンダリングエンジンを使用する次世代のウェブエディタ",

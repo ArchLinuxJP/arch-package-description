@@ -138,7 +138,7 @@
     "blockdiag": "Génération de diagrammes à blocs à partir de texte",
     "blop": "Bandlimited LADSPA Oscillator Plugins",
     "blop.lv2": "A port of the BLOP LADSPA plugins by Mike Rawes to LV2.",
-    "blosc": "A blocking, shuffling and loss-less compression library.",
+    "blosc": "A blocking, shuffling and loss-less compression library",
     "blueberry": "Outil de configuration du Bluetooth",
     "bluefish": "Éditeur HTML puissant pour les designers et programmeurs web expérimentés",
     "bluegriffon": "Éditeur web de prochaine génération basé sur le moteur de rendu de Firefox",

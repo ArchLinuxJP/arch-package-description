@@ -61,7 +61,6 @@
     "arch-rebuild-order": "CLI tool to determine the rebuild order of provided package(s)",
     "arch-signoff": "Sign off Arch Linux testing packages",
     "archboot": "Advanced, modular arch boot/install image creation utility",
-    "archboot-grub": "grubx64.efi and grubia32.efi for archboot creation",
     "archboot-linux-firmware": "Firmware files for archboot creation",
     "archinstall": "Just another guided/automated Arch Linux installer with a twist",
     "archiso": "Tools for creating Arch Linux live and install iso images",
