@@ -127,6 +127,7 @@
     "cargo-depgraph": "Creates dependency graphs for cargo projects using cargo metadata and graphviz",
     "cargo-edit": "Managing cargo dependencies from the command line",
     "cargo-expand": "Subcommand to show result of macro expansion",
+    "cargo-feature": "Conveniently modify dependency features",
     "cargo-flamegraph": "Easy flamegraphs for Rust projects and everything else",
     "cargo-fuzz": "Command line helpers for fuzzing rust",
     "cargo-generate": "Use pre-existing git repositories as templates",
