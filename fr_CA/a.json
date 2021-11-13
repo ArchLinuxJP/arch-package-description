@@ -315,6 +315,7 @@
     "autopep8": "Outil qui formate automatiquement le code Python en accord avec le guide de style de la PEP 8",
     "autorandr": "Autodétection des appareils d’affichage connectés et chargement des paramètres X11 appropriés avec xrandr",
     "autossh": "Redémarrage automatique de sessions et tunnels SSH",
+    "av1an": "Cross-platform command-line encoding framework with per scene quality encoding",
     "avfs": "Système de fichiers virtuel permettant d’explorer des fichiers compressés",
     "avisynthplus": "An improved version of the AviSynth frameserver",
     "avldrums.lv2": "A simple Drum Sample Player Plugin, dedicated to the AVLinux Drumkits",

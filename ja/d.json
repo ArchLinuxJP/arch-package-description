@@ -29,6 +29,7 @@
     "deluge-gtk": "GTK UI for Deluge",
     "desktop-file-utils": "デスクトップエントリを扱うためのコマンドラインユーティリティ",
     "devhelp": "GNOME の API ドキュメントブラウザ",
+    "devhelp-docs": "API documentation browser for GNOME (documentation)",
     "devtools": "Arch Linux のパッケージメンテナのためのツール",
     "dfu-programmer": "Atmel チップのプログラマと USB ブートローダー",
     "dhclient": "dhcp パッケージのスタンドアロン DHCP クライアント",

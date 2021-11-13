@@ -177,6 +177,7 @@
     "bonnie++": "Based on the Bonnie hard drive benchmark by Tim Bray",
     "bonzomatic": "Live shader coding tool",
     "bookworm": "A simple user centric eBook reader which displays multiple eBooks formats uniformly",
+    "bootconfig": "Apply, delete or show boot config to initrd",
     "borg": "Deduplicating backup program with compression and authenticated encryption",
     "borgmatic": "Simple, configuration-driven backup software for servers and workstations",
     "bottom": "A graphical process/system monitor",

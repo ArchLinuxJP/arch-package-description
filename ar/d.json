@@ -29,6 +29,7 @@
     "deluge-gtk": "GTK UI for Deluge",
     "desktop-file-utils": "Command line utilities for working with desktop entries",
     "devhelp": "API documentation browser for GNOME",
+    "devhelp-docs": "API documentation browser for GNOME (documentation)",
     "devtools": "Tools for Arch Linux package maintainers",
     "dfu-programmer": "Programmer for Atmel chips with a USB bootloader",
     "dhclient": "A standalone DHCP client from the dhcp package",
