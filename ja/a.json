@@ -102,6 +102,7 @@
     "avogadro-crystals": "Crystallographic files of common materials, elements, oxides, for visualization in Avogadro",
     "avogadro-molecules": "Common molecule fragments for visualization in Avogadro",
     "avogadrolibs": "計算化学・分子モデリング・生命情報科学・材料科学などの分野で役に立つ 3D モデリングやビジュアライゼーション、解析・データ処理を行うライブラリ",
+    "avogadrolibs-qt5": "Qt 5 modules for Avogadro",
     "a2jmidid": "JACK MIDI 環境で旧式の ALSA シーケンサアプリケーションを使うためのデーモン",
     "aarch64-linux-gnu-binutils": "ARM64 ターゲットのバイナリやオブジェクトファイルをアセンブル・操作するためのプログラムのセット",
     "aarch64-linux-gnu-gcc": "GNU コンパイラコレクション - ARM64 ターゲットのクロスコンパイラ",

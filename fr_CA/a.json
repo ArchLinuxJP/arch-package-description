@@ -102,6 +102,7 @@
     "avogadro-crystals": "Crystallographic files of common materials, elements, oxides, for visualization in Avogadro",
     "avogadro-molecules": "Common molecule fragments for visualization in Avogadro",
     "avogadrolibs": "Bibliothèques fournissant le rendement, la visualisation, l’analyse et le traitement de données de la 3D ; utile en chimie numérique, modélisation moléculaire, bioinformatique, science des matériaux et domaines liés",
+    "avogadrolibs-qt5": "Qt 5 modules for Avogadro",
     "a2jmidid": "Daemon pour la reconnaissance des anciens séquenceurs ALSA par le système MIDI de JACK",
     "aarch64-linux-gnu-binutils": "Ensemble de programmes pour assembler et manipuler des fichiers binaires et objets pour ARM64",
     "aarch64-linux-gnu-gcc": "La suite de compilateurs GNU - compilateur croisé pour la cible ARM64",
