@@ -115,6 +115,7 @@
     "bibletime": "Bible study tool",
     "bin86": "Assembleur et chargeur complet pour 8086",
     "binaryen": "Bibliothèque C++ d’infrastructure compilateur et d’outillage pour WebAssembly",
+    "binocle": "A graphical tool to visualize binary data",
     "binwalk": "Tool for searching a given binary image for embedded files",
     "birdfont": "Font editor which can generate fonts in TTF, EOT and SVG formats",
     "bitcoin-cli": "Bitcoin est une monnaie numérique basée sur un réseau pair à pair − client RPC",

@@ -115,6 +115,7 @@
     "bibletime": "聖書学習ツール",
     "bin86": "完全な 8086 アセンブラ・ローダー",
     "binaryen": "C++ による WebAssembly のコンパイラインフラストラクチャとツールチェインライブラリ",
+    "binocle": "A graphical tool to visualize binary data",
     "binwalk": "Tool for searching a given binary image for embedded files",
     "birdfont": "Font editor which can generate fonts in TTF, EOT and SVG formats",
     "bitcoin-cli": "ピアツーピアネットワークによる電子貨幣 - RPC クライアント",
