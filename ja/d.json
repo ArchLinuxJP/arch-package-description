@@ -209,6 +209,7 @@
     "din": "A sound synthesizer and musical instrument.",
     "dina-font": "プログラマ向けの等幅ビットマップフォント",
     "dino": "Modern XMPP (Jabber) chat client written in Vala",
+    "direnv": "A shell extension that manages your environment",
     "discord": "無料・セキュアなゲーマー用のオールインワン音声・テキストチャット",
     "discord-canary": "無料・セキュアなゲーマー用のオールインワン音声・テキストチャット",
     "diskus": "'du -sh' のミニマルで高速な代替",
@@ -313,5 +314,6 @@
     "dvtm": "動的仮想端末マネージャ",
     "dwarffortress": "A single-player fantasy game in which you build a dwarven outpost or play an adventurer in a randomly generated world",
     "dwdiff": "行単位ではなく単語単位で操作する diff プログラムのフロントエンド",
-    "dzen2": "General purpose messaging, notification and menuing program for X11"
+    "dzen2": "General purpose messaging, notification and menuing program for X11",
+    "doctest": "The lightest feature rich C++ single header testing framework"
 }
