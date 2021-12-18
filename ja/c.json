@@ -189,6 +189,7 @@
     "certbot-dns-route53": "Certbot の Route53 DNS Authenticator プラグイン",
     "certbot-dns-sakuracloud": "Certbot のさくらのクラウド DNS Authenticator プラグイン",
     "certbot-nginx": "Let’s Encrypt クライアントの Nginx プラグイン",
+    "cfssl": "CloudFlare PKI and TLS toolkit",
     "cgal": "Computational Geometry Algorithms Library",
     "cgasm": "CLI tool for browsing documentation for x86 Assembly",
     "cgdb": "GNU デバッガの Curses ベースのインターフェイス",
