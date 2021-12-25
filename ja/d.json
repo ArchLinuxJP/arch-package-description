@@ -238,7 +238,9 @@
     "docker": "あらゆるアプリケーションを軽量なコンテナとして梱包・展開・実行",
     "docker-compose": "Docker を使用する高速な分離開発環境",
     "docker-machine": "Machine management for a container-centric world",
+    "docker-scan": "Docker Scan is a Command Line Interface to run vulnerability detection on your Dockerfiles and Docker images",
     "docopt": "Command line arguments parser for C++11 and later",
+    "doctest": "The lightest feature rich C++ single header testing framework",
     "doctl": "The official command line interface for the DigitalOcean API",
     "docx2txt": "DOCX ファイルから整形済みのテキストを復元",
     "dog": "Command-line DNS client like dig",
@@ -314,6 +316,5 @@
     "dvtm": "動的仮想端末マネージャ",
     "dwarffortress": "A single-player fantasy game in which you build a dwarven outpost or play an adventurer in a randomly generated world",
     "dwdiff": "行単位ではなく単語単位で操作する diff プログラムのフロントエンド",
-    "dzen2": "General purpose messaging, notification and menuing program for X11",
-    "doctest": "The lightest feature rich C++ single header testing framework"
+    "dzen2": "General purpose messaging, notification and menuing program for X11"
 }
