@@ -123,6 +123,7 @@
     "bitcoin-daemon": "Bitcoin is a peer-to-peer network based digital currency - daemon",
     "bitcoin-qt": "Bitcoin is a peer-to-peer network based digital currency - Qt",
     "bitcoin-tx": "Bitcoin is a peer-to-peer network based digital currency - Transaction tool",
+    "bitsery": "Header only C++ binary serialization library",
     "bitwarden": "A secure and free password manager for all of your devices",
     "bitwarden-cli": "The command line vault",
     "blackbox": "A window manager for X11",

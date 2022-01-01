@@ -345,6 +345,7 @@
     "csound": "音声合成・信号処理のためのプログラミング言語",
     "csound-doc": "音声合成・信号処理のためのプログラミング言語",
     "csoundqt": "A frontend for Csound",
+    "csvkit": "A suite of utilities for converting to and working with CSV",
     "ct": "config transpiler for Flatcar Container Linux",
     "ctemplate": "C++ 用のシンプルながら強力なテンプレートエンジンが実装されたライブラリ",
     "ctop": "Top-like interface for container metrics",

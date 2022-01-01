@@ -123,6 +123,7 @@
     "bitcoin-daemon": "Bitcoin est une monnaie numérique basée sur un réseau pair à pair − daemon",
     "bitcoin-qt": "Bitcoin est une monnaie numérique basée sur un réseau pair à pair − Qt",
     "bitcoin-tx": "Bitcoin est une monnaie numérique basée sur un réseau pair à pair − outil de transaction",
+    "bitsery": "Header only C++ binary serialization library",
     "bitwarden": "A secure and free password manager for all of your devices",
     "bitwarden-cli": "The command line vault",
     "blackbox": "Gestionnaire de fenêtres X11",

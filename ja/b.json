@@ -123,6 +123,7 @@
     "bitcoin-daemon": "ピアツーピアネットワークによる電子貨幣 - デーモン",
     "bitcoin-qt": "ピアツーピアネットワークによる電子貨幣 - Qt",
     "bitcoin-tx": "ピアツーピアネットワークによる電子貨幣 - トランザクションツール",
+    "bitsery": "Header only C++ binary serialization library",
     "bitwarden": "A secure and free password manager for all of your devices",
     "bitwarden-cli": "The command line vault",
     "blackbox": "X11 用のウィンドウマネージャ",

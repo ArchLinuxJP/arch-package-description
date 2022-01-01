@@ -345,6 +345,7 @@
     "csound": "A programming language for sound rendering and signal processing.",
     "csound-doc": "A programming language for sound rendering and signal processing.",
     "csoundqt": "A frontend for Csound",
+    "csvkit": "A suite of utilities for converting to and working with CSV",
     "ct": "config transpiler for Flatcar Container Linux",
     "ctemplate": "Uma biblioteca de implementação de um modelo de linguagem simples, mas poderosa para C ++",
     "ctop": "Top-like interface for container metrics",
