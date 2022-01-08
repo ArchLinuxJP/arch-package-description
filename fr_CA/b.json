@@ -228,6 +228,7 @@
     "bumblebee": "NVIDIA Optimus support for Linux through VirtualGL",
     "buoh": "Lecteur de bandes dessinées web pour GNOME",
     "bup": "Efficient backup system based on the git packfile format",
+    "busted": "Elegant Lua unit testing (CLI)",
     "busybox": "Utilities for rescue and embedded systems",
     "bwm-ng": "A small and simple console-based live bandwidth monitor",
     "byacc": "Réimplémentation par Berkeley du générateur d’analyseur syntaxique Yacc d’Unix",

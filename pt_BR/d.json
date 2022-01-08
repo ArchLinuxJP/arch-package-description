@@ -35,6 +35,7 @@
     "dhclient": "A standalone DHCP client from the dhcp package",
     "dhcp": "A DHCP server, client, and relay agent",
     "digikam": "An advanced digital photo management application",
+    "directx-headers": "DirectX headers for using D3D12",
     "discount": "A Markdown implementation written in C",
     "discover": "KDE and Plasma resources management GUI",
     "djvulibre": "Suite to create, manipulate and view DjVu ('déjà vu') documents",

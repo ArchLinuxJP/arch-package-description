@@ -35,6 +35,7 @@
     "dhclient": "dhcp パッケージのスタンドアロン DHCP クライアント",
     "dhcp": "DHCP サーバー・クライアント・リレーエージェント",
     "digikam": "先進的なデジタル写真管理アプリケーション",
+    "directx-headers": "DirectX headers for using D3D12",
     "discount": "C で書かれた Markdown 実装",
     "discover": "KDE と Plasma のリソース管理 GUI",
     "djvulibre": "DjVu ('déjà vu') ドキュメントを作成・編集・表示するためのスイート",
