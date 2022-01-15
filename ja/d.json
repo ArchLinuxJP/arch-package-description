@@ -103,6 +103,7 @@
     "ddclient": "Update dynamic DNS entries for accounts on many dynamic DNS services",
     "debian-archive-keyring": "Debian アーカイブの GnuPG アーカイブ鍵",
     "debootstrap": "Debian のベースシステムのブートストラップ",
+    "debugedit": "Tool to mangle source locations in .debug files",
     "deepin-account-faces": "Linux Deepin のアカウントフェイス",
     "deepin-album": "A fashion photo manager for viewing and organizing pictures",
     "deepin-anything": "Deepin Anything ファイル検索ツール",
