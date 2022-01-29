@@ -180,6 +180,7 @@
     "certbot-dns-gehirn": "Gehirn DNS Authenticator plugin for Certbot",
     "certbot-dns-google": "Google Cloud DNS Authenticator plugin for Certbot",
     "certbot-dns-hetzner": "Certbot plugin enabling dns-01 challenge on the Hetzner DNS API",
+    "certbot-dns-inwx": "INWX DNS authenticator plugin for certbot",
     "certbot-dns-linode": "Linode DNS Authenticator plugin for Certbot",
     "certbot-dns-luadns": "LuaDNS DNS Authenticator plugin for Certbot",
     "certbot-dns-nsone": "NS1 DNS Authenticator plugin for Certbot",

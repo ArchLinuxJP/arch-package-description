@@ -62,7 +62,6 @@
     "arch-signoff": "Sign off Arch Linux testing packages",
     "archboot": "Advanced, modular arch boot/install image creation utility",
     "archboot-arm": "Advanced, modular arch boot/install image creation utility with aarch64 depends",
-    "archboot-linux-firmware": "Firmware files for archboot creation",
     "archboot-qemu-aarch64": "Static qemu helper for aarch64 iso building",
     "archinstall": "Just another guided/automated Arch Linux installer with a twist",
     "archiso": "Инструмент для создания Arch Linux live и install образов",
