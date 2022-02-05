@@ -89,7 +89,6 @@
     "dbeaver-plugin-batik": "SVG フォーマットの DBeaver ライブラリ",
     "dbeaver-plugin-office": "Microsoft Office フォーマットでデータをエクスポートするための DBeaver プラグイン",
     "dbeaver-plugin-sshj": "DBeaver plugin for SSHv2 tunnels with Bouncy Castle algorithm",
-    "dbeaver-plugin-sshj-lib": "SSHv2 library for Java for DBeaver plugin for SSHv2 tunnels",
     "dbeaver-plugin-svg-format": "SVG フォーマットで図画を保存するための DBeaver プラグイン",
     "dblatex": "DocBook (XML and SGML) to DVI, PDF, PostScript converter using latex.",
     "dbmail": "高速でスケーラブルな sql ベースのメールサービス",
