@@ -84,6 +84,7 @@
     "bashtop": "Linux resource monitor",
     "bass": "Beneath A Steel Sky は暗黒の未来を舞台にした 2D ポイントアンドクリックフィクションスリラーです",
     "bat": "シンタックスハイライトと git の統合を備えた Cat クローン",
+    "bat-extras": "Bash scripts that integrate bat with various command line tools",
     "batctl": "B.A.T.M.A.N. の高度な制御・管理ツール",
     "bazel": "万人向きの正確・再現可能・高速なビルド",
     "bbe": "バイナリファイルの sed ライクなエディタ",
