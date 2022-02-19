@@ -348,6 +348,7 @@
     "csfml": "C bindings for sfml",
     "csound": "Programming language for sound rendering and signal processing",
     "csound-doc": "Programming language for sound rendering and signal processing - documentation",
+    "csound-plugins": "Extra opcodes for Csound",
     "csoundqt": "A frontend for Csound",
     "csvkit": "A suite of utilities for converting to and working with CSV",
     "ct": "config transpiler for Flatcar Container Linux",

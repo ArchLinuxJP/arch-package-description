@@ -34,6 +34,7 @@
     "dfu-programmer": "Atmel チップのプログラマと USB ブートローダー",
     "dhclient": "dhcp パッケージのスタンドアロン DHCP クライアント",
     "dhcp": "DHCP サーバー・クライアント・リレーエージェント",
+    "dht": "BitTorrent DHT library",
     "digikam": "先進的なデジタル写真管理アプリケーション",
     "directx-headers": "DirectX headers for using D3D12",
     "discount": "C で書かれた Markdown 実装",
