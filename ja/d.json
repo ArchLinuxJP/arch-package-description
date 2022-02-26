@@ -273,6 +273,7 @@
     "dpf-plugins": "DPF ベースのプラグイン集",
     "dpkg": "Debian パッケージマネージャツール",
     "dqlite": "Distributed SQLite",
+    "draco": "A library for compressing and decompressing 3D geometric meshes and point clouds",
     "dragonfly-reverb": "A concert hall reverb and a room reverb",
     "drawing": "GNOME デスクトップのお絵描きアプリケーション",
     "drbl": "Diskless Remote Boot in Linux: manage the deployment of the GNU/Linux operating system across many clients",
