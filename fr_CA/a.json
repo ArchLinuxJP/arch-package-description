@@ -110,6 +110,7 @@
     "aarch64-linux-gnu-gdb": "Débogueur GNU pour la cible ARM64",
     "aarch64-linux-gnu-glibc": "Bibliothèque C GNU pour la cible ARM64",
     "aarch64-linux-gnu-linux-api-headers": "Kernel headers sanitized for use in userspace (aarch64-linux-gnu)",
+    "aardvark-dns": "Authoritative dns server for A/AAAA container records",
     "abc": "System for Sequential Logic Synthesis and Formal Verification",
     "abcde": "Frontend command-line utility that grabs tracks off a CD, encodes them to ogg or mp3 format, and tags them, all in one go",
     "abduco": "Tool for session {at,de}tach support which allows a process to run independently from its controlling terminal",

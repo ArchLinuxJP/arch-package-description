@@ -148,6 +148,7 @@
     "cargo-tarpaulin": "Tool to analyse test coverage of cargo projects",
     "cargo-udeps": "Find unused dependencies in Cargo.toml",
     "cargo-watch": "Utility for Cargo to compile projects when sources change",
+    "cargo-zigbuild": "Compile Cargo project with zig as linker",
     "caribou": "A text entry and UI navigation application (on-screen keyboard)",
     "carla": "Audio Plugin Host",
     "castget": "Command-line based RSS enclosure downloader primarily intended for downloading of podcasts",
