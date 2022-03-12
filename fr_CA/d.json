@@ -244,6 +244,7 @@
     "docker-machine": "Machine management for a container-centric world",
     "docker-scan": "Docker Scan is a Command Line Interface to run vulnerability detection on your Dockerfiles and Docker images",
     "docopt": "Command line arguments parser for C++11 and later",
+    "docparser": "A document parser library ported from document2html",
     "doctest": "The lightest feature rich C++ single header testing framework",
     "doctl": "The official command line interface for the DigitalOcean API",
     "docx2txt": "Recovers text from DOCX files, with good formatting.",
