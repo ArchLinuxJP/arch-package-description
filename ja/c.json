@@ -4,7 +4,6 @@
     "ca-certificates-utils": "一般的な CA 証明書 (ユーティリティ)",
     "coreutils": "GNU オペレーティングシステムの基本ファイル・シェル・テキスト操作ユーティリティ",
     "cracklib": "パスワードチェックライブラリ",
-    "crda": "無線ネットワークの Central Regulatory Domain Agent",
     "cronie": "特定の時刻に指定したプログラムを実行するデーモンと関連ツール",
     "cryptsetup": "dm-crypt を使ってブロックデバイスを透過的に暗号化するためのユーザースペース設定ツール",
     "curl": "URL 検索ユーティリティ・ライブラリ",

@@ -4,7 +4,6 @@
     "ca-certificates-utils": "certificados de CA comuns (utilitários)",
     "coreutils": "Os arquivos, Shell e manipulação de texto utilitários básicos do sistema operacional GNU",
     "cracklib": "Biblioteca de verificação de senha",
-    "crda": "Central Reguladora Domínio Agente para redes sem fio",
     "cronie": "Daemon que executa programas especificados em horários programados e ferramentas relacionadas ",
     "cryptsetup": "ferramenta de configuração do espaço de usuário para criptografia transparente dos dispositivos de bloco usando dm-crypt",
     "curl": "Um utilitário de recuperação de URL e uma biblioteca",
