@@ -18,6 +18,7 @@
     "adobe-source-sans-fonts": "ユーザーインターフェイス環境用のサンセリフフォントファミリー",
     "adobe-source-serif-fonts": "Source Sansを補完するためにデザインされたセリフ体",
     "adwaita-icon-theme": "GNOME の標準アイコン",
+    "aha": "Ansi HTML Adapter: convert ANSI escape sequences to HTML",
     "aiksaurus": "クロスプラットフォーム、オープンソースの類語辞典",
     "aisleriot": "guile scheme で書かれたソリティアのコレクション",
     "akonadi": "あらゆる PIM データにアクセスする非同期 API を提供する PIM レイヤー",
@@ -150,6 +151,8 @@
     "adobe-source-han-serif-tw-fonts": "Adobe Source Han Serif Subset OTF - Traditional Chinese (Taiwan) OpenType/CFF fonts",
     "adrdox": "D のドキュメントジェネレータ",
     "adriconf": "オプションを設定して標準の drirc ファイルに書き込むことで Mesa ドライバーを設定する GUI ツール",
+    "adwaita-qt5": "A style to bend Qt5 applications to look like they belong into GNOME Shell",
+    "adwaita-qt6": "A style to bend Qt6 applications to look like they belong into GNOME Shell",
     "aegisub": "ASS/SSA に対応している汎用の字幕エディタ",
     "aeolus": "パイプオルガンのシンセサイズエミュレータ",
     "aerc": "ターミナルの電子メールクライアント",
@@ -287,10 +290,9 @@
     "aspell-sv": "aspell のスウェーデン語辞書",
     "aspell-uk": "aspell のウクライナ語辞書",
     "asplib": "Achim's Signal Processing LIBrary",
-    "aspnet-runtime-3.1": "ASP.NET Core ランタイム",
     "aspnet-runtime": "ASP.NET Core ランタイム",
-    "aspnet-targeting-pack-3.1": "ASP.NET Core ターゲティングパック",
     "aspnet-targeting-pack": "ASP.NET Core ターゲティングパック",
+    "astroid": "A graphical threads-with-tags style, lightweight and fast, e-mail client for Notmuch",
     "astromenace": "宇宙船をアップグレードすることができるハードコアな 3D スペースシューター",
     "astyle": "C, C++, C#, Java ソースコードを自動で整形するフリーな高速・小型のフォーマッタ",
     "asunder": "グラフィカルな CD リッパー・エンコーダ",
@@ -346,5 +348,6 @@
     "aws-vault": "開発環境で AWS 認証情報を安全に保存およびアクセスするための Vault",
     "awstats": "ウェブサーバーやストリーミングサーバー、ftp やメールサーバーの統計情報をグラフィカルに生成するツール",
     "awxkit": "ansible awx（tower）用の CLI クライアントと Python ライブラリ",
-    "axel": "軽量なコマンドラインダウンロードアクセラレータ"
+    "axel": "軽量なコマンドラインダウンロードアクセラレータ",
+    "ayatana-ido": "Ayatana Indicator Display Objects"
 }
