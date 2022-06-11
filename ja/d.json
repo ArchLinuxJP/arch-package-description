@@ -8,7 +8,7 @@
     "dhcpcd": "RFC2131 準拠の DHCP クライアントデーモン",
     "dialog": "シェルスクリプトからダイアログボックスを表示するツール",
     "diffutils": "パッチファイルを作成するためのユーティリティプログラム",
-    "ding-libs": "'D is not GLib' ユーティリティライブラリ",
+    "ding-libs": "\"DING is not GNU\" helper libraries for SSSD and FreeIPA",
     "dmraid": "Device mapper RAID インターフェイス",
     "dnssec-anchors": "DNSSEC trust anchors for the root zone",
     "dosfstools": "DOS ファイルシステムユーティリティ",
