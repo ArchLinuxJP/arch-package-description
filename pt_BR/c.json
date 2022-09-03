@@ -103,6 +103,7 @@
     "calcurse": "A text-based personal organizer",
     "calf": "LV2 plug-in suite and standalone Jack host",
     "calibre": "Ebook management application",
+    "camlp-streams": "The Stream and Genlex libraries for use with Camlp4 and Camlp5.",
     "camlp4": "Caml preprocessor and pretty-printer",
     "camlp5": "A preprocessor-pretty-printer of OCaml.",
     "cantata": "Qt5 client for the music player daemon (MPD)",
@@ -300,8 +301,10 @@
     "cockatrice": "A cross-platform virtual tabletop for multiplayer card games",
     "cockpit": "A systemd web based user interface for Linux servers",
     "cockpit-machines": "Cockpit UI for virtual machines",
+    "cockpit-packagekit": "Cockpit user interface for packages",
     "cockpit-pcp": "Cockpit support for reading PCP metrics and loading PCP archives",
     "cockpit-podman": "Cockpit UI for podman containers",
+    "cockpit-storaged": "Cockpit user interface for storage, using udisks",
     "cocogitto": "Set of CLI tools for the conventional commit and semver specifications",
     "code": "The Open Source build of Visual Studio Code (vscode) editor",
     "codeblocks": "Cross-platform C/C++ IDE",
@@ -423,6 +426,5 @@
     "cxxopts": "Lightweight C++ command line option parser",
     "cxxtest": "Unidade de testes framework para C++",
     "cycfx2prog": "CycFX2Prog is a small and useful tool to program the FX2 and do basic enpoint communication for testing purposes",
-    "cython": "Extensões C pra Python",
-    "cython2": "Extensões C pra Python"
+    "cython": "Extensões C pra Python"
 }

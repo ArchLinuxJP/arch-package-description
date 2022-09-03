@@ -103,6 +103,7 @@
     "calcurse": "A text-based personal organizer",
     "calf": "LV2 プラグインスイートとスタンドアロン Jack ホスト",
     "calibre": "電子書籍管理アプリケーション",
+    "camlp-streams": "The Stream and Genlex libraries for use with Camlp4 and Camlp5.",
     "camlp4": "Caml プリプロセッサ・プリティプリンタ",
     "camlp5": "OCaml のプリプロセッサプリティプリンタ",
     "cantata": "music player daemon (MPD) の Qt5 クライアント",
@@ -300,8 +301,10 @@
     "cockatrice": "A cross-platform virtual tabletop for multiplayer card games",
     "cockpit": "Linux サーバーのための systemd ウェブベースユーザーインターフェイス",
     "cockpit-machines": "Cockpit UI for virtual machines",
+    "cockpit-packagekit": "Cockpit user interface for packages",
     "cockpit-pcp": "Cockpit support for reading PCP metrics and loading PCP archives",
     "cockpit-podman": "Cockpit UI for podman containers",
+    "cockpit-storaged": "Cockpit user interface for storage, using udisks",
     "cocogitto": "Set of CLI tools for the conventional commit and semver specifications",
     "code": "Visual Studio Code (vscode) エディタのオープンソースビルド",
     "codeblocks": "クロスプラットフォームの C/C++ IDE",
@@ -423,6 +426,5 @@
     "cxxopts": "Lightweight C++ command line option parser",
     "cxxtest": "C++ のユニットテストフレームワーク",
     "cycfx2prog": "CycFX2Prog is a small and useful tool to program the FX2 and do basic enpoint communication for testing purposes",
-    "cython": "Python の C 拡張",
-    "cython2": "Python の C 拡張"
+    "cython": "Python の C 拡張"
 }
