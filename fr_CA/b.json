@@ -99,8 +99,6 @@
     "bchoppr": "An audio stream chopping LV2 plugin",
     "bchunk": "Outil de conversion de fichiers *.raw *.bin en ISO",
     "bcprov": "Bouncy Castle Crypto APIs for Java",
-    "bctoolbox": "A library written in C that allows you to create and run audio and video streams",
-    "bcunit": "Système léger pour l’écriture, l’administration et la mise en œuvre de test unitaires en C",
     "bear": "A tool to generate compilation database for clang tooling",
     "bearssl": "Implementation of the SSL/TLS protocol (RFC 5246) written in C",
     "beatslash-lv2": "A set of plugins for live beat repeating and beat slicing",
@@ -117,6 +115,7 @@
     "bettercap": "Couteau suisse pour la surveillance et les attaques réseau",
     "bettercap-caplets": "Scripts pour Bettercap (caplets) et modules de proxy",
     "biber": "A Unicode-capable BibTeX replacement for biblatex users",
+    "biblesync": "multicast shared co-navigation library for Bible programs",
     "bibletime": "Bible study tool",
     "bibtool": "A tool for manipulating BibTeX files",
     "bibutils": "Bibliography format interconversion",
@@ -202,9 +201,10 @@
     "bucklespring": "Son de nostalgie des claviers bucklespring, samplé du Model-M de IBM",
     "buckygen": "Programme pour générer efficacement tous les fullerènes non isomorphes",
     "buddy": "Binary Decision Diagram Library",
+    "budgie-control-center": "Budgie's main interface to configure various aspects of the system",
     "budgie-desktop": "A familiar, modern desktop environment",
-    "budgie-desktop-view": "Desktop icons for the Budgie Desktop",
-    "budgie-extras": "Additional Budgie Desktop enhancements for the user experience",
+    "budgie-desktop-view": "Desktop icons implementation for the Budgie Desktop",
+    "budgie-extras": "Additional Budgie Desktop components from the Ubuntu Budgie team",
     "budgie-screensaver": "Screensaver for the Budgie Desktop",
     "bugzilla": "Suivi de bugs",
     "buho": "Task and note keeper",
@@ -226,5 +226,5 @@
     "byacc": "Réimplémentation par Berkeley du générateur d’analyseur syntaxique Yacc d’Unix",
     "byobu": "Enhanced tmux",
     "byzanz": "Enregistre ce qui se passe sur votre bureau",
-    "bzrtp": "Open source implementation of ZRTP keys exchange protocol"
+    "bzip3": "A better and stronger spiritual successor to BZip2"
 }

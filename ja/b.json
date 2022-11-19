@@ -99,8 +99,6 @@
     "bchoppr": "An audio stream chopping LV2 plugin",
     "bchunk": "*.raw *.bin ファイルを ISO ファイルに変換するツール",
     "bcprov": "Bouncy Castle Crypto APIs for Java",
-    "bctoolbox": "音声・動画ストリームを作成・実行するための C で書かれたライブラリ",
-    "bcunit": "C でユニットテストを記述・管理・実行するための軽量システム",
     "bear": "A tool to generate compilation database for clang tooling",
     "bearssl": "Implementation of the SSL/TLS protocol (RFC 5246) written in C",
     "beatslash-lv2": "ライブビートリピート・スライスのためのプラグイン集",
@@ -228,5 +226,5 @@
     "byacc": "Unix のパーサージェネレータ Yacc の Berkeley による再実装",
     "byobu": "Enhanced tmux",
     "byzanz": "デスクトップ上で起こっていることを録画",
-    "bzrtp": "Open source implementation of ZRTP keys exchange protocol"
+    "bzip3": "A better and stronger spiritual successor to BZip2"
 }
