@@ -2,12 +2,12 @@
     "package-search": "Package Search",
     "notfound": "No matching packages found",
     "arch": "Arch",
-    "architecture": "Architecture",
-    "repository": "Repository",
+    "architecture": "Arquitetura",
+    "repository": "Repositório",
     "keyword": "Keywords",
-    "name": "Name",
-    "version": "Version",
-    "description": "Description",
+    "name": "Nome",
+    "version": "Versão",
+    "description": "Descrição",
     "lastupdated": "Last Updated",
     "prev": "Prev",
     "next": "Next",
@@ -32,7 +32,7 @@
     "securityissue": "Security Issues",
     "basepackage": "Base Package",
     "groups": "Groups",
-    "dependencies": "Dependencies",
+    "dependencies": "Dependências",
     "packagecontents": "Package Contents",
     "filelist": "View the file list for %s",
     "requiredby": "Required By %s",
@@ -40,5 +40,5 @@
     "make": "(make)",
     "provides": "Provides",
     "replaces": "Replaces",
-    "conflicts": "Conflicts"
+    "conflicts": "Conflitos"
 }

@@ -352,7 +352,7 @@
     "aws-sdk-cpp": "C++ の AWS SDK",
     "aws-vault": "開発環境で AWS 認証情報を安全に保存およびアクセスするための Vault",
     "awstats": "ウェブサーバーやストリーミングサーバー、ftp やメールサーバーの統計情報をグラフィカルに生成するツール",
-    "awxkit": "The official command line interface for Ansible AWX",
+    "awxkit": "ansible awx（tower）用の CLI クライアントと Python ライブラリ",
     "axel": "軽量なコマンドラインダウンロードアクセラレータ",
     "ayatana-ido": "Ayatana Indicator Display Objects"
 }
